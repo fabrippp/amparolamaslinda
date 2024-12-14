@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "98654513-3dcd-332a-b68b-874d255259ae",
+    "name": "sushint",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
