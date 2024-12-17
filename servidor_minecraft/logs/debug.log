@@ -7398,3 +7398,16 @@ second=(0.997219443321228, 0.0, -0.07442506402730942)
 first=(-0.19960175454616547, 0.0, 0.9798771142959595)
 second=(0.743392825126648, 0.0, -0.6687837839126587)
 [17Dec2024 20:59:37.152] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8037084364805782
+[17Dec2024 21:00:23.109] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9043578505516052, 0.0, -0.42677491903305054)
+second=(-0.21638761460781097, 0.0, -0.9763075113296509)
+[17Dec2024 21:00:23.110] [Server thread/DEBUG] [greekfantasy/]: dot=0.22097172106636176
+[17Dec2024 21:00:25.191] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7543838024139404, 0.0, 0.6564335823059082)
+second=(0.4598577618598938, 0.0, -0.8879485130310059)
+[17Dec2024 21:00:25.192] [Server thread/DEBUG] [greekfantasy/]: dot=-0.2359699763507166
+[17Dec2024 21:03:19.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:03:19.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 21:07:27.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/156, l='ServerLevel[world]', x=-317.30, y=64.00, z=807.47] died, message: 'Leatherworker was slain by Zombie Girl'
+[17Dec2024 21:08:19.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:08:19.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
