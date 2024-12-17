@@ -205,7 +205,8 @@
       "bread": "2024-12-17 06:05:37 +0000",
       "dried_kelp": "2024-12-17 05:31:16 +0000",
       "cooked_chicken": "2024-12-17 06:51:28 +0000",
-      "cooked_salmon": "2024-12-17 05:27:51 +0000"
+      "cooked_salmon": "2024-12-17 05:27:51 +0000",
+      "carrot": "2024-12-17 07:01:41 +0000"
     },
     "done": false
   },
@@ -490,6 +491,12 @@
       "has_recipe": "2024-12-17 05:18:12 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-17 07:05:11 +0000"
+    },
+    "done": false
   },
   "diamethysts:armor/diamethyst_prismarine_horse_armor": {
     "criteria": {
@@ -938,6 +945,12 @@
   "diamethysts:armor/diamethyst_emerald_chestplate": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-17 07:05:11 +0000"
     },
     "done": true
   },

@@ -8469,3 +8469,34 @@ second=(-0.6746078729629517, 0.0, -0.7381762862205505)
 [17Dec2024 06:59:31.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
 [17Dec2024 06:59:56.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9579ms or 191 ticks behind
 [17Dec2024 07:00:17.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6137ms or 122 ticks behind
+[17Dec2024 07:02:18.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[17Dec2024 07:03:27.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 07:03:27.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 07:05:09.544] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9371384382247925, 0.0, 0.3489578068256378)
+second=(0.9662641286849976, 0.0, -0.2574605643749237)
+[17Dec2024 07:05:09.545] [Server thread/DEBUG] [greekfantasy/]: dot=0.8156803825801342
+[17Dec2024 07:05:11.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Monster Hunter]
+[17Dec2024 07:05:11.522] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.40023931860923767, 0.0, -0.9164106845855713)
+second=(0.8698979020118713, 0.0, -0.49314841628074646)
+[17Dec2024 07:05:11.523] [Server thread/DEBUG] [greekfantasy/]: dot=0.8000938213269659
+[17Dec2024 07:05:13.361] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9986749887466431, 0.0, -0.051461488008499146)
+second=(-0.999889612197876, 0.0, 0.01485989149659872)
+[17Dec2024 07:05:13.361] [Server thread/DEBUG] [greekfantasy/]: dot=0.9978000350815392
+[17Dec2024 07:06:30.059] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.0054647792130708694, 0.0, 0.9999850392341614)
+second=(0.872346043586731, 0.0, -0.48880526423454285)
+[17Dec2024 07:06:30.059] [Server thread/DEBUG] [greekfantasy/]: dot=-0.48403077280784657
+[17Dec2024 07:06:44.670] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.19650059938430786, 0.0, -0.9805036783218384)
+second=(0.4011177122592926, 0.0, -0.915988028049469)
+[17Dec2024 07:06:44.670] [Server thread/DEBUG] [greekfantasy/]: dot=0.8193097599186583
+[17Dec2024 07:06:49.150] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.10221438854932785, 0.0, 0.9947624206542969)
+second=(0.3437413275241852, 0.0, -0.9390314221382141)
+[17Dec2024 07:06:49.151] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8989778609446379
+[17Dec2024 07:08:27.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 07:08:27.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 07:09:31.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
