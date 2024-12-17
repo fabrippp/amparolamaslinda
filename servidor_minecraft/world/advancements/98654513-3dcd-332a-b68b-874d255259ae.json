@@ -724,6 +724,12 @@
     },
     "done": true
   },
+  "gnumus:vasebreaker": {
+    "criteria": {
+      "vasebreaker": "2024-12-17 06:42:37 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_emerald_sickle": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"

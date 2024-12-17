@@ -712,6 +712,12 @@
     },
     "done": true
   },
+  "gnumus:vasebreaker": {
+    "criteria": {
+      "vasebreaker": "2024-12-17 06:42:54 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_emerald_sickle": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -799,6 +805,12 @@
   "diamethysts:armor/diamethyst_gold_horse_armor": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-17 06:43:47 +0000"
     },
     "done": true
   },

@@ -8437,3 +8437,27 @@ second=(-0.9905246496200562, 0.0, 0.13733522593975067)
 [17Dec2024 06:37:37.480] [Server thread/INFO] [Jade/]: Syncing config to sushint (98654513-3dcd-332a-b68b-874d255259ae)
 [17Dec2024 06:37:52.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 06:37:52.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 06:41:55.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[17Dec2024 06:42:18.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7370ms or 147 ticks behind
+[17Dec2024 06:42:37.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Vasebreaker]
+[17Dec2024 06:42:53.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[17Dec2024 06:42:54.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Vasebreaker]
+[17Dec2024 06:43:07.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 06:43:07.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 06:43:11.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3210ms or 64 ticks behind
+[17Dec2024 06:47:30.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.byg.forager'/18270, l='ServerLevel[world]', x=-352.49, y=65.00, z=828.85] died, message: 'entity.minecraft.villager.byg.forager was slain by Door Knight'
+[17Dec2024 06:48:07.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 06:48:07.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 06:49:13.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Acquire Hardware]
+[17Dec2024 06:49:29.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17457, l='ServerLevel[world]', x=-238.93, y=66.00, z=767.91] died, message: 'Villager was slain by Door Knight'
+[17Dec2024 06:49:41.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18377, l='ServerLevel[world]', x=-240.58, y=66.00, z=763.08] died, message: 'Villager was slain by Door Knight'
+[17Dec2024 06:49:48.586] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17330, l='ServerLevel[world]', x=-238.30, y=66.00, z=763.93] died, message: 'Villager was slain by Door Knight'
+[17Dec2024 06:50:22.730] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/17796, l='ServerLevel[world]', x=-317.03, y=68.04, z=853.13] died, message: 'Toolsmith was slain by sushint'
+[17Dec2024 06:50:31.698] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5806578397750854, 0.0, 0.8141477108001709)
+second=(-0.9366020560264587, 0.0, -0.35039496421813965)
+[17Dec2024 06:50:31.698] [Server thread/DEBUG] [greekfantasy/]: dot=0.2585720685871209
+[17Dec2024 06:50:33.664] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7469731569290161, 0.0, 0.6648542284965515)
+second=(-0.6746078729629517, 0.0, -0.7381762862205505)
+[17Dec2024 06:50:33.664] [Server thread/DEBUG] [greekfantasy/]: dot=0.01313434728669094
