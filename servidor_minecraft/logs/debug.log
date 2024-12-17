@@ -7988,3 +7988,158 @@ second=(-0.7858033776283264, 0.0, 0.618476390838623)
 [17Dec2024 06:00:59.782] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-230, y=25, z=-1225}
 [17Dec2024 06:00:59.784] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=25, z=-1227}
 [17Dec2024 06:01:04.825] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
+[17Dec2024 06:01:24.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 06:01:24.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 06:01:45.048] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[17Dec2024 06:01:45.371] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=29, z=-1205}
+[17Dec2024 06:01:45.742] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-1202}
+[17Dec2024 06:01:45.743] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=25, z=-1209}
+[17Dec2024 06:01:46.454] [Server thread/DEBUG] [mixin/]: Mixing ModifyPiglinAi from bygonenether.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Dec2024 06:01:46.459] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$1(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)V to mddc3f6d$lambda$bygonenether_angerNearbyPiglins$1$0 in bygonenether.mixins.json:ModifyPiglinAi
+[17Dec2024 06:01:46.459] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$0(ZLnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)Z to mddc3f6d$lambda$bygonenether_angerNearbyPiglins$0$1 in bygonenether.mixins.json:ModifyPiglinAi
+[17Dec2024 06:01:46.467] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Dec2024 06:01:49.770] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=27, z=-1221}
+[17Dec2024 06:01:50.784] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.10755370557308197, 0.0, -0.994199275970459)
+second=(-0.09391359984874725, 0.0, 0.9955803751945496)
+[17Dec2024 06:01:50.784] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9999060438562595
+[17Dec2024 06:01:52.787] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.04763124883174896, 0.0, -0.998865008354187)
+second=(-0.5325654149055481, 0.0, 0.8463888168334961)
+[17Dec2024 06:01:52.788] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8200614168007307
+[17Dec2024 06:01:54.224] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[17Dec2024 06:01:54.772] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.04763124883174896, 0.0, -0.998865008354187)
+second=(-0.2453974336385727, 0.0, 0.9694225788116455)
+[17Dec2024 06:01:54.773] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9566337060591203
+[17Dec2024 06:01:56.797] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.020227991044521332, 0.0, -0.9997953772544861)
+second=(0.08579730987548828, 0.0, 0.9963126182556152)
+[17Dec2024 06:01:56.797] [Server thread/DEBUG] [greekfantasy/]: dot=-0.997844257248083
+[17Dec2024 06:01:57.225] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[17Dec2024 06:01:59.519] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[17Dec2024 06:01:59.520] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[17Dec2024 06:01:59.520] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[17Dec2024 06:01:59.668] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[17Dec2024 06:02:06.909] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[17Dec2024 06:02:07.737] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-1203}
+[17Dec2024 06:02:07.749] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=26, z=-1204}
+[17Dec2024 06:02:08.339] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[17Dec2024 06:02:13.876] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=28, z=-1201}
+[17Dec2024 06:03:00.218] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-377, y=26, z=-1247}
+[17Dec2024 06:03:37.741] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[17Dec2024 06:03:37.742] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[17Dec2024 06:03:37.743] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[17Dec2024 06:03:37.743] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[17Dec2024 06:03:37.744] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[17Dec2024 06:03:37.744] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[17Dec2024 06:03:37.745] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[17Dec2024 06:03:37.745] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[17Dec2024 06:03:37.748] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[17Dec2024 06:03:37.749] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[17Dec2024 06:03:37.749] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[17Dec2024 06:03:37.750] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[17Dec2024 06:03:37.750] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[17Dec2024 06:03:44.014] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-631}
+[17Dec2024 06:03:44.017] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-629}
+[17Dec2024 06:03:44.018] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-626}
+[17Dec2024 06:03:44.018] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-628}
+[17Dec2024 06:03:44.019] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-626}
+[17Dec2024 06:03:44.020] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-623}
+[17Dec2024 06:03:44.021] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-622}
+[17Dec2024 06:03:44.022] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-623}
+[17Dec2024 06:03:44.023] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-622}
+[17Dec2024 06:03:44.024] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-622}
+[17Dec2024 06:03:44.024] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
+[17Dec2024 06:03:44.025] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
+[17Dec2024 06:03:45.665] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-259, y=32, z=-606}
+[17Dec2024 06:03:45.668] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-260, y=32, z=-606}
+[17Dec2024 06:03:45.669] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=31, z=-608}
+[17Dec2024 06:03:46.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Dec2024 06:04:05.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3501ms or 70 ticks behind
+[17Dec2024 06:04:09.414] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1246}
+[17Dec2024 06:04:09.418] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1247}
+[17Dec2024 06:04:09.419] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1246}
+[17Dec2024 06:04:09.420] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1247}
+[17Dec2024 06:04:09.422] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1241}
+[17Dec2024 06:04:09.880] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
+[17Dec2024 06:04:09.880] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
+[17Dec2024 06:04:09.880] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
+[17Dec2024 06:04:09.881] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
+[17Dec2024 06:04:10.219] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-211, y=27, z=-1224}
+[17Dec2024 06:04:10.221] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=25, z=-1221}
+[17Dec2024 06:04:10.591] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=27, z=-1243}
+[17Dec2024 06:04:10.591] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=27, z=-1245}
+[17Dec2024 06:04:49.887] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
+[17Dec2024 06:04:50.395] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=26, z=-1243}
+[17Dec2024 06:05:25.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Mine? Mine? Mine?]
+[17Dec2024 06:06:30.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 06:06:30.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 06:07:14.164] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9997375011444092, 0.0, -0.022911833599209785)
+second=(-0.995080828666687, 0.0, -0.09906662255525589)
+[17Dec2024 06:07:14.164] [Server thread/DEBUG] [greekfantasy/]: dot=0.9970894190591634
+[17Dec2024 06:07:16.168] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9983514547348022, 0.0, 0.057396844029426575)
+second=(-0.9946243166923523, 0.0, 0.10354950278997421)
+[17Dec2024 06:07:16.168] [Server thread/DEBUG] [greekfantasy/]: dot=0.9989280481453794
+[17Dec2024 06:09:17.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Sweet Dreams]
+[17Dec2024 06:09:32.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> w tr
+[17Dec2024 06:10:08.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Sweet Dreams]
+[17Dec2024 06:10:29.527] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.2527327537536621, 0.0, 0.9675361514091492)
+second=(0.373630553483963, 0.0, -0.9275417923927307)
+[17Dec2024 06:10:29.528] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8030015374142998
+[17Dec2024 06:10:31.293] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.012655003927648067, 0.0, 0.9999199509620667)
+second=(0.06017237529158592, 0.0, -0.9981822371482849)
+[17Dec2024 06:10:31.293] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9973408519748681
+[17Dec2024 06:10:33.030] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.008053312078118324, 0.0, 0.9999675750732422)
+second=(0.19349153339862823, 0.0, -0.9810833930969238)
+[17Dec2024 06:10:33.031] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9794933338368266
+[17Dec2024 06:10:34.763] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.016201963648200035, 0.0, 0.9998687505722046)
+second=(0.15611249208450317, 0.0, -0.9877243041992188)
+[17Dec2024 06:10:34.763] [Server thread/DEBUG] [greekfantasy/]: dot=-0.98506533702769
+[17Dec2024 06:10:35.264] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.06639166921377182, 0.0, 0.9977936148643494)
+second=(0.9648674130439758, 0.0, -0.26264476776123047)
+[17Dec2024 06:10:35.264] [Server thread/DEBUG] [greekfantasy/]: dot=-0.1980061141277223
+[17Dec2024 06:10:36.511] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.008436794392764568, 0.0, 0.9999644160270691)
+second=(0.1303994506597519, 0.0, -0.9914490580558777)
+[17Dec2024 06:10:36.511] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9903136250052876
+[17Dec2024 06:10:37.760] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.027703983709216118, 0.0, 0.9996161460876465)
+second=(0.9757860898971558, 0.0, -0.2186334878206253)
+[17Dec2024 06:10:37.761] [Server thread/DEBUG] [greekfantasy/]: dot=-0.19151640256276337
+[17Dec2024 06:10:38.264] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.016297824680805206, 0.0, 0.9998672008514404)
+second=(0.059693869203329086, 0.0, -0.9982110261917114)
+[17Dec2024 06:10:38.265] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9971055844025556
+[17Dec2024 06:10:39.960] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.48403051495552063, 0.0, 0.8750511407852173)
+second=(0.663564145565033, 0.0, -0.7480557560920715)
+[17Dec2024 06:10:39.960] [Server thread/DEBUG] [greekfantasy/]: dot=-0.3334017476554525
+[17Dec2024 06:10:41.724] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.646907389163971, 0.0, 0.7625685334205627)
+second=(0.6609781384468079, 0.0, -0.7503418326377869)
+[17Dec2024 06:10:41.724] [Server thread/DEBUG] [greekfantasy/]: dot=-0.14459542904160827
+[17Dec2024 06:10:43.479] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6856421828269958, 0.0, 0.727938711643219)
+second=(0.6682847142219543, 0.0, -0.7438415288925171)
+[17Dec2024 06:10:43.479] [Server thread/DEBUG] [greekfantasy/]: dot=-0.08326685399968525
+[17Dec2024 06:10:48.014] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.625682532787323, 0.0, -0.7800778150558472)
+second=(0.9739277362823486, 0.0, -0.22676502168178558)
+[17Dec2024 06:10:48.015] [Server thread/DEBUG] [greekfantasy/]: dot=-0.43247521014434476
+[17Dec2024 06:10:48.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Minotaurus
+[17Dec2024 06:10:50.609] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.007861570455133915, 0.0, -0.9999691247940063)
+second=(0.8795145750045776, 0.0, -0.47578760981559753)
+[17Dec2024 06:10:50.610] [Server thread/DEBUG] [greekfantasy/]: dot=0.4826872855728509
+[17Dec2024 06:10:53.163] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.48997578024864197, 0.0, -0.8717360496520996)
+second=(0.8027504086494446, 0.0, -0.5962381958961487)
+[17Dec2024 06:10:53.163] [Server thread/DEBUG] [greekfantasy/]: dot=0.12643407171927556

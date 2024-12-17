@@ -200,6 +200,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-17 05:45:32 +0000",
+      "cooked_mutton": "2024-12-17 06:02:50 +0000",
+      "bread": "2024-12-17 06:05:56 +0000",
       "dried_kelp": "2024-12-17 05:30:01 +0000",
       "salmon": "2024-12-17 05:25:57 +0000"
     },
@@ -907,6 +909,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-17 05:58:05 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_lapis_hilt": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -1147,6 +1155,12 @@
   "diamethysts:tools/diamethyst_diamond_pickaxe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-12-17 06:00:49 +0000"
     },
     "done": true
   },
