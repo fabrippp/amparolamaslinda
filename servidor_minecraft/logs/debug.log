@@ -7331,3 +7331,70 @@ java.lang.OutOfMemoryError: Java heap space
 [17Dec2024 20:45:49.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
 [17Dec2024 20:48:17.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 20:48:17.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:49:23.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17Dec2024 20:53:19.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:53:19.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:53:46.280] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9059878587722778, 0.0, -0.42330360412597656)
+second=(0.299994558095932, 0.0, 0.9539409279823303)
+[17Dec2024 20:53:46.280] [Server thread/DEBUG] [greekfantasy/]: dot=-0.13201520560552993
+[17Dec2024 20:53:48.372] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.04178880527615547, 0.0, -0.9991264939308167)
+second=(0.0028762100264430046, 0.0, 0.9999958872795105)
+[17Dec2024 20:53:48.372] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9992425781835418
+[17Dec2024 20:53:50.348] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8089380860328674, 0.0, -0.5878938436508179)
+second=(-0.520338773727417, 0.0, 0.8539599180221558)
+[17Dec2024 20:53:50.348] [Server thread/DEBUG] [greekfantasy/]: dot=-0.0811159268220365
+[17Dec2024 20:54:10.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/185, l='ServerLevel[world]', x=-306.49, y=64.00, z=786.05] died, message: 'Farmer was slain by Decaying Zombie'
+[17Dec2024 20:54:19.629] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6773632168769836, 0.0, 0.7356486916542053)
+second=(-0.17889109253883362, 0.0, 0.9838688969612122)
+[17Dec2024 20:54:19.630] [Server thread/DEBUG] [greekfantasy/]: dot=0.6026076208960394
+[17Dec2024 20:57:47.730] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.5345925688743591, 0.0, -0.8451099395751953)
+second=(0.02952483855187893, 0.0, 0.9995640516281128)
+[17Dec2024 20:57:47.731] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8289577559859221
+[17Dec2024 20:57:49.733] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7331108450889587, 0.0, -0.6801091432571411)
+second=(-0.9050114750862122, 0.0, 0.4253871440887451)
+[17Dec2024 20:57:49.733] [Server thread/DEBUG] [greekfantasy/]: dot=0.37416404119685964
+[17Dec2024 20:57:51.686] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.3105849027633667, 0.0, 0.9505456686019897)
+second=(-0.760393500328064, 0.0, -0.6494626402854919)
+[17Dec2024 20:57:51.686] [Server thread/DEBUG] [greekfantasy/]: dot=-0.3811771582808987
+[17Dec2024 20:57:54.471] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.33137768507003784, 0.0, 0.9434981942176819)
+second=(0.564703643321991, 0.0, 0.825293779373169)
+[17Dec2024 20:57:54.471] [Server thread/DEBUG] [greekfantasy/]: dot=0.9657933766123286
+[17Dec2024 20:57:56.591] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7821131944656372, 0.0, -0.6231363415718079)
+second=(0.06878303736448288, 0.0, 0.9976316690444946)
+[17Dec2024 20:57:56.591] [Server thread/DEBUG] [greekfantasy/]: dot=-0.675456669562748
+[17Dec2024 20:57:58.316] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.80701744556427, 0.0, -0.5905275940895081)
+second=(-0.8218132853507996, 0.0, 0.5697569251060486)
+[17Dec2024 20:57:58.317] [Server thread/DEBUG] [greekfantasy/]: dot=0.3267604720758719
+[17Dec2024 20:58:04.680] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.18454773724079132, 0.0, -0.9828235507011414)
+second=(-0.39566564559936523, 0.0, 0.9183946251869202)
+[17Dec2024 20:58:04.681] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9756390660703325
+[17Dec2024 20:58:06.733] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8439804911613464, 0.0, 0.5363739132881165)
+second=(-0.845928966999054, 0.0, 0.5332955718040466)
+[17Dec2024 20:58:06.734] [Server thread/DEBUG] [greekfantasy/]: dot=-0.4279017122677118
+[17Dec2024 20:58:11.372] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3845427334308624, 0.0, 0.9231072068214417)
+second=(0.9845812320709229, 0.0, -0.1748335063457489)
+[17Dec2024 20:58:11.372] [Server thread/DEBUG] [greekfantasy/]: dot=0.21722348856365592
+[17Dec2024 20:58:13.389] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9976118206977844, 0.0, -0.06906997412443161)
+second=(0.997219443321228, 0.0, -0.07442506402730942)
+[17Dec2024 20:58:13.389] [Server thread/DEBUG] [greekfantasy/]: dot=0.9999784417334967
+[17Dec2024 20:58:19.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:58:19.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:58:42.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was doomed to fall by Harpy
+[17Dec2024 20:59:37.152] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.19960175454616547, 0.0, 0.9798771142959595)
+second=(0.743392825126648, 0.0, -0.6687837839126587)
+[17Dec2024 20:59:37.152] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8037084364805782

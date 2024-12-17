@@ -494,6 +494,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-17 20:57:58 +0000",
       "minecraft:zombie": "2024-12-17 07:05:11 +0000"
     },
     "done": false
@@ -837,6 +838,12 @@
   "diamethysts:armor/diamethyst_gold_horse_armor": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-17 20:55:51 +0000"
     },
     "done": true
   },
