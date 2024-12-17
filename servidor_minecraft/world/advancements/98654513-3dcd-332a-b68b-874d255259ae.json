@@ -200,6 +200,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-17 05:32:35 +0000",
+      "baked_potato": "2024-12-17 06:26:42 +0000",
+      "apple": "2024-12-17 06:24:55 +0000",
       "bread": "2024-12-17 06:05:37 +0000",
       "dried_kelp": "2024-12-17 05:31:16 +0000",
       "cooked_salmon": "2024-12-17 05:27:51 +0000"
@@ -1251,6 +1253,12 @@
   "diamethysts:weapons/diamethyst_bow": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-17 06:23:20 +0000"
     },
     "done": true
   },
