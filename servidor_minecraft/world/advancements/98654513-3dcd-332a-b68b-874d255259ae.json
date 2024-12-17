@@ -204,6 +204,7 @@
       "apple": "2024-12-17 06:24:55 +0000",
       "bread": "2024-12-17 06:05:37 +0000",
       "dried_kelp": "2024-12-17 05:31:16 +0000",
+      "cooked_chicken": "2024-12-17 06:51:28 +0000",
       "cooked_salmon": "2024-12-17 05:27:51 +0000"
     },
     "done": false
@@ -1271,6 +1272,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2024-12-17 06:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-17 06:49:13 +0000"
     },
     "done": true
   },

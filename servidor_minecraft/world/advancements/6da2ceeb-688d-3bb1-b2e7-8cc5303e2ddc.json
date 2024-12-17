@@ -1075,6 +1075,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-17 06:55:28 +0000"
+    },
+    "done": true
+  },
   "diamethysts:armor/diamethyst_emerald_helmet": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
