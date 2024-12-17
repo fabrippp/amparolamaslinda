@@ -2173,3 +2173,18 @@ java.lang.OutOfMemoryError: Java heap space
 [17Dec2024 05:18:40.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-27, y=68, z=-67}
 [17Dec2024 05:18:40.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-28, y=68, z=-66}
 [17Dec2024 05:18:40.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-28, y=68, z=-66}
+[17Dec2024 05:26:34.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Stone Age]
+[17Dec2024 05:27:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Stone Age]
+[17Dec2024 05:28:43.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso a amparo jiji'. Is the client/server system time unsynchronized?
+[17Dec2024 05:28:43.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * sushint beso a amparo jiji
+[17Dec2024 05:29:04.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'mas besos a amparo'. Is the client/server system time unsynchronized?
+[17Dec2024 05:29:04.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * sushint mas besos a amparo
+[17Dec2024 05:29:16.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> *BESO A FABRI Y LE DOY MUCHA MAMADA: ampamp4
+[17Dec2024 05:29:43.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'se vino en cara de su hermosa novia amparo :3'. Is the client/server system time unsynchronized?
+[17Dec2024 05:29:43.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * sushint se vino en cara de su hermosa novia amparo :3
+[17Dec2024 05:30:41.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Getting an Upgrade]
+[17Dec2024 05:30:53.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Getting an Upgrade]
+[17Dec2024 05:38:47.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Yuki-Onna
+[17Dec2024 05:39:41.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[17Dec2024 05:39:50.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[17Dec2024 05:44:05.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]

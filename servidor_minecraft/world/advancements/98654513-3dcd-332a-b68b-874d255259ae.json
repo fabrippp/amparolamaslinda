@@ -1,0 +1,1251 @@
+{
+  "diamethysts:armor/diamethyst_netherite_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_lapis_scimitar": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_bow_upper_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_copper_arrow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_emerald_hoe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_gold_pickaxe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_lapis_bow_upper_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_crystal": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_gold_hilt": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_gold_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_diamond_battle_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_gold_bow_upper_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/chain_link_maker": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_iron_bow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_iron_sickle": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_gold_chain": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_emerald_scimitar": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_iron_plate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_prismarine_hilt": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_lapis_mesh": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_gold_chain_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_copper_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_iron_chain_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_iron_shovel": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/strung_diamond": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_emerald_bow_upper_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_diamond_scimitar": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_prismarine_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_copper_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_diamond_mesh": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_arrow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_iron_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_iron_arrow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-12-17 05:32:35 +0000",
+      "dried_kelp": "2024-12-17 05:31:16 +0000",
+      "cooked_salmon": "2024-12-17 05:27:51 +0000"
+    },
+    "done": false
+  },
+  "diamethysts:weapons/diamethyst_iron_battle_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_gold_bow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_diamond_horse_armor": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_lapis_arrow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_prismarine_hoe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_prismarine_bow_upper_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_emerald_bow_lower_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/gold_chain_links": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_knife": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_copper_shovel": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_diamond_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 05:18:14 +0000"
+    },
+    "done": false
+  },
+  "diamethysts:weapons/diamethyst_emerald_battle_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_iron_horse_armor": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_gold_sickle": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_copper_bow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_copper_bow_upper_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_iron_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_diamond_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 05:18:14 +0000"
+    },
+    "done": false
+  },
+  "diamethysts:weapons/diamethyst_netherite_bow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-12-17 05:18:13 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_prismarine_shovel": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 05:18:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-17 05:26:34 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_lapis_sword": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_copper_sword": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_lapis_hoe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_lapis_shovel": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_copper_chain_horse_armor": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_gold_sword": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_gold_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_iron_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_gold_plate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_netherite_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2024-12-17 05:36:41 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_iron_hilt": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-17 05:27:51 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_netherite_sword": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_prismarine_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_source": {
+    "criteria": {
+      "kq_quest_source": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-17 05:22:30 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_iron_hoe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/leather_bound_stick": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_diamond_sickle": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_prismarine_horse_armor": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_emerald_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_prismarine_sword": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_copper_plate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_netherite_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_diamond_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_emerald_horse_armor": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-17 05:30:41 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_diamond_hilt": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_iron_bow_upper_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_gold_chain_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_diamond_hoe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_copper_hoe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_netherite_scimitar": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_gold_chain_horse_armor": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_gold_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_prismarine_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_lapis_bow_lower_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-12-17 05:24:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_gold_arrow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_copper_scimitar": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_prismarine_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_diamond_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_netherite_horse_armor": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_netherite_shovel": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_iron_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_netherite_pickaxe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_lapis_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_copper_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-17 05:20:10 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_gold_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_copper_chain_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_copper_chain_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_diamond_arrow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_emerald_bow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_copper_horse_armor": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_emerald_arrow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-17 05:24:39 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_prismarine_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_emerald_sickle": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/iron_chain_links": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_copper_chain_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_copper_bow_lower_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_emerald_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_prismarine_bow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_netherite_hoe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_lapis_bow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_prismarine_scales": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_iron_sword": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_iron_pickaxe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_diamond_sword": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_emerald_mesh": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_emerald_pickaxe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_gold_horse_armor": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_dust": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_emerald_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_netherite_sickle": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_prismarine_scimitar": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_prismarine_sickle": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/strung_emerald": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_gold_chain_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_diamond_bow_upper_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_lapis_horse_armor": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_gold_chain_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-17 05:24:39 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_bow_lower_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_copper_battle_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_iron_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_iron_chain_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-17 05:18:13 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_iron_chain_horse_armor": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_diamond_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_emerald_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_lapis_hilt": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2024-12-17 05:18:13 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_iron_bow_lower_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:coconino_meadow": "2024-12-17 05:18:30 +0000",
+      "byg:cardinal_tundra": "2024-12-17 05:19:05 +0000",
+      "byg:maple_taiga": "2024-12-17 05:23:51 +0000"
+    },
+    "done": false
+  },
+  "diamethysts:armor/diamethyst_lapis_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_gold_shovel": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_gold_bow_lower_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_iron_scimitar": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_prismarine_battle_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_lapis_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_netherite_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_lapis_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_iron_chain_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-12-17 05:28:03 +0000",
+      "minecraft:river": "2024-12-17 05:43:30 +0000",
+      "minecraft:snowy_plains": "2024-12-17 05:19:19 +0000",
+      "minecraft:snowy_taiga": "2024-12-17 05:23:40 +0000",
+      "minecraft:cold_ocean": "2024-12-17 05:27:59 +0000",
+      "minecraft:forest": "2024-12-17 05:23:45 +0000",
+      "minecraft:frozen_ocean": "2024-12-17 05:19:28 +0000",
+      "minecraft:snowy_beach": "2024-12-17 05:19:21 +0000",
+      "minecraft:plains": "2024-12-17 05:18:14 +0000"
+    },
+    "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-17 05:27:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 05:18:14 +0000"
+    },
+    "done": false
+  },
+  "diamethysts:weapons/diamethyst_gold_battle_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "pizzacraft:root": {
+    "criteria": {
+      "tick": "2024-12-17 05:18:13 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_lapis_battle_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-17 05:18:13 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_iron_chain": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_copper_hilt": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_emerald_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_emerald_shovel": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_lapis_pickaxe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:blocks/diamethyst_block": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_copper_pickaxe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_emerald_sword": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_copper_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_gold_hoe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_netherite_battle_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_lapis_axe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/copper_chain_links": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_diamond_bow_lower_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_copper_sickle": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_diamond_bow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_prismarine_bow_lower_section": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-17 05:18:13 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_diamond_pickaxe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2024-12-17 05:18:13 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_copper_chain_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_copper_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_lapis_sickle": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_netherite_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_emerald_hilt": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_iron_chain_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_shard": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_gold_scimitar": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_copper_chain": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_bow": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_gold_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_diamond_shovel": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/strung_lapis": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_prismarine_pickaxe": {
+    "criteria": {
+      "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
