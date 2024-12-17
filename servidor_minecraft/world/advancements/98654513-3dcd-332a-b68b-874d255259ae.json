@@ -763,6 +763,12 @@
     },
     "done": true
   },
+  "ancient_elements:ancient_elements": {
+    "criteria": {
+      "ancient_elements": "2024-12-17 05:51:44 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_iron_sword": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"

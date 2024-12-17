@@ -7949,3 +7949,42 @@ second=(-0.37869396805763245, 0.0, -0.925521969795227)
 first=(0.38701939582824707, 0.0, 0.9220715761184692)
 second=(-0.27944037318229675, 0.0, -0.9601630568504333)
 [17Dec2024 05:46:30.023] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9934879075598388
+[17Dec2024 05:51:19.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 05:51:19.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 05:51:44.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Ancient Elements]
+[17Dec2024 05:53:51.417] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6135674118995667, 0.0, -0.789642333984375)
+second=(0.0171605683863163, 0.0, -0.9998511075973511)
+[17Dec2024 05:53:51.418] [Server thread/DEBUG] [greekfantasy/]: dot=0.8000539277715524
+[17Dec2024 05:53:55.408] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9904586672782898, 0.0, -0.13781003654003143)
+second=(-0.9560452699661255, 0.0, -0.2932191491127014)
+[17Dec2024 05:53:55.409] [Server thread/DEBUG] [greekfantasy/]: dot=0.9873318656018197
+[17Dec2024 05:53:57.459] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.29862236976623535, 0.0, 0.9543713331222534)
+second=(-0.7858033776283264, 0.0, 0.618476390838623)
+[17Dec2024 05:53:57.459] [Server thread/DEBUG] [greekfantasy/]: dot=0.35559767083161375
+[17Dec2024 05:56:19.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 05:56:19.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 05:58:05.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Mine? Mine? Mine?]
+[17Dec2024 05:59:02.208] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[17Dec2024 05:59:02.221] [Worker-Main-7/DEBUG] [mixin/]: Mixing HarvestFarmlandMixin from quark.mixins.json into net.minecraft.world.entity.ai.behavior.HarvestFarmland
+[17Dec2024 05:59:02.268] [Worker-Main-7/DEBUG] [mixin/]: Mixing StayNearPointTaskMixin from blue_skies.mixins.json into net.minecraft.world.entity.ai.behavior.SetWalkTargetFromBlockMemory
+[17Dec2024 05:59:02.780] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[17Dec2024 05:59:02.783] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[17Dec2024 05:59:02.785] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[17Dec2024 05:59:02.848] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[17Dec2024 05:59:06.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=57, z=539} BlockPos{x=-27, y=58, z=539}
+[17Dec2024 05:59:17.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 7.433040218016252,-3.083077817806469,-6.25681471081964
+[17Dec2024 05:59:17.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 moved too quickly! -9.986651661406647,1.7967356006687112,-0.24722777653880712
+[17Dec2024 05:59:17.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[17Dec2024 05:59:59.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! -9.20887840420906,-0.0013359791121487774,-4.5342927811568075
+[17Dec2024 05:59:59.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
+[17Dec2024 06:00:42.974] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=25, z=-1209}
+[17Dec2024 06:00:43.744] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-397, y=25, z=-1224}
+[17Dec2024 06:00:48.675] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-1202}
+[17Dec2024 06:00:58.328] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[17Dec2024 06:00:59.571] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[17Dec2024 06:00:59.782] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-230, y=25, z=-1225}
+[17Dec2024 06:00:59.784] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=25, z=-1227}
+[17Dec2024 06:01:04.825] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
