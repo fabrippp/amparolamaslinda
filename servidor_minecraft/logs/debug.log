@@ -7519,3 +7519,15 @@ second=(-0.9987093210220337, 0.0, -0.05079124867916107)
 first=(0.705206036567688, 0.0, 0.7090024352073669)
 second=(0.6065787076950073, 0.0, -0.7949652671813965)
 [17Dec2024 21:19:22.665] [Server thread/DEBUG] [greekfantasy/]: dot=-0.13586934401693895
+[17Dec2024 21:21:25.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/159, l='ServerLevel[world]', x=-296.30, y=62.00, z=820.30] died, message: 'Toolsmith was chopped to bits by Skirmisher'
+[17Dec2024 21:22:10.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/294, l='ServerLevel[world]', x=-263.73, y=65.00, z=773.05] died, message: 'Farmer was chopped to bits by Skirmisher'
+[17Dec2024 21:23:19.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:23:19.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 21:24:02.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Isn't It Iron Pick]
+[17Dec2024 21:24:09.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Isn't It Iron Pick]
+[17Dec2024 21:25:34.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 lost connection: Disconnected
+[17Dec2024 21:25:34.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 left the game
+[17Dec2024 21:25:37.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint lost connection: Disconnected
+[17Dec2024 21:25:37.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint left the game
+[17Dec2024 21:28:19.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:28:19.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
