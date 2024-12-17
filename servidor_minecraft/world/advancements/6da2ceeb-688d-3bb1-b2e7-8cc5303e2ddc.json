@@ -1213,6 +1213,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-17 06:27:57 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_shard": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -1240,6 +1246,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2024-12-17 06:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-17 06:32:42 +0000"
     },
     "done": true
   },
