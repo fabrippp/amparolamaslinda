@@ -1779,3 +1779,7 @@ java.lang.OutOfMemoryError: Java heap space
 [17Dec2024 20:54:10.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/185, l='ServerLevel[world]', x=-306.49, y=64.00, z=786.05] died, message: 'Farmer was slain by Decaying Zombie'
 [17Dec2024 20:58:42.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was doomed to fall by Harpy
 [17Dec2024 21:07:27.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/156, l='ServerLevel[world]', x=-317.30, y=64.00, z=807.47] died, message: 'Leatherworker was slain by Zombie Girl'
+[17Dec2024 21:14:15.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/133, l='ServerLevel[world]', x=-324.48, y=64.00, z=806.48] died, message: 'Villager was slain by Fallen Chaos Knight'
+[17Dec2024 21:14:38.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was shot by Bonescaller
+[17Dec2024 21:14:54.617] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/147, l='ServerLevel[world]', x=-351.23, y=67.02, z=856.74] died, message: 'Leatherworker was slain by Decaying Zombie'
+[17Dec2024 21:17:20.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> no se te escucha
