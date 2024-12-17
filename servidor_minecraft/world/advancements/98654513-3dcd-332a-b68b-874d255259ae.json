@@ -804,6 +804,12 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "green": "2024-12-17 07:11:17 +0000"
+    },
+    "done": false
+  },
   "diamethysts:tools/diamethyst_iron_pickaxe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
