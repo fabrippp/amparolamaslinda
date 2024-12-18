@@ -1790,3 +1790,6 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 06:12:50.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
 [18Dec2024 06:14:34.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
 [18Dec2024 06:14:50.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by sushint
+[18Dec2024 06:22:26.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Ol' Betsy]
+[18Dec2024 06:23:35.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Take Aim]
+[18Dec2024 06:25:10.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Dread Hound
