@@ -938,6 +938,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/arachne": {
+    "criteria": {
+      "kill": "2024-12-18 03:44:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-17 21:24:02 +0000"

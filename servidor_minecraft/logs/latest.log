@@ -1872,3 +1872,17 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 03:39:17.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4313, l='ServerLevel[world]', x=-253.41, y=64.00, z=819.56] died, message: 'Villager was shot by Pillager'
 [18Dec2024 03:39:32.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4312, l='ServerLevel[world]', x=-251.17, y=64.00, z=825.54] died, message: 'Villager was shot by Pillager'
 [18Dec2024 03:39:44.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4314, l='ServerLevel[world]', x=-243.30, y=64.00, z=821.51] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:42:58.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint burned to death
+[18Dec2024 03:43:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:43:21.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/4518, l='ServerLevel[world]', x=-227.21, y=66.18, z=815.72] died, message: 'Mason was slain by Vindicator'
+[18Dec2024 03:44:12.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/4115, l='ServerLevel[world]', x=-289.69, y=63.00, z=795.44] died, message: 'Mason hit the ground too hard'
+[18Dec2024 03:49:04.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Necrotic Reaper
+[18Dec2024 03:49:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:49:13.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Necrotic Reaper
+[18Dec2024 03:49:14.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:49:18.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Necrotic Reaper
+[18Dec2024 03:49:26.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:49:31.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21377, l='ServerLevel[world]', x=-238.50, y=66.00, z=849.07] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:49:37.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3199ms or 63 ticks behind
+[18Dec2024 03:49:37.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 5.078447698799096,3.2522033402537254,-8.121919431677497
+[18Dec2024 03:49:53.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]

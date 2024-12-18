@@ -8239,3 +8239,101 @@ first=(0.8915369510650635, 0.0, 0.4529480040073395)
 second=(-0.9550275206565857, 0.0, -0.29651716351509094)
 [18Dec2024 03:39:44.882] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9857491813174777
 [18Dec2024 03:39:44.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4314, l='ServerLevel[world]', x=-243.30, y=64.00, z=821.51] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:40:07.832] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.48100745677948, 0.0, -0.8767164945602417)
+second=(-0.23283003270626068, 0.0, 0.9725174307823181)
+[18Dec2024 03:40:07.833] [Server thread/DEBUG] [greekfantasy/]: dot=-0.964615054708128
+[18Dec2024 03:40:23.380] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.002109222114086151, 0.0, 0.9999977946281433)
+second=(-0.17889109253883362, 0.0, 0.9838688969612122)
+[18Dec2024 03:40:23.381] [Server thread/DEBUG] [greekfantasy/]: dot=0.9834894061160402
+[18Dec2024 03:40:48.999] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.002109222114086151, 0.0, 0.9999977946281433)
+second=(-0.25579261779785156, 0.0, 0.9667316675186157)
+[18Dec2024 03:40:49.000] [Server thread/DEBUG] [greekfantasy/]: dot=0.9672690589618824
+[18Dec2024 03:41:48.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:41:48.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:41:56.298] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7818741798400879, 0.0, 0.6234362721443176)
+second=(-0.7632503509521484, 0.0, 0.6461028456687927)
+[18Dec2024 03:41:56.298] [Server thread/DEBUG] [greekfantasy/]: dot=0.9995696916889578
+[18Dec2024 03:41:56.337] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7514182329177856, 0.0, 0.6598262190818787)
+second=(-0.9935749769210815, 0.0, -0.11317569762468338)
+[18Dec2024 03:41:56.337] [Server thread/DEBUG] [greekfantasy/]: dot=0.67191406077372
+[18Dec2024 03:42:16.995] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9997973442077637, 0.0, -0.020036283880472183)
+second=(0.9969263672828674, 0.0, 0.07834440469741821)
+[18Dec2024 03:42:16.995] [Server thread/DEBUG] [greekfantasy/]: dot=0.9951546036471404
+[18Dec2024 03:42:18.879] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.99568772315979, 0.0, 0.09276813268661499)
+second=(0.9930887222290039, 0.0, 0.1173660159111023)
+[18Dec2024 03:42:18.879] [Server thread/DEBUG] [greekfantasy/]: dot=0.9996940748688026
+[18Dec2024 03:42:57.780] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9200555682182312, 0.0, -0.39169973134994507)
+second=(-0.6923128962516785, 0.0, 0.72159743309021)
+[18Dec2024 03:42:57.780] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9196158558298926
+[18Dec2024 03:42:58.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint burned to death
+[18Dec2024 03:42:59.383] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.45286253094673157, 0.0, -0.8915369510650635)
+second=(-0.7915796041488647, 0.0, 0.6110660433769226)
+[18Dec2024 03:42:59.383] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9032647001923202
+[18Dec2024 03:43:06.207] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.36668360233306885, 0.0, 0.9303457140922546)
+second=(0.9460431337356567, 0.0, 0.3240407705307007)
+[18Dec2024 03:43:06.208] [Server thread/DEBUG] [greekfantasy/]: dot=0.648368446295045
+[18Dec2024 03:43:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:43:07.667] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.30008599162101746, 0.0, 0.9539121389389038)
+second=(-0.1634945273399353, 0.0, 0.9865442514419556)
+[18Dec2024 03:43:07.667] [Server thread/DEBUG] [greekfantasy/]: dot=0.8920141196894615
+[18Dec2024 03:43:12.181] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.05864110589027405, 0.0, 0.9982791543006897)
+second=(-0.3719402551651001, 0.0, 0.9282566905021667)
+[18Dec2024 03:43:12.181] [Server thread/DEBUG] [greekfantasy/]: dot=0.9048483160804679
+[18Dec2024 03:43:13.454] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.09773089736700058, 0.0, 0.9952128529548645)
+second=(-0.5899858474731445, 0.0, 0.8074135780334473)
+[18Dec2024 03:43:13.455] [Server thread/DEBUG] [greekfantasy/]: dot=0.7458885242017814
+[18Dec2024 03:43:14.936] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.09773089736700058, 0.0, 0.9952128529548645)
+second=(-0.5152535438537598, 0.0, 0.8570377826690674)
+[18Dec2024 03:43:14.936] [Server thread/DEBUG] [greekfantasy/]: dot=0.8025788255678385
+[18Dec2024 03:43:21.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/4518, l='ServerLevel[world]', x=-227.21, y=66.18, z=815.72] died, message: 'Mason was slain by Vindicator'
+[18Dec2024 03:44:12.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/4115, l='ServerLevel[world]', x=-289.69, y=63.00, z=795.44] died, message: 'Mason hit the ground too hard'
+[18Dec2024 03:44:40.648] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.5635161995887756, 0.0, -0.8260509967803955)
+second=(0.5903728604316711, 0.0, -0.8071306347846985)
+[18Dec2024 03:44:40.649] [Server thread/DEBUG] [greekfantasy/]: dot=0.9994157360467035
+[18Dec2024 03:44:50.253] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.19085709750652313, 0.0, 0.98161780834198)
+second=(0.6065787076950073, 0.0, -0.7950234413146973)
+[18Dec2024 03:44:50.259] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6646393164839051
+[18Dec2024 03:45:00.866] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.04016031697392464, 0.0, -0.9991932511329651)
+second=(-0.038723330944776535, 0.0, -0.9992499947547913)
+[18Dec2024 03:45:00.867] [Server thread/DEBUG] [greekfantasy/]: dot=0.9968887097086098
+[18Dec2024 03:46:48.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:46:48.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:49:04.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Necrotic Reaper
+[18Dec2024 03:49:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:49:13.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Necrotic Reaper
+[18Dec2024 03:49:14.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:49:18.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Necrotic Reaper
+[18Dec2024 03:49:26.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:49:26.845] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.0018216011812910438, 0.0, 0.9999983310699463)
+second=(-0.7124421000480652, 0.0, 0.7017309069633484)
+[18Dec2024 03:49:26.845] [Server thread/DEBUG] [greekfantasy/]: dot=0.7030275211945972
+[18Dec2024 03:49:28.731] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.0018216011812910438, 0.0, 0.9999983310699463)
+second=(-0.7479285001754761, 0.0, 0.6637793183326721)
+[18Dec2024 03:49:28.731] [Server thread/DEBUG] [greekfantasy/]: dot=0.6651406379708596
+[18Dec2024 03:49:31.430] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.0018216011812910438, 0.0, 0.9999983310699463)
+second=(-0.7174694538116455, 0.0, 0.6965899467468262)
+[18Dec2024 03:49:31.430] [Server thread/DEBUG] [greekfantasy/]: dot=0.6978957273915325
+[18Dec2024 03:49:31.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21377, l='ServerLevel[world]', x=-238.50, y=66.00, z=849.07] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:49:37.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3199ms or 63 ticks behind
+[18Dec2024 03:49:37.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 5.078447698799096,3.2522033402537254,-8.121919431677497
+[18Dec2024 03:49:53.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
