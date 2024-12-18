@@ -516,6 +516,8 @@
     "criteria": {
       "minecraft:pillager": "2024-12-17 21:21:19 +0000",
       "minecraft:skeleton": "2024-12-17 20:57:58 +0000",
+      "minecraft:spider": "2024-12-18 03:24:01 +0000",
+      "minecraft:witch": "2024-12-18 03:24:58 +0000",
       "minecraft:cave_spider": "2024-12-18 03:11:21 +0000",
       "minecraft:zombie": "2024-12-17 07:05:11 +0000"
     },
@@ -640,6 +642,12 @@
       "has_recipe": "2024-12-17 05:18:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-18 03:26:48 +0000"
+    },
+    "done": false
   },
   "diamethysts:weapons/diamethyst_copper_scimitar": {
     "criteria": {
@@ -845,6 +853,12 @@
       "yellow": "2024-12-18 02:59:14 +0000"
     },
     "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-18 03:20:15 +0000"
+    },
+    "done": true
   },
   "diamethysts:tools/diamethyst_iron_pickaxe": {
     "criteria": {
