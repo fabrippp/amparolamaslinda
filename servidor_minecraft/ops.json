@@ -4,5 +4,11 @@
     "name": "sushint",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6da2ceeb-688d-3bb1-b2e7-8cc5303e2ddc",
+    "name": "ampamp4",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

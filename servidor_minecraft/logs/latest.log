@@ -1826,3 +1826,27 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 02:43:19.236] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4242, l='ServerLevel[world]', x=-256.70, y=66.00, z=770.58] died, message: 'Farmer was slain by Zombie Girl'
 [18Dec2024 02:43:28.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Suit Up]
 [18Dec2024 02:44:44.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Suit Up]
+[18Dec2024 02:52:12.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint was kicked for floating too long!
+[18Dec2024 02:52:12.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint lost connection: Flying is not enabled on this server
+[18Dec2024 02:52:12.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint left the game
+[18Dec2024 02:52:12.628] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 02:52:36.258] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5e24abc4
+[18Dec2024 02:52:36.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sushint[/127.250.37.65:51773] logged in with entity id 11605 at (-320.55740809548325, 68.00133597911214, 843.0648011071299)
+[18Dec2024 02:52:36.297] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to sushint
+[18Dec2024 02:52:36.298] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to sushint
+[18Dec2024 02:52:36.298] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to sushint
+[18Dec2024 02:52:36.298] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to sushint
+[18Dec2024 02:52:36.301] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to sushint
+[18Dec2024 02:52:36.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to sushint
+[18Dec2024 02:52:36.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to sushint
+[18Dec2024 02:52:36.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint joined the game
+[18Dec2024 02:52:36.455] [Server thread/INFO] [Jade/]: Syncing config to sushint (98654513-3dcd-332a-b68b-874d255259ae)
+[18Dec2024 02:57:30.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has reached the goal [Crystal Pioneer]
+[18Dec2024 02:58:29.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has reached the goal [Crystal Pioneer]
+[18Dec2024 02:59:18.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Shiny Object Syndrome]
+[18Dec2024 03:03:37.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Mimic
+[18Dec2024 03:05:03.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/4064, l='ServerLevel[world]', x=-316.28, y=63.00, z=833.69] died, message: 'Butcher hit the ground too hard'
+[18Dec2024 03:06:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Shiny Object Syndrome]
+[18Dec2024 03:07:56.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was burnt to a crisp whilst fighting Cerulean Crystal Slime
+[18Dec2024 03:08:26.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Made ampamp4 a server operator]
+[18Dec2024 03:08:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]

@@ -410,6 +410,12 @@
     },
     "done": true
   },
+  "ancient_elements:crystal_pioneer": {
+    "criteria": {
+      "crystal_pioneer": "2024-12-18 02:57:30 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_gold_sword": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
@@ -736,6 +742,12 @@
     },
     "done": true
   },
+  "ancient_elements:shiny_object_syndrome": {
+    "criteria": {
+      "shiny_object_syndrome": "2024-12-18 02:59:18 +0000"
+    },
+    "done": true
+  },
   "diamethysts:story/root": {
     "criteria": {
       "crafting_table": "2024-12-17 05:24:39 +0000"
@@ -796,6 +808,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/ender_eye": {
+    "criteria": {
+      "kill": "2024-12-18 02:58:36 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_lapis_bow": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
@@ -822,7 +840,8 @@
   },
   "quark:get_all_corundum": {
     "criteria": {
-      "green": "2024-12-17 07:11:17 +0000"
+      "green": "2024-12-17 07:11:17 +0000",
+      "yellow": "2024-12-18 02:59:14 +0000"
     },
     "done": false
   },
