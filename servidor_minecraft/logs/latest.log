@@ -1897,3 +1897,4 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 03:57:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Bone Knight
 [18Dec2024 03:57:52.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
 [18Dec2024 04:06:20.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24660, l='ServerLevel[world]', x=-305.14, y=-256.00, z=846.68] died, message: 'Villager fell out of the world'
+[18Dec2024 04:12:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was sniped by Archer

@@ -8500,3 +8500,44 @@ second=(-0.9648170471191406, 0.0, -0.2629222571849823)
 [18Dec2024 04:06:20.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24660, l='ServerLevel[world]', x=-305.14, y=-256.00, z=846.68] died, message: 'Villager fell out of the world'
 [18Dec2024 04:06:51.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 04:06:51.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:11:51.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:11:51.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:12:28.131] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.2739124894142151, 0.0, -0.9617546200752258)
+second=(-0.941737711429596, 0.0, 0.33634817600250244)
+[18Dec2024 04:12:28.131] [Server thread/DEBUG] [greekfantasy/]: dot=-0.06553069131135558
+[18Dec2024 04:12:36.181] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9960956573486328, 0.0, 0.0882805734872818)
+second=(-0.8320018649101257, 0.0, -0.5547727942466736)
+[18Dec2024 04:12:36.182] [Server thread/DEBUG] [greekfantasy/]: dot=0.779777784111702
+[18Dec2024 04:12:40.082] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9838688969612122, 0.0, 0.17889109253883362)
+second=(0.980990469455719, 0.0, -0.19396181404590607)
+[18Dec2024 04:12:40.082] [Server thread/DEBUG] [greekfantasy/]: dot=0.9304679702873737
+[18Dec2024 04:12:45.100] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.1173660159111023, 0.0, 0.9930887222290039)
+second=(0.5251609086990356, 0.0, -0.8509525656700134)
+[18Dec2024 04:12:45.100] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9067074396849861
+[18Dec2024 04:12:47.134] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.23935146629810333, 0.0, 0.9709330201148987)
+second=(0.2765854299068451, 0.0, -0.9609628319740295)
+[18Dec2024 04:12:47.134] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8668294164618158
+[18Dec2024 04:12:51.082] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5148426294326782, 0.0, -0.857284665107727)
+second=(0.43274813890457153, 0.0, 0.9015148878097534)
+[18Dec2024 04:12:51.082] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9956520784013421
+[18Dec2024 04:12:53.129] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.987947940826416, 0.0, -0.1547865867614746)
+second=(0.928506076335907, 0.0, -0.3712281584739685)
+[18Dec2024 04:12:53.130] [Server thread/DEBUG] [greekfantasy/]: dot=-0.859854526600941
+[18Dec2024 04:12:55.351] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9267154335975647, 0.0, 0.3757638931274414)
+second=(0.9924912452697754, 0.0, -0.12222036719322205)
+[18Dec2024 04:12:55.351] [Server thread/DEBUG] [greekfantasy/]: dot=0.8738309537059763
+[18Dec2024 04:12:57.297] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9727846384048462, 0.0, 0.2317110151052475)
+second=(0.9736661314964294, 0.0, -0.2278853803873062)
+[18Dec2024 04:12:57.298] [Server thread/DEBUG] [greekfantasy/]: dot=0.8943639028376114
+[18Dec2024 04:12:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was sniped by Archer
+[18Dec2024 04:16:51.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:16:51.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
