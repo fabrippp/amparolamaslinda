@@ -1816,3 +1816,4 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 02:19:43.645] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
 [18Dec2024 02:20:03.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-533, y=64, z=852} BlockPos{x=-534, y=62, z=852}
 [18Dec2024 02:23:48.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/3919, l='ServerLevel[world]', x=-354.51, y=65.00, z=855.99] died, message: 'Leatherworker was slain by Zombie Clown'
+[18Dec2024 02:37:02.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Baby Skeleton
