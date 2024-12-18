@@ -368,6 +368,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-18 02:43:28 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_lapis_sword": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
@@ -1302,6 +1308,12 @@
   "diamethysts:items/diamethyst_shard": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-18 02:39:04 +0000"
     },
     "done": true
   },

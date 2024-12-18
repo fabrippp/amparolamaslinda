@@ -1817,3 +1817,12 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 02:20:03.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-533, y=64, z=852} BlockPos{x=-534, y=62, z=852}
 [18Dec2024 02:23:48.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/3919, l='ServerLevel[world]', x=-354.51, y=65.00, z=855.99] died, message: 'Leatherworker was slain by Zombie Clown'
 [18Dec2024 02:37:02.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Baby Skeleton
+[18Dec2024 02:41:21.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'es qe tiene tu olor eu dejame'. Is the client/server system time unsynchronized?
+[18Dec2024 02:41:21.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> es qe tiene tu olor eu dejame
+[18Dec2024 02:41:37.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'zzzz'. Is the client/server system time unsynchronized?
+[18Dec2024 02:41:37.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> zzzz
+[18Dec2024 02:41:39.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'zzzzz'. Is the client/server system time unsynchronized?
+[18Dec2024 02:41:39.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> zzzzz
+[18Dec2024 02:43:19.236] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4242, l='ServerLevel[world]', x=-256.70, y=66.00, z=770.58] died, message: 'Farmer was slain by Zombie Girl'
+[18Dec2024 02:43:28.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Suit Up]
+[18Dec2024 02:44:44.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Suit Up]

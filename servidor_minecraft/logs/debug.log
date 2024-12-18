@@ -7552,3 +7552,124 @@ second=(-0.9505754113197327, 0.0, 0.3104937672615051)
 first=(-0.5890565514564514, 0.0, -0.8080918192863464)
 second=(0.3610576093196869, 0.0, 0.9325435161590576)
 [18Dec2024 02:38:38.084] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9662641367596247
+[18Dec2024 02:39:17.434] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9999748468399048, 0.0, 0.007094601634889841)
+second=(-0.9260655641555786, 0.0, 0.37736257910728455)
+[18Dec2024 02:39:17.434] [Server thread/DEBUG] [greekfantasy/]: dot=0.9287195078508655
+[18Dec2024 02:39:19.980] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.994012176990509, 0.0, -0.10926926136016846)
+second=(-0.9836624264717102, 0.0, -0.18002289533615112)
+[18Dec2024 02:39:19.980] [Server thread/DEBUG] [greekfantasy/]: dot=0.9974433987622113
+[18Dec2024 02:40:22.395] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5173882842063904, 0.0, -0.8557507395744324)
+second=(-0.6139459013938904, 0.0, 0.7893481254577637)
+[18Dec2024 02:40:22.395] [Server thread/DEBUG] [greekfantasy/]: dot=-0.3578368256244424
+[18Dec2024 02:40:24.478] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5173882842063904, 0.0, -0.8557507395744324)
+second=(-0.7406291365623474, 0.0, 0.6719140410423279)
+[18Dec2024 02:40:24.478] [Server thread/DEBUG] [greekfantasy/]: dot=-0.19179809935316428
+[18Dec2024 02:41:21.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'es qe tiene tu olor eu dejame'. Is the client/server system time unsynchronized?
+[18Dec2024 02:41:21.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> es qe tiene tu olor eu dejame
+[18Dec2024 02:41:37.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'zzzz'. Is the client/server system time unsynchronized?
+[18Dec2024 02:41:37.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> zzzz
+[18Dec2024 02:41:39.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'zzzzz'. Is the client/server system time unsynchronized?
+[18Dec2024 02:41:39.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> zzzzz
+[18Dec2024 02:41:48.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:41:48.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:43:19.236] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4242, l='ServerLevel[world]', x=-256.70, y=66.00, z=770.58] died, message: 'Farmer was slain by Zombie Girl'
+[18Dec2024 02:43:28.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Suit Up]
+[18Dec2024 02:44:44.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Suit Up]
+[18Dec2024 02:46:48.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:46:48.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:48:46.735] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.09925742447376251, 0.0, 0.9950618147850037)
+second=(0.7662771940231323, 0.0, -0.6424366235733032)
+[18Dec2024 02:48:46.735] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7153228532489191
+[18Dec2024 02:48:46.934] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9950618147850037, 0.0, 0.09925742447376251)
+second=(0.7282673120498657, 0.0, -0.6852233409881592)
+[18Dec2024 02:48:46.934] [Server thread/DEBUG] [greekfantasy/]: dot=0.6566574891611445
+[18Dec2024 02:48:46.935] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.766523540019989, 0.0, -0.6422162055969238)
+second=(-0.978495717048645, 0.0, -0.20626714825630188)
+[18Dec2024 02:48:46.935] [Server thread/DEBUG] [greekfantasy/]: dot=0.8825081062189852
+[18Dec2024 02:48:48.930] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9407339096069336, 0.0, 0.33914563059806824)
+second=(-0.12497938424348831, 0.0, -0.992159366607666)
+[18Dec2024 02:48:48.930] [Server thread/DEBUG] [greekfantasy/]: dot=-0.2189141692822929
+[18Dec2024 02:48:49.279] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9978631138801575, 0.0, -0.0653393492102623)
+second=(0.9838002324104309, 0.0, 0.17926838994026184)
+[18Dec2024 02:48:49.279] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9934112432817634
+[18Dec2024 02:48:51.051] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9831405878067017, 0.0, 0.1828513741493225)
+second=(0.8987585306167603, 0.0, -0.43835774064064026)
+[18Dec2024 02:48:51.052] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9637603053319825
+[18Dec2024 02:48:52.849] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9938008189201355, 0.0, 0.1111750528216362)
+second=(-0.61500483751297, 0.0, 0.7885233759880066)
+[18Dec2024 02:48:52.849] [Server thread/DEBUG] [greekfantasy/]: dot=0.698856439136796
+[18Dec2024 02:48:53.100] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9996524453163147, 0.0, -0.026362240314483643)
+second=(0.5347545742988586, 0.0, -0.8449561595916748)
+[18Dec2024 02:48:53.100] [Server thread/DEBUG] [greekfantasy/]: dot=-0.51229378050758
+[18Dec2024 02:48:53.953] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9996524453163147, 0.0, -0.026362240314483643)
+second=(0.542831301689148, 0.0, -0.8397896885871887)
+[18Dec2024 02:48:53.954] [Server thread/DEBUG] [greekfantasy/]: dot=-0.520503900543634
+[18Dec2024 02:48:54.247] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.63713139295578, 0.0, -0.7707551717758179)
+second=(-0.4145109951496124, 0.0, 0.9100443124771118)
+[18Dec2024 02:48:54.248] [Server thread/DEBUG] [greekfantasy/]: dot=-0.43732339265174325
+[18Dec2024 02:48:54.779] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3876381516456604, 0.0, 0.9218116402626038)
+second=(-0.5337010025978088, 0.0, 0.8456732630729675)
+[18Dec2024 02:48:54.779] [Server thread/DEBUG] [greekfantasy/]: dot=0.5726685875810702
+[18Dec2024 02:48:54.980] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3618621230125427, 0.0, 0.932231605052948)
+second=(0.5275249481201172, 0.0, -0.8494889736175537)
+[18Dec2024 02:48:54.980] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6010291716814464
+[18Dec2024 02:48:55.930] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7721582651138306, 0.0, -0.6354302763938904)
+second=(0.7320667505264282, 0.0, -0.6811627149581909)
+[18Dec2024 02:48:55.930] [Server thread/DEBUG] [greekfantasy/]: dot=0.9981028042691023
+[18Dec2024 02:48:56.285] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7721582651138306, 0.0, -0.6354302763938904)
+second=(-0.5976996421813965, 0.0, 0.801720142364502)
+[18Dec2024 02:48:56.285] [Server thread/DEBUG] [greekfantasy/]: dot=-0.970955970419169
+[18Dec2024 02:48:56.778] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7721582651138306, 0.0, -0.6354302763938904)
+second=(-0.732327938079834, 0.0, 0.6809521317481995)
+[18Dec2024 02:48:56.778] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9981706714498806
+[18Dec2024 02:48:57.029] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7702051401138306, 0.0, 0.6377962231636047)
+second=(0.7527451515197754, 0.0, -0.6582398414611816)
+[18Dec2024 02:48:57.029] [Server thread/DEBUG] [greekfantasy/]: dot=0.15994530007654362
+[18Dec2024 02:48:58.130] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8514557480812073, 0.0, 0.5244264006614685)
+second=(0.8654655814170837, 0.0, -0.5008853673934937)
+[18Dec2024 02:48:58.130] [Server thread/DEBUG] [greekfantasy/]: dot=0.4742281336978529
+[18Dec2024 02:48:58.430] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8748654127120972, 0.0, -0.4843660593032837)
+second=(-0.7321320176124573, 0.0, 0.6811627149581909)
+[18Dec2024 02:48:58.430] [Server thread/DEBUG] [greekfantasy/]: dot=0.310584879759638
+[18Dec2024 02:48:59.033] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8802890181541443, 0.0, -0.4744378328323364)
+second=(-0.8773153424263, 0.0, 0.4799143671989441)
+[18Dec2024 02:48:59.033] [Server thread/DEBUG] [greekfantasy/]: dot=0.5446015290770454
+[18Dec2024 02:48:59.235] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8637313842773438, 0.0, 0.5039525032043457)
+second=(0.8780505061149597, 0.0, -0.47848382592201233)
+[18Dec2024 02:48:59.235] [Server thread/DEBUG] [greekfantasy/]: dot=0.5172666572959059
+[18Dec2024 02:49:00.079] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7602689862251282, 0.0, 0.6496084332466125)
+second=(0.9561295509338379, 0.0, -0.2928524911403656)
+[18Dec2024 02:49:00.079] [Server thread/DEBUG] [greekfantasy/]: dot=0.5366761964462956
+[18Dec2024 02:49:01.195] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8396856188774109, 0.0, -0.5430728197097778)
+second=(-0.8156480193138123, 0.0, 0.5785484313964844)
+[18Dec2024 02:49:01.195] [Server thread/DEBUG] [greekfantasy/]: dot=0.3706939839064951
+[18Dec2024 02:49:01.382] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8375443816184998, 0.0, 0.5463693141937256)
+second=(0.8155925869941711, 0.0, -0.5785484313964844)
+[18Dec2024 02:49:01.382] [Server thread/DEBUG] [greekfantasy/]: dot=0.3669938792367127

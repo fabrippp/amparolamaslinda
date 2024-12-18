@@ -358,6 +358,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-18 02:44:44 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_lapis_sword": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
