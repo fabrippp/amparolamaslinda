@@ -1922,3 +1922,19 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 04:31:08.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10595ms or 211 ticks behind
 [18Dec2024 04:41:15.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [18Dec2024 04:42:27.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[18Dec2024 05:01:52.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 05:02:59.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Minotaur
+[18Dec2024 05:03:07.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaur
+[18Dec2024 05:03:19.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 05:03:38.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Minotaur
+[18Dec2024 05:03:46.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Dec2024 05:04:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 05:07:24.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37372, l='ServerLevel[world]', x=-305.14, y=-256.00, z=846.68] died, message: 'Villager fell out of the world'
+[18Dec2024 05:09:47.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Minotaurus
+[18Dec2024 05:09:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaurus
+[18Dec2024 05:10:13.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'lenguetazi'. Is the client/server system time unsynchronized?
+[18Dec2024 05:10:13.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> lenguetazi
+[18Dec2024 05:10:16.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'ji'. Is the client/server system time unsynchronized?
+[18Dec2024 05:10:16.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ji
+[18Dec2024 05:11:10.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38254, l='ServerLevel[world]', x=-221.21, y=67.00, z=824.34] died, message: 'Villager was slain by Door Knight'
+[18Dec2024 05:11:17.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38253, l='ServerLevel[world]', x=-221.23, y=67.00, z=816.63] died, message: 'Villager was slain by Door Knight'

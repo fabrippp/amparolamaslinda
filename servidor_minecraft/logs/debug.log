@@ -8665,3 +8665,63 @@ second=(0.7476738691329956, 0.0, 0.6640660762786865)
 [18Dec2024 04:47:47.846] [Server thread/DEBUG] [greekfantasy/]: dot=0.12093583778484884
 [18Dec2024 04:48:50.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 04:48:50.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:52:58.793] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9918813109397888, 0.0, 0.12716689705848694)
+second=(0.11298517882823944, 0.0, -0.9935858249664307)
+[18Dec2024 04:52:58.794] [Server thread/DEBUG] [greekfantasy/]: dot=-0.23841911361519852
+[18Dec2024 04:52:59.799] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.5839314460754395, 0.0, 0.8118029832839966)
+second=(0.13382065296173096, 0.0, -0.9909927248954773)
+[18Dec2024 04:52:59.800] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7263487630841823
+[18Dec2024 04:53:00.826] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8254561424255371, 0.0, 0.5644662380218506)
+second=(0.43387138843536377, 0.0, -0.9009332060813904)
+[18Dec2024 04:53:00.826] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8666881801523942
+[18Dec2024 04:53:01.798] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.33851420879364014, 0.0, -0.9409613013267517)
+second=(-0.009395494125783443, 0.0, -0.9999558329582214)
+[18Dec2024 04:53:01.798] [Server thread/DEBUG] [greekfantasy/]: dot=0.9377392335894291
+[18Dec2024 04:53:50.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:53:50.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:58:50.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:58:50.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:01:52.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 05:02:59.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Minotaur
+[18Dec2024 05:03:07.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaur
+[18Dec2024 05:03:19.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 05:03:38.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Minotaur
+[18Dec2024 05:03:46.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Dec2024 05:03:52.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 05:03:52.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:04:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 05:07:24.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37372, l='ServerLevel[world]', x=-305.14, y=-256.00, z=846.68] died, message: 'Villager fell out of the world'
+[18Dec2024 05:08:52.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 05:08:52.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:09:28.433] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7335671186447144, 0.0, 0.6796169877052307)
+second=(-0.5027098059654236, 0.0, -0.8644552230834961)
+[18Dec2024 05:09:28.434] [Server thread/DEBUG] [greekfantasy/]: dot=-0.21872707084155962
+[18Dec2024 05:09:30.453] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.08646593242883682, 0.0, 0.9962548017501831)
+second=(-0.9085280895233154, 0.0, -0.4178237020969391)
+[18Dec2024 05:09:30.454] [Server thread/DEBUG] [greekfantasy/]: dot=-0.3377021411006904
+[18Dec2024 05:09:32.457] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.6455904841423035, 0.0, -0.7636837959289551)
+second=(-0.6375008225440979, 0.0, 0.770449697971344)
+[18Dec2024 05:09:32.457] [Server thread/DEBUG] [greekfantasy/]: dot=-0.1768154852517121
+[18Dec2024 05:09:47.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Minotaurus
+[18Dec2024 05:09:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaurus
+[18Dec2024 05:10:13.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'lenguetazi'. Is the client/server system time unsynchronized?
+[18Dec2024 05:10:13.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> lenguetazi
+[18Dec2024 05:10:16.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'ji'. Is the client/server system time unsynchronized?
+[18Dec2024 05:10:16.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ji
+[18Dec2024 05:10:43.046] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.0689743310213089, 0.0, -0.9976184368133545)
+second=(-0.3462609648704529, 0.0, 0.9381382465362549)
+[18Dec2024 05:10:43.046] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9597871294350524
+[18Dec2024 05:11:05.774] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.4247796833515167, 0.0, -0.9052560329437256)
+second=(-0.7590219378471375, 0.0, -0.6510650515556335)
+[18Dec2024 05:11:05.774] [Server thread/DEBUG] [greekfantasy/]: dot=0.26696346734399334
+[18Dec2024 05:11:10.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38254, l='ServerLevel[world]', x=-221.21, y=67.00, z=824.34] died, message: 'Villager was slain by Door Knight'
+[18Dec2024 05:11:17.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38253, l='ServerLevel[world]', x=-221.23, y=67.00, z=816.63] died, message: 'Villager was slain by Door Knight'
