@@ -8541,3 +8541,71 @@ second=(0.9736661314964294, 0.0, -0.2278853803873062)
 [18Dec2024 04:12:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was sniped by Archer
 [18Dec2024 04:16:51.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 04:16:51.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:21:20.132] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9992387890815735, 0.0, 0.03901073336601257)
+second=(-0.08044696599245071, 0.0, 0.9967588782310486)
+[18Dec2024 04:21:20.132] [Server thread/DEBUG] [greekfantasy/]: dot=-0.041501434054705744
+[18Dec2024 04:21:22.181] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5854870080947876, 0.0, 0.8106817603111267)
+second=(-0.23348265886306763, 0.0, 0.9723609685897827)
+[18Dec2024 04:21:22.181] [Server thread/DEBUG] [greekfantasy/]: dot=0.9249763650539506
+[18Dec2024 04:21:52.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:21:52.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:22:01.502] [Server thread/DEBUG] [greekfantasy/]: 
+first=(1.0, 0.0, -0.0)
+second=(0.9978063702583313, 0.0, -0.06610468029975891)
+[18Dec2024 04:22:01.502] [Server thread/DEBUG] [greekfantasy/]: dot=0.9978063702583313
+[18Dec2024 04:22:05.748] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.6543335914611816, 0.0, -0.7562059760093689)
+second=(-0.6614096760749817, 0.0, 0.7500248551368713)
+[18Dec2024 04:22:05.748] [Server thread/DEBUG] [greekfantasy/]: dot=-0.13439070883674376
+[18Dec2024 04:22:07.783] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.726227343082428, 0.0, -0.6874545812606812)
+second=(-0.8442375063896179, 0.0, 0.5359692573547363)
+[18Dec2024 04:22:07.783] [Server thread/DEBUG] [greekfantasy/]: dot=0.24465383981246802
+[18Dec2024 04:22:09.739] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.806053876876831, 0.0, -0.5918421745300293)
+second=(-0.9479525685310364, 0.0, 0.318411648273468)
+[18Dec2024 04:22:09.739] [Server thread/DEBUG] [greekfantasy/]: dot=0.5756514006499316
+[18Dec2024 04:23:42.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[18Dec2024 04:24:07.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9965ms or 199 ticks behind
+[18Dec2024 04:24:12.579] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7215310335159302, 0.0, -0.6923820972442627)
+second=(-0.05509951710700989, 0.0, 0.9984808564186096)
+[18Dec2024 04:24:12.582] [Server thread/DEBUG] [greekfantasy/]: dot=-0.731086280949814
+[18Dec2024 04:24:20.270] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8503981828689575, 0.0, 0.5261396169662476)
+second=(-0.14227169752120972, 0.0, 0.9898276329040527)
+[18Dec2024 04:24:20.271] [Server thread/DEBUG] [greekfantasy/]: dot=0.6417751246844645
+[18Dec2024 04:24:26.250] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.25161945819854736, 0.0, 0.967826247215271)
+second=(0.2606090009212494, 0.0, -0.9654194116592407)
+[18Dec2024 04:24:26.250] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8687839505614683
+[18Dec2024 04:24:27.925] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7042537331581116, 0.0, -0.7099483609199524)
+second=(-0.2391652911901474, 0.0, 0.970978856086731)
+[18Dec2024 04:24:27.925] [Server thread/DEBUG] [greekfantasy/]: dot=-0.5209117982041969
+[18Dec2024 04:24:31.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9133ms or 182 ticks behind
+[18Dec2024 04:24:50.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'amor:C?'. Is the client/server system time unsynchronized?
+[18Dec2024 04:24:50.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> amor:C?
+[18Dec2024 04:24:53.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6619ms or 132 ticks behind
+[18Dec2024 04:25:14.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6030ms or 120 ticks behind
+[18Dec2024 04:25:36.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6725ms or 134 ticks behind
+[18Dec2024 04:25:55.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3948ms or 78 ticks behind
+[18Dec2024 04:27:02.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[18Dec2024 04:27:05.418] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3610576093196869, 0.0, -0.9325435161590576)
+second=(0.9889218211174011, 0.0, 0.14843730628490448)
+[18Dec2024 04:27:05.425] [Server thread/DEBUG] [greekfantasy/]: dot=0.2186335010046161
+[18Dec2024 04:27:30.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[18Dec2024 04:27:44.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:27:44.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:27:52.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6808ms or 136 ticks behind
+[18Dec2024 04:28:13.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6146ms or 122 ticks behind
+[18Dec2024 04:28:33.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5243ms or 104 ticks behind
+[18Dec2024 04:28:57.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8355ms or 167 ticks behind
+[18Dec2024 04:29:17.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5893ms or 117 ticks behind
+[18Dec2024 04:29:38.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5232ms or 104 ticks behind
+[18Dec2024 04:29:58.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5788ms or 115 ticks behind
+[18Dec2024 04:30:19.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5561ms or 111 ticks behind
+[18Dec2024 04:30:43.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8652ms or 173 ticks behind
