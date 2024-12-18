@@ -1951,3 +1951,43 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 05:21:28.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
 [18Dec2024 05:21:28.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Tiger Shark
 [18Dec2024 05:21:33.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Tiger Shark
+[18Dec2024 05:22:26.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'bancame amor+'. Is the client/server system time unsynchronized?
+[18Dec2024 05:22:26.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> bancame amor+
+[18Dec2024 05:22:39.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to ampamp4]
+[18Dec2024 05:22:50.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'bancame amor DX'. Is the client/server system time unsynchronized?
+[18Dec2024 05:22:50.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> bancame amor DX
+[18Dec2024 05:23:11.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'bancame amor ottra vez'. Is the client/server system time unsynchronized?
+[18Dec2024 05:23:11.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> bancame amor ottra vez
+[18Dec2024 05:23:14.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'DXDXDX'. Is the client/server system time unsynchronized?
+[18Dec2024 05:23:14.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> DXDXDX
+[18Dec2024 05:23:16.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43957, l='ServerLevel[world]', x=-224.19, y=66.00, z=824.30] died, message: 'Villager was slain by Door Knight'
+[18Dec2024 05:24:05.636] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/44518, l='ServerLevel[world]', x=-294.50, y=-256.00, z=507.50, removed=DISCARDED]
+[18Dec2024 05:24:16.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'amro amor esperame voy a reiniciar mi internet'. Is the client/server system time unsynchronized?
+[18Dec2024 05:24:16.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> amro amor esperame voy a reiniciar mi internet
+[18Dec2024 05:24:18.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: ':C'. Is the client/server system time unsynchronized?
+[18Dec2024 05:24:18.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> :C
+[18Dec2024 05:24:20.162] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/44518, l='ServerLevel[world]', x=-294.50, y=-256.00, z=507.50, removed=DISCARDED]
+[18Dec2024 05:24:38.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint lost connection: Timed out
+[18Dec2024 05:24:38.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint left the game
+[18Dec2024 05:24:38.398] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 05:26:34.943] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@593382dc
+[18Dec2024 05:26:34.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sushint[/127.250.37.65:51385] logged in with entity id 45279 at (-281.1923282174576, 66.0, 772.48122087779)
+[18Dec2024 05:26:34.971] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to sushint
+[18Dec2024 05:26:34.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to sushint
+[18Dec2024 05:26:34.979] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to sushint
+[18Dec2024 05:26:34.981] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to sushint
+[18Dec2024 05:26:34.986] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to sushint
+[18Dec2024 05:26:35.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to sushint
+[18Dec2024 05:26:35.007] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to sushint
+[18Dec2024 05:26:35.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint joined the game
+[18Dec2024 05:26:35.170] [Server thread/INFO] [Jade/]: Syncing config to sushint (98654513-3dcd-332a-b68b-874d255259ae)
+[18Dec2024 05:26:38.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18Dec2024 05:27:01.797] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54653e49
+[18Dec2024 05:27:02.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 05:27:02.894] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/44518, l='ServerLevel[world]', x=-294.50, y=-256.00, z=507.50, removed=DISCARDED]
+[18Dec2024 05:30:14.556] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/44518, l='ServerLevel[world]', x=-294.50, y=-256.00, z=507.50, removed=DISCARDED]
+[18Dec2024 05:30:16.278] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/44518, l='ServerLevel[world]', x=-294.50, y=-256.00, z=507.50, removed=DISCARDED]
+[18Dec2024 05:30:21.354] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/44518, l='ServerLevel[world]', x=-294.50, y=-256.00, z=507.50, removed=DISCARDED]
+[18Dec2024 05:30:24.759] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/44518, l='ServerLevel[world]', x=-294.50, y=-256.00, z=507.50, removed=DISCARDED]
+[18Dec2024 05:30:25.692] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/44518, l='ServerLevel[world]', x=-294.50, y=-256.00, z=507.50, removed=DISCARDED]
+[18Dec2024 05:30:46.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
