@@ -8609,3 +8609,45 @@ second=(0.9889218211174011, 0.0, 0.14843730628490448)
 [18Dec2024 04:29:58.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5788ms or 115 ticks behind
 [18Dec2024 04:30:19.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5561ms or 111 ticks behind
 [18Dec2024 04:30:43.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8652ms or 173 ticks behind
+[18Dec2024 04:31:03.635] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7033001780509949, 0.0, 0.7108929753303528)
+second=(0.8028647303581238, 0.0, -0.5960842967033386)
+[18Dec2024 04:31:03.636] [Server thread/DEBUG] [greekfantasy/]: dot=0.14090276858059525
+[18Dec2024 04:31:06.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 04:31:08.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10595ms or 211 ticks behind
+[18Dec2024 04:33:48.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:33:48.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:34:37.983] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.27465006709098816, 0.0, 0.9615442156791687)
+second=(0.7122402191162109, 0.0, 0.7019357681274414)
+[18Dec2024 04:34:37.983] [Server thread/DEBUG] [greekfantasy/]: dot=0.8705591015864229
+[18Dec2024 04:34:42.482] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.27465006709098816, 0.0, 0.9615442156791687)
+second=(0.8538601398468018, 0.0, 0.5205025672912598)
+[18Dec2024 04:34:42.482] [Server thread/DEBUG] [greekfantasy/]: dot=0.7349989775203127
+[18Dec2024 04:36:36.882] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7114995718002319, 0.0, -0.7026865482330322)
+second=(0.39108213782310486, 0.0, 0.9203557968139648)
+[18Dec2024 04:36:36.882] [Server thread/DEBUG] [greekfantasy/]: dot=-0.3684668644096085
+[18Dec2024 04:36:41.951] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6052821278572083, 0.0, -0.7960110306739807)
+second=(0.29798179864883423, 0.0, 0.954571545124054)
+[18Dec2024 04:36:41.951] [Server thread/DEBUG] [greekfantasy/]: dot=-0.5794864223373679
+[18Dec2024 04:36:46.433] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.508087158203125, 0.0, -0.8613056540489197)
+second=(0.34266072511672974, 0.0, 0.9394592046737671)
+[18Dec2024 04:36:46.433] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6350600106814355
+[18Dec2024 04:36:50.603] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.5170601010322571, 0.0, -0.8559491038322449)
+second=(0.31868427991867065, 0.0, 0.9478608965873718)
+[18Dec2024 04:36:50.603] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6465417590194491
+[18Dec2024 04:36:55.482] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-1.2246468525851679E-16, 0.0, 1.0)
+second=(0.16973374783992767, 0.0, 0.9854899644851685)
+[18Dec2024 04:36:55.483] [Server thread/DEBUG] [greekfantasy/]: dot=0.9854899644851685
+[18Dec2024 04:37:00.884] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.16103485226631165, 0.0, -0.9869487285614014)
+second=(0.16046708822250366, 0.0, 0.987041175365448)
+[18Dec2024 04:37:00.885] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9999998269101962
+[18Dec2024 04:38:48.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:38:48.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
