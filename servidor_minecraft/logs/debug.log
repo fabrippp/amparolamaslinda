@@ -8021,3 +8021,48 @@ second=(0.37345266342163086, 0.0, 0.9276492595672607)
 [18Dec2024 03:07:56.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was burnt to a crisp whilst fighting Cerulean Crystal Slime
 [18Dec2024 03:08:26.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Made ampamp4 a server operator]
 [18Dec2024 03:08:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 03:11:48.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:11:48.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:14:15.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:14:41.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Cave Spider
+[18Dec2024 03:14:41.435] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7102183699607849, 0.0, 0.7039814591407776)
+second=(0.5836979746818542, 0.0, -0.8119149208068848)
+[18Dec2024 03:14:41.435] [Server thread/DEBUG] [greekfantasy/]: dot=-0.1570200265198416
+[18Dec2024 03:14:48.856] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8285285234451294, 0.0, -0.5599468946456909)
+second=(-0.8379108905792236, 0.0, 0.5458070635795593)
+[18Dec2024 03:14:48.856] [Server thread/DEBUG] [greekfantasy/]: dot=0.3886101026231401
+[18Dec2024 03:14:49.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:16:48.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:16:48.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:19:02.499] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.4150344133377075, 0.0, 0.9098057150840759)
+second=(0.17502230405807495, 0.0, -0.9845476746559143)
+[18Dec2024 03:19:02.500] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8231068218889313
+[18Dec2024 03:19:04.582] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.26218217611312866, 0.0, 0.9650183916091919)
+second=(0.2221871018409729, 0.0, -0.974982738494873)
+[18Dec2024 03:19:04.582] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8826227762841121
+[18Dec2024 03:19:05.682] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7395975589752197, 0.0, 0.6730493903160095)
+second=(0.33553546667099, 0.0, -0.94199538230896)
+[18Dec2024 03:19:05.682] [Server thread/DEBUG] [greekfantasy/]: dot=-0.3858482056440664
+[18Dec2024 03:19:06.680] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.1539340615272522, 0.0, 0.9880810976028442)
+second=(0.04830159246921539, 0.0, -0.9988281726837158)
+[18Dec2024 03:19:06.680] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9794879768749487
+[18Dec2024 03:19:07.780] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.48939064145088196, 0.0, -0.8720647096633911)
+second=(0.12393297255039215, 0.0, -0.9922786951065063)
+[18Dec2024 03:19:07.780] [Server thread/DEBUG] [greekfantasy/]: dot=0.8046795952198731
+[18Dec2024 03:19:08.380] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.22713850438594818, 0.0, 0.9738624691963196)
+second=(0.8622297644615173, 0.0, -0.5064346790313721)
+[18Dec2024 03:19:08.381] [Server thread/DEBUG] [greekfantasy/]: dot=-0.29735214787130015
+[18Dec2024 03:19:08.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was shot by Skeleton
+[18Dec2024 03:19:13.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:19:25.202] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9436252117156982, 0.0, -0.33101582527160645)
+second=(0.9025495052337646, 0.0, 0.4305860996246338)
+[18Dec2024 03:19:25.202] [Server thread/DEBUG] [greekfantasy/]: dot=0.7091376548423796

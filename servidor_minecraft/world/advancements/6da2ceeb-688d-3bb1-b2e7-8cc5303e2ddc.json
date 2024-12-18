@@ -207,6 +207,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-17 05:45:32 +0000",
       "cooked_mutton": "2024-12-17 06:02:50 +0000",
+      "cooked_beef": "2024-12-18 03:10:14 +0000",
       "porkchop": "2024-12-17 06:27:13 +0000",
       "bread": "2024-12-17 06:05:56 +0000",
       "dried_kelp": "2024-12-17 05:30:01 +0000",
@@ -622,12 +623,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-18 03:06:48 +0000"
-    },
-    "done": false
-  },
   "diamethysts:weapons/diamethyst_copper_scimitar": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -727,6 +722,12 @@
   "diamethysts:items/diamethyst_emerald_arrow": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:shiny_object_syndrome": {
+    "criteria": {
+      "shiny_object_syndrome": "2024-12-18 03:06:52 +0000"
     },
     "done": true
   },

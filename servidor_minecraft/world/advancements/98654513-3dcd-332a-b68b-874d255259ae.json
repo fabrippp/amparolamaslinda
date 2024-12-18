@@ -516,6 +516,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-17 21:21:19 +0000",
       "minecraft:skeleton": "2024-12-17 20:57:58 +0000",
+      "minecraft:cave_spider": "2024-12-18 03:11:21 +0000",
       "minecraft:zombie": "2024-12-17 07:05:11 +0000"
     },
     "done": false

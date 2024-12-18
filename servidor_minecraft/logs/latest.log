@@ -1850,3 +1850,8 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 03:07:56.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was burnt to a crisp whilst fighting Cerulean Crystal Slime
 [18Dec2024 03:08:26.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Made ampamp4 a server operator]
 [18Dec2024 03:08:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 03:14:15.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:14:41.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Cave Spider
+[18Dec2024 03:14:49.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:19:08.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was shot by Skeleton
+[18Dec2024 03:19:13.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
