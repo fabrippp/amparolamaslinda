@@ -7350,3 +7350,19 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 06:08:59.342] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ampamp4
 [18Dec2024 06:08:59.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 joined the game
 [18Dec2024 06:08:59.470] [Server thread/INFO] [Jade/]: Syncing config to ampamp4 (6da2ceeb-688d-3bb1-b2e7-8cc5303e2ddc)
+[18Dec2024 06:10:35.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18Dec2024 06:11:14.605] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.19396181404590607, 0.0, 0.9810090661048889)
+second=(-0.9999610781669617, 0.0, -0.008820274844765663)
+[18Dec2024 06:11:14.605] [Server thread/DEBUG] [greekfantasy/]: dot=0.18530149510831195
+[18Dec2024 06:11:16.700] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.19396181404590607, 0.0, 0.9810090661048889)
+second=(-0.9989806413650513, 0.0, 0.04514121264219284)
+[18Dec2024 06:11:16.700] [Server thread/DEBUG] [greekfantasy/]: dot=0.23804803625286786
+[18Dec2024 06:12:50.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[18Dec2024 06:13:58.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:13:58.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:14:34.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 06:14:50.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by sushint
+[18Dec2024 06:18:58.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:18:58.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

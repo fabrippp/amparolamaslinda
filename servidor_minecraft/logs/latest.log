@@ -1786,3 +1786,7 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 06:08:59.342] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ampamp4
 [18Dec2024 06:08:59.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 joined the game
 [18Dec2024 06:08:59.470] [Server thread/INFO] [Jade/]: Syncing config to ampamp4 (6da2ceeb-688d-3bb1-b2e7-8cc5303e2ddc)
+[18Dec2024 06:10:35.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18Dec2024 06:12:50.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[18Dec2024 06:14:34.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 06:14:50.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by sushint
