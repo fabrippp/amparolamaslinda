@@ -1938,3 +1938,16 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 05:10:16.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ji
 [18Dec2024 05:11:10.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38254, l='ServerLevel[world]', x=-221.21, y=67.00, z=824.34] died, message: 'Villager was slain by Door Knight'
 [18Dec2024 05:11:17.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38253, l='ServerLevel[world]', x=-221.23, y=67.00, z=816.63] died, message: 'Villager was slain by Door Knight'
+[18Dec2024 05:15:53.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 05:17:22.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 05:19:33.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> MAS EXTRAÑO EL APODO Y MAS LINDO EL CHICO
+[18Dec2024 05:20:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Tiger Shark
+[18Dec2024 05:20:48.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 05:20:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Tiger Shark
+[18Dec2024 05:20:55.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 05:21:00.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Tiger Shark
+[18Dec2024 05:21:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Tiger Shark
+[18Dec2024 05:21:18.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 05:21:28.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 05:21:28.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Tiger Shark
+[18Dec2024 05:21:33.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Tiger Shark

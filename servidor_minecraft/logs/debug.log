@@ -8725,3 +8725,32 @@ second=(-0.7590219378471375, 0.0, -0.6510650515556335)
 [18Dec2024 05:11:05.774] [Server thread/DEBUG] [greekfantasy/]: dot=0.26696346734399334
 [18Dec2024 05:11:10.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38254, l='ServerLevel[world]', x=-221.21, y=67.00, z=824.34] died, message: 'Villager was slain by Door Knight'
 [18Dec2024 05:11:17.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38253, l='ServerLevel[world]', x=-221.23, y=67.00, z=816.63] died, message: 'Villager was slain by Door Knight'
+[18Dec2024 05:13:52.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 05:13:52.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:15:21.737] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.049737971276044846, 0.0, 0.998762309551239)
+second=(-0.18586674332618713, 0.0, -0.9825749397277832)
+[18Dec2024 05:15:21.737] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9721141813689603
+[18Dec2024 05:15:53.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 05:17:22.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 05:18:52.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 05:18:52.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:19:33.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> MAS EXTRAÑO EL APODO Y MAS LINDO EL CHICO
+[18Dec2024 05:19:54.431] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-1.0, 0.0, -1.2246468525851679E-16)
+second=(-0.9930210709571838, 0.0, 0.11793726682662964)
+[18Dec2024 05:19:54.431] [Server thread/DEBUG] [greekfantasy/]: dot=0.9930210709571838
+[18Dec2024 05:19:56.481] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9998143315315247, 0.0, -0.019269440323114395)
+second=(-0.9423809051513672, 0.0, -0.33454179763793945)
+[18Dec2024 05:19:56.482] [Server thread/DEBUG] [greekfantasy/]: dot=0.948652367937159
+[18Dec2024 05:20:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Tiger Shark
+[18Dec2024 05:20:48.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 05:20:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Tiger Shark
+[18Dec2024 05:20:55.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 05:21:00.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Tiger Shark
+[18Dec2024 05:21:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Tiger Shark
+[18Dec2024 05:21:18.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 05:21:28.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 05:21:28.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Tiger Shark
+[18Dec2024 05:21:33.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Tiger Shark
