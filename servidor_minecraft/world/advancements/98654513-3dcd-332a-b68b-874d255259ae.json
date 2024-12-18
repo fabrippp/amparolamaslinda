@@ -205,6 +205,7 @@
       "apple": "2024-12-17 06:24:55 +0000",
       "bread": "2024-12-17 06:05:37 +0000",
       "dried_kelp": "2024-12-17 05:31:16 +0000",
+      "cooked_rabbit": "2024-12-18 02:07:45 +0000",
       "cooked_chicken": "2024-12-17 06:51:28 +0000",
       "cooked_salmon": "2024-12-17 05:27:51 +0000",
       "carrot": "2024-12-17 07:01:41 +0000"
@@ -861,6 +862,12 @@
     },
     "done": true
   },
+  "byg:husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2024-12-18 02:15:15 +0000"
+    },
+    "done": true
+  },
   "diamethysts:armor/diamethyst_emerald_leggings": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
@@ -1008,6 +1015,7 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:coconino_meadow": "2024-12-17 05:18:30 +0000",
+      "byg:autumnal_forest": "2024-12-18 02:15:36 +0000",
       "byg:cardinal_tundra": "2024-12-17 05:19:05 +0000",
       "byg:maple_taiga": "2024-12-17 05:23:51 +0000"
     },
@@ -1084,6 +1092,12 @@
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-17 05:27:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2024-12-18 02:15:51 +0000"
     },
     "done": true
   },

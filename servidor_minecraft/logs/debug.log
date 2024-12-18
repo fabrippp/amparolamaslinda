@@ -7339,3 +7339,47 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 02:05:34.124] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/148, l='ServerLevel[world]', x=-296.30, y=62.00, z=820.63] died, message: 'Butcher was chopped to bits by Skirmisher'
 [18Dec2024 02:06:36.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 02:06:36.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:08:36.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3928ms or 78 ticks behind
+[18Dec2024 02:08:36.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 moved too quickly! 9.393515011095246,-2.121296840539202,3.1561375698436223
+[18Dec2024 02:10:48.751] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7069711685180664, 0.0, 0.7072423696517944)
+second=(-0.9047666192054749, 0.0, -0.4259076714515686)
+[18Dec2024 02:10:48.752] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9408638648261203
+[18Dec2024 02:10:52.267] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8531607389450073, 0.0, 0.5216481685638428)
+second=(-0.9250492453575134, 0.0, -0.3798471987247467)
+[18Dec2024 02:10:52.268] [Server thread/DEBUG] [greekfantasy/]: dot=0.5910691021808674
+[18Dec2024 02:10:55.179] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8531607389450073, 0.0, 0.5216481685638428)
+second=(-0.9352514147758484, 0.0, -0.35398420691490173)
+[18Dec2024 02:10:55.179] [Server thread/DEBUG] [greekfantasy/]: dot=0.6132645748918435
+[18Dec2024 02:10:58.381] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8531607389450073, 0.0, 0.5216481685638428)
+second=(-0.9298879504203796, 0.0, -0.3678428530693054)
+[18Dec2024 02:10:58.382] [Server thread/DEBUG] [greekfantasy/]: dot=0.6014593402938075
+[18Dec2024 02:11:17.949] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9963126182556152, 0.0, -0.08579730987548828)
+second=(-0.9508429765701294, 0.0, -0.3096734285354614)
+[18Dec2024 02:11:17.949] [Server thread/DEBUG] [greekfantasy/]: dot=0.9739060026448101
+[18Dec2024 02:11:40.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:11:40.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:14:29.038] [Worker-Main-10/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Dec2024 02:14:29.043] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Dec2024 02:14:30.017] [Worker-Main-10/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[18Dec2024 02:14:30.018] [Worker-Main-10/DEBUG] [mixin/]: Mixing access.SurfaceRuleContextAccess from byg.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[18Dec2024 02:14:35.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[18Dec2024 02:15:03.855] [Worker-Main-10/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[18Dec2024 02:15:05.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has completed the challenge [Berrily Alive]
+[18Dec2024 02:15:15.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has completed the challenge [Berrily Alive]
+[18Dec2024 02:15:51.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Light Up The World!]
+[18Dec2024 02:15:53.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18Dec2024 02:16:44.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:16:44.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:17:17.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 moved too quickly! -9.96853259185275,1.2508673611415873,0.8896514913698184
+[18Dec2024 02:17:17.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! -10.161383492833636,-0.568476154729268,-0.3564491702966279
+[18Dec2024 02:17:17.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[18Dec2024 02:17:42.637] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[18Dec2024 02:17:44.976] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=27, z=-1223}
+[18Dec2024 02:18:09.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[18Dec2024 02:18:09.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! -10.120283971511526,0.5800000131130219,1.0312347663874561
+[18Dec2024 02:18:14.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 moved too quickly! 1.2798219199059986,-1.5813359922251635,10.002139499014447
