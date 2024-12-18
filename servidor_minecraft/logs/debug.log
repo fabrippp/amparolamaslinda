@@ -8337,3 +8337,161 @@ second=(-0.7174694538116455, 0.0, 0.6965899467468262)
 [18Dec2024 03:49:37.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3199ms or 63 ticks behind
 [18Dec2024 03:49:37.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 5.078447698799096,3.2522033402537254,-8.121919431677497
 [18Dec2024 03:49:53.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 03:50:11.398] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3810884952545166, 0.0, 0.9245385527610779)
+second=(0.45568108558654785, 0.0, -0.8900994062423706)
+[18Dec2024 03:50:11.399] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6492763976386939
+[18Dec2024 03:50:14.094] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.6063500046730042, 0.0, -0.7951979041099548)
+second=(0.40883177518844604, 0.0, -0.9125705361366272)
+[18Dec2024 03:50:14.094] [Server thread/DEBUG] [greekfantasy/]: dot=0.4777790288923569
+[18Dec2024 03:50:16.779] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.4397359788417816, 0.0, -0.8981270790100098)
+second=(0.4142492413520813, 0.0, -0.9101237654685974)
+[18Dec2024 03:50:16.780] [Server thread/DEBUG] [greekfantasy/]: dot=0.9995670946483255
+[18Dec2024 03:50:22.695] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9579915404319763, 0.0, -0.2867964208126068)
+second=(0.11574727296829224, 0.0, -0.9932675957679749)
+[18Dec2024 03:50:22.695] [Server thread/DEBUG] [greekfantasy/]: dot=0.3957504997070931
+[18Dec2024 03:50:25.428] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9714128971099854, 0.0, -0.23739615082740784)
+second=(0.27980855107307434, 0.0, -0.9600290060043335)
+[18Dec2024 03:50:25.428] [Server thread/DEBUG] [greekfantasy/]: dot=0.4997168259421336
+[18Dec2024 03:50:25.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21340, l='ServerLevel[world]', x=-250.30, y=64.00, z=812.43] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:50:27.135] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6839653849601746, 0.0, 0.7295144200325012)
+second=(0.9809159636497498, 0.0, -0.19433800876140594)
+[18Dec2024 03:50:27.135] [Server thread/DEBUG] [greekfantasy/]: dot=0.5291401849394335
+[18Dec2024 03:50:27.628] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9895253777503967, 0.0, 0.14435915648937225)
+second=(0.8162023425102234, 0.0, -0.5776879191398621)
+[18Dec2024 03:50:27.629] [Server thread/DEBUG] [greekfantasy/]: dot=0.7242583905720563
+[18Dec2024 03:50:29.129] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7494538426399231, 0.0, -0.662056565284729)
+second=(0.6571565270423889, 0.0, 0.7537541389465332)
+[18Dec2024 03:50:29.129] [Server thread/DEBUG] [greekfantasy/]: dot=-0.006519391892265247
+[18Dec2024 03:50:29.629] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9552263021469116, 0.0, -0.295876145362854)
+second=(0.699130654335022, 0.0, -0.7149268984794617)
+[18Dec2024 03:50:29.629] [Server thread/DEBUG] [greekfantasy/]: dot=0.8793578045963173
+[18Dec2024 03:50:31.129] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9658927321434021, 0.0, 0.25894251465797424)
+second=(0.7353888750076294, 0.0, 0.6776453256607056)
+[18Dec2024 03:50:31.129] [Server thread/DEBUG] [greekfantasy/]: dot=0.885777954341787
+[18Dec2024 03:50:31.591] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8085997700691223, 0.0, -0.5883590579032898)
+second=(-0.7151279449462891, 0.0, -0.6989935636520386)
+[18Dec2024 03:50:31.591] [Server thread/DEBUG] [greekfantasy/]: dot=-0.16699309726279665
+[18Dec2024 03:50:33.416] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.0705045759677887, 0.0, -0.9975114464759827)
+second=(0.8221954703330994, 0.0, -0.5691264271736145)
+[18Dec2024 03:50:33.418] [Server thread/DEBUG] [greekfantasy/]: dot=0.625678668596132
+[18Dec2024 03:50:33.666] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3485085368156433, 0.0, 0.9373056292533875)
+second=(-0.6060450077056885, 0.0, -0.7954303622245789)
+[18Dec2024 03:50:33.666] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9567732150720936
+[18Dec2024 03:50:36.045] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9838345646858215, 0.0, -0.17907974123954773)
+second=(0.48997578024864197, 0.0, -0.8716890811920166)
+[18Dec2024 03:50:36.045] [Server thread/DEBUG] [greekfantasy/]: dot=0.6381569635687239
+[18Dec2024 03:50:38.479] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.2631072700023651, 0.0, 0.9647665619850159)
+second=(0.8389558792114258, 0.0, -0.5441189408302307)
+[18Dec2024 03:50:38.479] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7456831508874622
+[18Dec2024 03:50:41.128] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9777377247810364, 0.0, -0.2098306268453598)
+second=(0.5161570906639099, 0.0, -0.8564444184303284)
+[18Dec2024 03:50:41.128] [Server thread/DEBUG] [greekfantasy/]: dot=0.6843745286327758
+[18Dec2024 03:50:44.128] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.08579730987548828, 0.0, 0.9963126182556152)
+second=(0.7608914375305176, 0.0, -0.6488062739372253)
+[18Dec2024 03:50:44.128] [Server thread/DEBUG] [greekfantasy/]: dot=-0.5811314390796554
+[18Dec2024 03:50:44.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21341, l='ServerLevel[world]', x=-251.49, y=64.00, z=805.63] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:50:47.743] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.1145092025399208, 0.0, -0.9934222102165222)
+second=(-0.9877392649650574, 0.0, -0.15611249208450317)
+[18Dec2024 03:50:47.744] [Server thread/DEBUG] [greekfantasy/]: dot=0.26819085247751273
+[18Dec2024 03:50:50.429] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.501632034778595, 0.0, -0.8650811314582825)
+second=(-0.9764525294303894, 0.0, -0.21573235094547272)
+[18Dec2024 03:50:50.429] [Server thread/DEBUG] [greekfantasy/]: dot=-0.3031938829548073
+[18Dec2024 03:50:53.730] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.1649131178855896, 0.0, -0.9863080978393555)
+second=(-0.9807665944099426, 0.0, -0.1951843500137329)
+[18Dec2024 03:50:53.731] [Server thread/DEBUG] [greekfantasy/]: dot=0.354253181992231
+[18Dec2024 03:50:56.928] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8885210752487183, 0.0, -0.4588358402252197)
+second=(-0.9753648638725281, 0.0, -0.22059768438339233)
+[18Dec2024 03:50:56.928] [Server thread/DEBUG] [greekfantasy/]: dot=0.96785036147363
+[18Dec2024 03:50:59.403] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.34608107805252075, 0.0, -0.9382045865058899)
+second=(-0.9831930994987488, 0.0, -0.18256859481334686)
+[18Dec2024 03:50:59.403] [Server thread/DEBUG] [greekfantasy/]: dot=0.5115512208141437
+[18Dec2024 03:50:59.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21339, l='ServerLevel[world]', x=-242.38, y=64.00, z=805.87] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:51:39.733] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9736879467964172, 0.0, 0.2278853803873062)
+second=(-0.777310848236084, 0.0, 0.6291167140007019)
+[18Dec2024 03:51:39.733] [Server thread/DEBUG] [greekfantasy/]: dot=0.9002247055196362
+[18Dec2024 03:51:42.231] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.980990469455719, 0.0, -0.19405587017536163)
+second=(-0.3533564507961273, 0.0, 0.935488760471344)
+[18Dec2024 03:51:42.231] [Server thread/DEBUG] [greekfantasy/]: dot=-0.5281763960042367
+[18Dec2024 03:51:45.430] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9904586672782898, 0.0, 0.13781003654003143)
+second=(-0.2663431465625763, 0.0, 0.9638782739639282)
+[18Dec2024 03:51:45.430] [Server thread/DEBUG] [greekfantasy/]: dot=0.3966339781381869
+[18Dec2024 03:51:51.428] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7638694643974304, 0.0, -0.6453707814216614)
+second=(-0.4553396701812744, 0.0, 0.8903177976608276)
+[18Dec2024 03:51:51.429] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9224051627702536
+[18Dec2024 03:51:51.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:51:51.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:51:54.330] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.04130984842777252, 0.0, 0.9991464018821716)
+second=(-0.5017979145050049, 0.0, 0.864984929561615)
+[18Dec2024 03:51:54.330] [Server thread/DEBUG] [greekfantasy/]: dot=0.8849757758433654
+[18Dec2024 03:51:54.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21338, l='ServerLevel[world]', x=-242.54, y=64.00, z=813.29] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:52:05.103] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.01447643805295229, 0.0, -0.9998952150344849)
+second=(-0.7546983957290649, 0.0, 0.6560719013214111)
+[18Dec2024 03:52:05.103] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6450778102754214
+[18Dec2024 03:52:11.930] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5164855122566223, 0.0, -0.8562959432601929)
+second=(0.08751654624938965, 0.0, 0.9961630702018738)
+[18Dec2024 03:52:11.930] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8982114240600296
+[18Dec2024 03:52:11.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/21425, l='ServerLevel[world]', x=-216.77, y=66.00, z=827.65] died, message: 'Nitwit was shot by Pillager'
+[18Dec2024 03:52:15.928] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.03709464892745018, 0.0, 0.9993117451667786)
+second=(-0.23478758335113525, 0.0, 0.9720467329025269)
+[18Dec2024 03:52:15.928] [Server thread/DEBUG] [greekfantasy/]: dot=0.9800870800174244
+[18Dec2024 03:52:19.092] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.4691968858242035, 0.0, -0.8830935955047607)
+second=(0.43361222743988037, 0.0, 0.9010995626449585)
+[18Dec2024 03:52:19.092] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9992047594539919
+[18Dec2024 03:52:25.033] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9614124894142151, 0.0, -0.27511098980903625)
+second=(0.8081482648849487, 0.0, -0.5889015793800354)
+[18Dec2024 03:52:25.033] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6149505387554708
+[18Dec2024 03:52:28.731] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9985795617103577, 0.0, -0.05328059196472168)
+second=(0.9006417989730835, 0.0, -0.43447595834732056)
+[18Dec2024 03:52:28.731] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8762133566213848
+[18Dec2024 03:52:32.824] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7996523976325989, 0.0, 0.6004631519317627)
+second=(0.88461834192276, 0.0, -0.46623095870018005)
+[18Dec2024 03:52:32.824] [Server thread/DEBUG] [greekfantasy/]: dot=0.4274326671190316
+[18Dec2024 03:52:32.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/21424, l='ServerLevel[world]', x=-221.46, y=67.00, z=816.53] died, message: 'Nitwit was shot by Pillager'
+[18Dec2024 03:55:22.629] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8958384990692139, 0.0, 0.4443798363208771)
+second=(-0.9046032428741455, 0.0, -0.42625463008880615)
+[18Dec2024 03:55:22.629] [Server thread/DEBUG] [greekfantasy/]: dot=0.6209594485996384
+[18Dec2024 03:55:24.639] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8649367690086365, 0.0, 0.5018808245658875)
+second=(-0.9648170471191406, 0.0, -0.2629222571849823)
+[18Dec2024 03:55:24.639] [Server thread/DEBUG] [greekfantasy/]: dot=0.7025501001869596
+[18Dec2024 03:56:18.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Bone Knight
+[18Dec2024 03:56:22.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:56:51.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:56:51.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:57:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Bone Knight
+[18Dec2024 03:57:52.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]

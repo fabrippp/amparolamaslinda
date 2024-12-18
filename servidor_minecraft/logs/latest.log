@@ -1886,3 +1886,13 @@ java.lang.OutOfMemoryError: Java heap space
 [18Dec2024 03:49:37.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3199ms or 63 ticks behind
 [18Dec2024 03:49:37.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 5.078447698799096,3.2522033402537254,-8.121919431677497
 [18Dec2024 03:49:53.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[18Dec2024 03:50:25.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21340, l='ServerLevel[world]', x=-250.30, y=64.00, z=812.43] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:50:44.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21341, l='ServerLevel[world]', x=-251.49, y=64.00, z=805.63] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:50:59.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21339, l='ServerLevel[world]', x=-242.38, y=64.00, z=805.87] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:51:54.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21338, l='ServerLevel[world]', x=-242.54, y=64.00, z=813.29] died, message: 'Villager was shot by Pillager'
+[18Dec2024 03:52:11.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/21425, l='ServerLevel[world]', x=-216.77, y=66.00, z=827.65] died, message: 'Nitwit was shot by Pillager'
+[18Dec2024 03:52:32.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/21424, l='ServerLevel[world]', x=-221.46, y=67.00, z=816.53] died, message: 'Nitwit was shot by Pillager'
+[18Dec2024 03:56:18.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Bone Knight
+[18Dec2024 03:56:22.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[18Dec2024 03:57:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Bone Knight
+[18Dec2024 03:57:52.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
