@@ -525,7 +525,8 @@
       "minecraft:spider": "2024-12-18 03:24:01 +0000",
       "minecraft:witch": "2024-12-18 03:24:58 +0000",
       "minecraft:cave_spider": "2024-12-18 03:11:21 +0000",
-      "minecraft:zombie": "2024-12-17 07:05:11 +0000"
+      "minecraft:zombie": "2024-12-17 07:05:11 +0000",
+      "minecraft:zombie_villager": "2024-12-18 05:42:44 +0000"
     },
     "done": false
   },
@@ -648,6 +649,12 @@
       "has_recipe": "2024-12-17 05:18:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-18 06:08:54 +0000"
+    },
+    "done": false
   },
   "diamethysts:weapons/diamethyst_copper_scimitar": {
     "criteria": {
