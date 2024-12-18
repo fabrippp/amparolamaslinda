@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2024-12-18 03:59:53 +0000"
+    },
+    "done": true
+  },
   "diamethysts:armor/diamethyst_copper_boots": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
