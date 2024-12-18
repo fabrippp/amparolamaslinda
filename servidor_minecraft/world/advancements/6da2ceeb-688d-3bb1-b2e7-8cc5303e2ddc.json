@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-18 02:25:18 +0000"
+    },
+    "done": true
+  },
   "diamethysts:armor/diamethyst_copper_boots": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"

@@ -7383,3 +7383,119 @@ second=(-0.9508429765701294, 0.0, -0.3096734285354614)
 [18Dec2024 02:18:09.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
 [18Dec2024 02:18:09.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! -10.120283971511526,0.5800000131130219,1.0312347663874561
 [18Dec2024 02:18:14.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 moved too quickly! 1.2798219199059986,-1.5813359922251635,10.002139499014447
+[18Dec2024 02:18:56.492] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=25, z=-1209}
+[18Dec2024 02:18:56.995] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-1202}
+[18Dec2024 02:19:04.401] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=25, z=-1221}
+[18Dec2024 02:19:04.883] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-211, y=27, z=-1224}
+[18Dec2024 02:19:41.731] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
+[18Dec2024 02:19:41.735] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
+[18Dec2024 02:19:42.282] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
+[18Dec2024 02:19:42.283] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
+[18Dec2024 02:19:42.284] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
+[18Dec2024 02:19:42.528] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=26, z=-1245}
+[18Dec2024 02:19:42.533] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=26, z=-1243}
+[18Dec2024 02:19:42.533] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-1243}
+[18Dec2024 02:19:42.536] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-1245}
+[18Dec2024 02:19:42.537] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-1247}
+[18Dec2024 02:19:42.993] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=26, z=-1251}
+[18Dec2024 02:19:42.993] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-1251}
+[18Dec2024 02:19:43.359] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
+[18Dec2024 02:19:43.645] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[18Dec2024 02:20:03.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-533, y=64, z=852} BlockPos{x=-534, y=62, z=852}
+[18Dec2024 02:21:48.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:21:48.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:21:59.980] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9975919127464294, 0.0, -0.06935690343379974)
+second=(-0.9671960473060608, 0.0, 0.2540311813354492)
+[18Dec2024 02:21:59.981] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9824857709458961
+[18Dec2024 02:22:02.752] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.6439782381057739, 0.0, -0.7650437951087952)
+second=(-0.7412086129188538, 0.0, 0.6712747812271118)
+[18Dec2024 02:22:02.753] [Server thread/DEBUG] [greekfantasy/]: dot=-0.036232389574507806
+[18Dec2024 02:22:05.446] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8609644770622253, 0.0, -0.5086650848388672)
+second=(-0.7412086129188538, 0.0, 0.6712747812271118)
+[18Dec2024 02:22:05.446] [Server thread/DEBUG] [greekfantasy/]: dot=0.2967002422726175
+[18Dec2024 02:22:07.694] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9055816531181335, 0.0, -0.4241720139980316)
+second=(-0.7412086129188538, 0.0, 0.6712747812271118)
+[18Dec2024 02:22:07.694] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9559608968916464
+[18Dec2024 02:22:09.784] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.07385139912366867, 0.0, 0.9972692728042603)
+second=(-0.7412086129188538, 0.0, 0.6712747812271118)
+[18Dec2024 02:22:09.784] [Server thread/DEBUG] [greekfantasy/]: dot=0.7241810060327718
+[18Dec2024 02:22:12.533] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.01303846761584282, 0.0, -0.9999150037765503)
+second=(-0.8486785888671875, 0.0, 0.528908908367157)
+[18Dec2024 02:22:12.533] [Server thread/DEBUG] [greekfantasy/]: dot=-0.5177984848101929
+[18Dec2024 02:22:14.191] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9879330992698669, 0.0, 0.1548812985420227)
+second=(-0.8486785888671875, 0.0, 0.528908908367157)
+[18Dec2024 02:22:14.191] [Server thread/DEBUG] [greekfantasy/]: dot=0.9203557671218867
+[18Dec2024 02:22:16.529] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9978442788124084, 0.0, -0.0656263530254364)
+second=(-0.8486785888671875, 0.0, 0.528908908367157)
+[18Dec2024 02:22:16.530] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8815594371905124
+[18Dec2024 02:22:18.396] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8168665170669556, 0.0, 0.5768267512321472)
+second=(-0.8486785888671875, 0.0, 0.528908908367157)
+[18Dec2024 02:22:18.397] [Server thread/DEBUG] [greekfantasy/]: dot=-0.3881683156860696
+[18Dec2024 02:22:20.329] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8168665170669556, 0.0, 0.5768267512321472)
+second=(-0.9061095714569092, 0.0, -0.42304301261901855)
+[18Dec2024 02:22:20.329] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9841930963175258
+[18Dec2024 02:23:06.629] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9768233895301819, 0.0, -0.21404694020748138)
+second=(-0.9305915832519531, 0.0, 0.3660591244697571)
+[18Dec2024 02:23:06.630] [Server thread/DEBUG] [greekfantasy/]: dot=0.8306697890926502
+[18Dec2024 02:23:07.631] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9630566239356995, 0.0, -0.2692990303039551)
+second=(-0.9047257900238037, 0.0, 0.4259944260120392)
+[18Dec2024 02:23:07.631] [Server thread/DEBUG] [greekfantasy/]: dot=0.7565822790879508
+[18Dec2024 02:23:08.680] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9504562616348267, 0.0, -0.31085827946662903)
+second=(-0.8966040015220642, 0.0, 0.44283318519592285)
+[18Dec2024 02:23:08.680] [Server thread/DEBUG] [greekfantasy/]: dot=0.7145245254127559
+[18Dec2024 02:23:24.280] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9995611906051636, 0.0, -0.029620671644806862)
+second=(-0.9190760850906372, 0.0, -0.39408016204833984)
+[18Dec2024 02:23:24.280] [Server thread/DEBUG] [greekfantasy/]: dot=0.9303457049516961
+[18Dec2024 02:23:40.250] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7931003570556641, 0.0, 0.6090909838676453)
+second=(0.9999691247940063, 0.0, -0.00776569964364171)
+[18Dec2024 02:23:40.250] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7978058875551327
+[18Dec2024 02:23:48.230] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9487130045890808, 0.0, 0.3161386251449585)
+second=(0.9999940395355225, 0.0, 0.00345145002938807)
+[18Dec2024 02:23:48.230] [Server thread/DEBUG] [greekfantasy/]: dot=0.9497984864859649
+[18Dec2024 02:23:48.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/3919, l='ServerLevel[world]', x=-354.51, y=65.00, z=855.99] died, message: 'Leatherworker was slain by Zombie Clown'
+[18Dec2024 02:23:59.035] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9487130045890808, 0.0, 0.3161386251449585)
+second=(0.9705184698104858, 0.0, -0.2409336268901825)
+[18Dec2024 02:23:59.035] [Server thread/DEBUG] [greekfantasy/]: dot=0.8445750679468524
+[18Dec2024 02:24:01.579] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9487130045890808, 0.0, 0.3161386251449585)
+second=(0.9540271759033203, 0.0, -0.29962867498397827)
+[18Dec2024 02:24:01.580] [Server thread/DEBUG] [greekfantasy/]: dot=0.810373791147434
+[18Dec2024 02:24:02.782] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9487130045890808, 0.0, 0.3161386251449585)
+second=(0.9363666772842407, 0.0, -0.35093367099761963)
+[18Dec2024 02:24:02.782] [Server thread/DEBUG] [greekfantasy/]: dot=0.7773995555371656
+[18Dec2024 02:24:05.598] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9487130045890808, 0.0, 0.3161386251449585)
+second=(0.9363666772842407, 0.0, -0.35093367099761963)
+[18Dec2024 02:24:05.599] [Server thread/DEBUG] [greekfantasy/]: dot=0.7773995555371656
+[18Dec2024 02:24:12.551] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9487130045890808, 0.0, 0.3161386251449585)
+second=(0.9363666772842407, 0.0, -0.35093367099761963)
+[18Dec2024 02:24:12.552] [Server thread/DEBUG] [greekfantasy/]: dot=0.7773995555371656
+[18Dec2024 02:25:32.473] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9151784181594849, 0.0, -0.40304893255233765)
+second=(-0.9580464959144592, 0.0, 0.28661271929740906)
+[18Dec2024 02:25:32.473] [Server thread/DEBUG] [greekfantasy/]: dot=0.7612645260854887
+[18Dec2024 02:25:35.030] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9877243041992188, 0.0, 0.15620720386505127)
+second=(-0.9568567872047424, 0.0, -0.29055988788604736)
+[18Dec2024 02:25:35.030] [Server thread/DEBUG] [greekfantasy/]: dot=0.8997231567180819
+[18Dec2024 02:26:48.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:26:48.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
