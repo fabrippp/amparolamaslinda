@@ -7451,3 +7451,109 @@ second=(0.035370051860809326, 0.0, -0.9993708729743958)
 [22Dec2024 07:18:33.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Harpy
 [22Dec2024 07:20:03.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 07:20:03.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 07:22:36.364] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.22704513370990753, 0.0, 0.9738842248916626)
+second=(0.11336620897054672, 0.0, -0.9935423731803894)
+[22Dec2024 07:22:36.364] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9418559979279034
+[22Dec2024 07:22:37.406] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.2511554956436157, 0.0, 0.9679467678070068)
+second=(0.45063868165016174, 0.0, -0.8926632404327393)
+[22Dec2024 07:22:37.406] [Server thread/DEBUG] [greekfantasy/]: dot=-0.750870116870967
+[22Dec2024 07:22:39.355] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3565831482410431, 0.0, 0.9342635869979858)
+second=(0.4912289083003998, 0.0, -0.8709834218025208)
+[22Dec2024 07:22:39.356] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6385641452402355
+[22Dec2024 07:22:40.354] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.4509809911251068, 0.0, 0.892533540725708)
+second=(0.2581090033054352, 0.0, -0.9660910367965698)
+[22Dec2024 07:22:40.355] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9786709078644114
+[22Dec2024 07:22:41.354] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.1387595683336258, 0.0, 0.9903261065483093)
+second=(0.285234659910202, 0.0, -0.9584303498268127)
+[22Dec2024 07:22:41.354] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9887376350246497
+[22Dec2024 07:22:45.180] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.2688373327255249, 0.0, 0.9631856083869934)
+second=(-0.15336564183235168, 0.0, 0.9881694912910461)
+[22Dec2024 07:22:45.181] [Server thread/DEBUG] [greekfantasy/]: dot=0.9930210427405797
+[22Dec2024 07:23:08.755] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6451510787010193, 0.0, 0.764055073261261)
+second=(0.6947304010391235, 0.0, -0.7192036509513855)
+[22Dec2024 07:23:08.755] [Server thread/DEBUG] [greekfantasy/]: dot=-0.10130513058064494
+[22Dec2024 07:24:38.021] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.02885400876402855, 0.0, -0.9995836615562439)
+second=(-0.07069583982229233, 0.0, 0.9974979162216187)
+[22Dec2024 07:24:38.021] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9950427611097162
+[22Dec2024 07:24:40.008] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8672849535942078, 0.0, -0.4978119730949402)
+second=(-0.46079400181770325, 0.0, 0.8875071406364441)
+[22Dec2024 07:24:40.008] [Server thread/DEBUG] [greekfantasy/]: dot=-0.04217197633312075
+[22Dec2024 07:24:42.062] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7111626267433167, 0.0, -0.7030275464057922)
+second=(-0.7512916922569275, 0.0, 0.6599702835083008)
+[22Dec2024 07:24:42.063] [Server thread/DEBUG] [greekfantasy/]: dot=0.07031328420029226
+[22Dec2024 07:24:44.081] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7000897526741028, 0.0, -0.7140548825263977)
+second=(-0.743392825126648, 0.0, 0.6688550710678101)
+[22Dec2024 07:24:44.081] [Server thread/DEBUG] [greekfantasy/]: dot=0.042842469884107004
+[22Dec2024 07:25:03.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 07:25:03.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 07:25:36.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'BESP'. Is the client/server system time unsynchronized?
+[22Dec2024 07:25:36.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> BESP
+[22Dec2024 07:25:40.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso*'. Is the client/server system time unsynchronized?
+[22Dec2024 07:25:40.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> beso*
+[22Dec2024 07:27:40.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso*'. Is the client/server system time unsynchronized?
+[22Dec2024 07:27:40.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> beso*
+[22Dec2024 07:27:40.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso*'. Is the client/server system time unsynchronized?
+[22Dec2024 07:27:40.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> beso*
+[22Dec2024 07:27:40.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso*'. Is the client/server system time unsynchronized?
+[22Dec2024 07:27:40.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> beso*
+[22Dec2024 07:27:41.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso*'. Is the client/server system time unsynchronized?
+[22Dec2024 07:27:41.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> beso*
+[22Dec2024 07:27:42.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso*'. Is the client/server system time unsynchronized?
+[22Dec2024 07:27:42.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> beso*
+[22Dec2024 07:27:42.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso*'. Is the client/server system time unsynchronized?
+[22Dec2024 07:27:42.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> beso*
+[22Dec2024 07:27:43.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso*'. Is the client/server system time unsynchronized?
+[22Dec2024 07:27:43.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> beso*
+[22Dec2024 07:27:43.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso*'. Is the client/server system time unsynchronized?
+[22Dec2024 07:27:43.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> beso*
+[22Dec2024 07:27:45.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'jejejejej'. Is the client/server system time unsynchronized?
+[22Dec2024 07:27:45.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> jejejejej
+[22Dec2024 07:27:52.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'oler*'. Is the client/server system time unsynchronized?
+[22Dec2024 07:27:52.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> oler*
+[22Dec2024 07:27:55.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'dea pq'. Is the client/server system time unsynchronized?
+[22Dec2024 07:27:55.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> dea pq
+[22Dec2024 07:28:51.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> rrefsdfsfe
+[22Dec2024 07:28:54.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> rrefe
+[22Dec2024 07:30:03.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 07:30:03.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 07:30:43.858] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.5022953748703003, 0.0, -0.8646479249000549)
+second=(0.34085869789123535, 0.0, 0.9401145577430725)
+[22Dec2024 07:30:43.858] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6416563540858
+[22Dec2024 07:30:44.855] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3681994378566742, 0.0, -0.9297115206718445)
+second=(0.15885815024375916, 0.0, 0.9873014092445374)
+[22Dec2024 07:30:44.855] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8594140129314907
+[22Dec2024 07:30:45.805] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7092052102088928, 0.0, 0.7050020694732666)
+second=(0.8499438762664795, 0.0, -0.5267917513847351)
+[22Dec2024 07:30:45.805] [Server thread/DEBUG] [greekfantasy/]: dot=0.23139535052564497
+[22Dec2024 07:30:47.854] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9803526997566223, 0.0, 0.1972525715827942)
+second=(0.9973396062850952, 0.0, -0.07279963046312332)
+[22Dec2024 07:30:47.854] [Server thread/DEBUG] [greekfantasy/]: dot=0.9633846612766717
+[22Dec2024 07:30:48.817] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9918324947357178, 0.0, 0.1275472640991211)
+second=(0.9701011180877686, 0.0, -0.24260815978050232)
+[22Dec2024 07:30:48.818] [Server thread/DEBUG] [greekfantasy/]: dot=0.9312338050707751
+[22Dec2024 07:30:49.903] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9742529988288879, 0.0, 0.2254575490951538)
+second=(0.9869178533554077, 0.0, -0.16112947463989258)
+[22Dec2024 07:30:49.903] [Server thread/DEBUG] [greekfantasy/]: dot=0.9251798217899747
+[22Dec2024 07:30:49.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was shot by Supreme Bonescaller
+[22Dec2024 07:31:26.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> beso
+[22Dec2024 07:31:31.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'dea pq'. Is the client/server system time unsynchronized?
+[22Dec2024 07:31:31.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> dea pq
+[22Dec2024 07:31:33.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso*'. Is the client/server system time unsynchronized?
+[22Dec2024 07:31:33.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> beso*
