@@ -953,6 +953,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-22 07:05:02 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_copper_battle_axe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"

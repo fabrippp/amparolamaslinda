@@ -1856,3 +1856,6 @@ java.lang.OutOfMemoryError: Java heap space
 [22Dec2024 06:58:14.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3642ms or 72 ticks behind
 [22Dec2024 06:58:14.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 10.020250000543598,-2.252203340253729,0.2118561688326963
 [22Dec2024 06:58:14.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 moved too quickly! 9.928068606685827,1.0,-1.4291548628279998
+[22Dec2024 07:02:21.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Scarlet Persecutor
+[22Dec2024 07:02:56.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Scarlet Persecutor
+[22Dec2024 07:05:02.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Amateur Archaeologist]
