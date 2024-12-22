@@ -226,6 +226,12 @@
     },
     "done": true
   },
+  "gnumus:fatty_demon": {
+    "criteria": {
+      "fatty_demon": "2024-12-22 07:37:53 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_gold_bow": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"

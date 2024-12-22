@@ -1895,3 +1895,8 @@ java.lang.OutOfMemoryError: Java heap space
 [22Dec2024 07:31:31.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> dea pq
 [22Dec2024 07:31:33.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'beso*'. Is the client/server system time unsynchronized?
 [22Dec2024 07:31:33.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> beso*
+[22Dec2024 07:32:10.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Bone Imp
+[22Dec2024 07:33:55.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10461, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[22Dec2024 07:34:35.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Nightmare Stalker
+[22Dec2024 07:37:53.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Fatty Demon]
+[22Dec2024 07:41:43.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> ttttt aaaammmmoooo
