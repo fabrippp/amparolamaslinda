@@ -1859,3 +1859,5 @@ java.lang.OutOfMemoryError: Java heap space
 [22Dec2024 07:02:21.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Scarlet Persecutor
 [22Dec2024 07:02:56.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Scarlet Persecutor
 [22Dec2024 07:05:02.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Amateur Archaeologist]
+[22Dec2024 07:15:31.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/595, l='ServerLevel[world]', x=-268.70, y=62.82, z=917.70] died, message: 'Villager was slain by Decaying Zombie'
+[22Dec2024 07:18:33.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Harpy
