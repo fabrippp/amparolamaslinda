@@ -7414,3 +7414,27 @@ java.lang.OutOfMemoryError: Java heap space
 [22Dec2024 06:48:22.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> no entiendo q espacio
 [22Dec2024 06:49:59.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 06:49:59.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 06:54:59.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 06:54:59.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 06:55:07.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was blown up by Decaying Zombie
+[22Dec2024 06:57:29.333] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.36141520738601685, 0.0, 0.9324049949645996)
+second=(-0.9871026277542114, 0.0, 0.16008855402469635)
+[22Dec2024 06:57:29.335] [Server thread/DEBUG] [greekfantasy/]: dot=0.5060212683303575
+[22Dec2024 06:57:31.364] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9944239258766174, 0.0, 0.10545647889375687)
+second=(-0.9204307198524475, 0.0, -0.3909056782722473)
+[22Dec2024 06:57:31.364] [Server thread/DEBUG] [greekfantasy/]: dot=0.8740747935229449
+[22Dec2024 06:57:33.356] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7831277847290039, 0.0, -0.6218608021736145)
+second=(-0.9909155368804932, 0.0, 0.13448570668697357)
+[22Dec2024 06:57:33.357] [Server thread/DEBUG] [greekfantasy/]: dot=0.6923820998095254
+[22Dec2024 06:57:39.054] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.4531189501285553, 0.0, -0.891450047492981)
+second=(0.035370051860809326, 0.0, -0.9993708729743958)
+[22Dec2024 06:57:39.055] [Server thread/DEBUG] [greekfantasy/]: dot=0.9069160529412894
+[22Dec2024 06:58:14.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3642ms or 72 ticks behind
+[22Dec2024 06:58:14.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 10.020250000543598,-2.252203340253729,0.2118561688326963
+[22Dec2024 06:58:14.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 moved too quickly! 9.928068606685827,1.0,-1.4291548628279998
+[22Dec2024 07:00:03.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 07:00:03.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

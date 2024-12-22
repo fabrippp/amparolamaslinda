@@ -1852,3 +1852,7 @@ java.lang.OutOfMemoryError: Java heap space
 [22Dec2024 06:44:51.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> que hermodo de mierda
 [22Dec2024 06:47:42.111] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@40f828e8
 [22Dec2024 06:48:22.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> no entiendo q espacio
+[22Dec2024 06:55:07.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was blown up by Decaying Zombie
+[22Dec2024 06:58:14.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3642ms or 72 ticks behind
+[22Dec2024 06:58:14.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 10.020250000543598,-2.252203340253729,0.2118561688326963
+[22Dec2024 06:58:14.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 moved too quickly! 9.928068606685827,1.0,-1.4291548628279998
