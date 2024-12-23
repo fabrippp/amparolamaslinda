@@ -8089,3 +8089,124 @@ second=(-0.05088699981570244, 0.0, 0.9987044334411621)
 [23Dec2024 06:17:12.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> oh bueno ya t fuiste...
 [23Dec2024 06:17:35.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'hola amor'. Is the client/server system time unsynchronized?
 [23Dec2024 06:17:36.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> hola amor
+[23Dec2024 06:17:55.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'te amo'. Is the client/server system time unsynchronized?
+[23Dec2024 06:17:55.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> te amo
+[23Dec2024 06:17:57.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> amor
+[23Dec2024 06:17:58.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'besp*'. Is the client/server system time unsynchronized?
+[23Dec2024 06:17:58.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> besp*
+[23Dec2024 06:17:59.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amo
+[23Dec2024 06:18:03.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> besito
+[23Dec2024 06:18:04.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> jejejeje
+[23Dec2024 06:18:07.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'vamos a la cama amorcito:3?'. Is the client/server system time unsynchronized?
+[23Dec2024 06:18:07.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> vamos a la cama amorcito:3?
+[23Dec2024 06:18:12.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'osea en m,'. Is the client/server system time unsynchronized?
+[23Dec2024 06:18:12.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> osea en m,
+[23Dec2024 06:18:14.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'mc'. Is the client/server system time unsynchronized?
+[23Dec2024 06:18:14.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> mc
+[23Dec2024 06:18:30.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'algun dia dire eso en la vida real...'. Is the client/server system time unsynchronized?
+[23Dec2024 06:18:30.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> algun dia dire eso en la vida real...
+[23Dec2024 06:18:31.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> YA VNEGO
+[23Dec2024 06:18:37.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'VAMOS A DORMIR'. Is the client/server system time unsynchronized?
+[23Dec2024 06:18:37.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> VAMOS A DORMIR
+[23Dec2024 06:18:42.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> SIIIIIIIIII
+[23Dec2024 06:18:58.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'en serio descanso muy bien con vos a mi lado eh'. Is the client/server system time unsynchronized?
+[23Dec2024 06:18:58.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> en serio descanso muy bien con vos a mi lado eh
+[23Dec2024 06:20:04.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'o no :c'. Is the client/server system time unsynchronized?
+[23Dec2024 06:20:04.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> o no :c
+[23Dec2024 06:20:06.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'ya vengoo'. Is the client/server system time unsynchronized?
+[23Dec2024 06:20:06.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ya vengoo
+[23Dec2024 06:21:02.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'volvu'. Is the client/server system time unsynchronized?
+[23Dec2024 06:21:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> volvu
+[23Dec2024 06:21:06.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[23Dec2024 06:21:14.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 06:21:15.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 06:21:19.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'hola amorr'. Is the client/server system time unsynchronized?
+[23Dec2024 06:21:19.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> hola amorr
+[23Dec2024 06:21:20.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> holiiiiiiiiiiii
+[23Dec2024 06:21:23.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'holiiiii'. Is the client/server system time unsynchronized?
+[23Dec2024 06:21:23.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> holiiiii
+[23Dec2024 06:21:23.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amo
+[23Dec2024 06:21:26.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'en serio descanso muy bien con vos a mi lado eh'. Is the client/server system time unsynchronized?
+[23Dec2024 06:21:26.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> en serio descanso muy bien con vos a mi lado eh
+[23Dec2024 06:21:29.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'te amo'. Is the client/server system time unsynchronized?
+[23Dec2024 06:21:29.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> te amo
+[23Dec2024 06:21:31.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> amor en dos seg mee tengo q ir bebe
+[23Dec2024 06:21:36.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'noooooot'. Is the client/server system time unsynchronized?
+[23Dec2024 06:21:36.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> noooooot
+[23Dec2024 06:21:36.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> yo tambien bebe
+[23Dec2024 06:21:40.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amo
+[23Dec2024 06:21:42.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'a dormir amor:(?'. Is the client/server system time unsynchronized?
+[23Dec2024 06:21:42.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> a dormir amor:(?
+[23Dec2024 06:21:44.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'te amo amor'. Is the client/server system time unsynchronized?
+[23Dec2024 06:21:44.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> te amo amor
+[23Dec2024 06:21:46.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> vhi
+[23Dec2024 06:21:48.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> vhi
+[23Dec2024 06:21:52.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> chi
+[23Dec2024 06:21:58.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'pero nos despedimos por chat no mi niña?'. Is the client/server system time unsynchronized?
+[23Dec2024 06:21:58.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> pero nos despedimos por chat no mi niña?
+[23Dec2024 06:22:03.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'mi niña hermosa :3'. Is the client/server system time unsynchronized?
+[23Dec2024 06:22:03.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> mi niña hermosa :3
+[23Dec2024 06:22:05.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> chi bebe
+[23Dec2024 06:22:10.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'ohhhh siiii'. Is the client/server system time unsynchronized?
+[23Dec2024 06:22:10.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ohhhh siiii
+[23Dec2024 06:22:11.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amo mi principe
+[23Dec2024 06:22:18.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'FIUEHFIUEFUIEWF yo soy ewar fiuawhgfiesoy wo iothseouithg'. Is the client/server system time unsynchronized?
+[23Dec2024 06:22:18.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> FIUEHFIUEFUIEWF yo soy ewar fiuawhgfiesoy wo iothseouithg
+[23Dec2024 06:22:23.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'tose* yo soy ese'. Is the client/server system time unsynchronized?
+[23Dec2024 06:22:23.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> tose* yo soy ese
+[23Dec2024 06:22:25.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'jejej'. Is the client/server system time unsynchronized?
+[23Dec2024 06:22:25.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> jejej
+[23Dec2024 06:22:30.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'avisame bebita'. Is the client/server system time unsynchronized?
+[23Dec2024 06:22:30.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> avisame bebita
+[23Dec2024 06:22:34.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'y apago el sv jj'. Is the client/server system time unsynchronized?
+[23Dec2024 06:22:34.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> y apago el sv jj
+[23Dec2024 06:25:08.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> amor traeme hueso
+[23Dec2024 06:25:16.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'voy bebe'. Is the client/server system time unsynchronized?
+[23Dec2024 06:25:16.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> voy bebe
+[23Dec2024 06:25:34.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> mucho
+[23Dec2024 06:25:48.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[23Dec2024 06:26:01.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'hay otro??'. Is the client/server system time unsynchronized?
+[23Dec2024 06:26:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> hay otro??
+[23Dec2024 06:26:02.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'jjkejejwae'. Is the client/server system time unsynchronized?
+[23Dec2024 06:26:02.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> jjkejejwae
+[23Dec2024 06:26:05.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> siiiiiiii dos mas
+[23Dec2024 06:26:08.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> dame
+[23Dec2024 06:26:15.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 06:26:15.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 06:26:17.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'pero yo tmb qiero el miooo'. Is the client/server system time unsynchronized?
+[23Dec2024 06:26:17.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> pero yo tmb qiero el miooo
+[23Dec2024 06:26:35.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'aca hay un amor'. Is the client/server system time unsynchronized?
+[23Dec2024 06:26:35.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> aca hay un amor
+[23Dec2024 06:26:38.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'ah si'. Is the client/server system time unsynchronized?
+[23Dec2024 06:26:38.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ah si
+[23Dec2024 06:26:40.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'jejejeje'. Is the client/server system time unsynchronized?
+[23Dec2024 06:26:40.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> jejejeje
+[23Dec2024 06:26:43.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> elegi
+[23Dec2024 06:26:45.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'QE BIEN HECHO AMORRRR'. Is the client/server system time unsynchronized?
+[23Dec2024 06:26:45.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> QE BIEN HECHO AMORRRR
+[23Dec2024 06:26:50.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> jijij
+[23Dec2024 06:26:53.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amoooooooo
+[23Dec2024 06:26:54.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'el d aca arriba'. Is the client/server system time unsynchronized?
+[23Dec2024 06:26:54.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> el d aca arriba
+[23Dec2024 06:26:56.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'jijiji'. Is the client/server system time unsynchronized?
+[23Dec2024 06:26:56.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> jijiji
+[23Dec2024 06:26:58.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'te amo mi amor'. Is the client/server system time unsynchronized?
+[23Dec2024 06:26:58.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> te amo mi amor
+[23Dec2024 06:26:59.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'AH BEBE'. Is the client/server system time unsynchronized?
+[23Dec2024 06:26:59.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> AH BEBE
+[23Dec2024 06:27:01.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'm olvide decirte'. Is the client/server system time unsynchronized?
+[23Dec2024 06:27:01.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> m olvide decirte
+[23Dec2024 06:27:06.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'con la m se abre el mapa'. Is the client/server system time unsynchronized?
+[23Dec2024 06:27:06.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> con la m se abre el mapa
+[23Dec2024 06:27:16.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'YA LO TENGOOO'. Is the client/server system time unsynchronized?
+[23Dec2024 06:27:16.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> YA LO TENGOOO
+[23Dec2024 06:27:31.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'TE AMO MI CIELOOO'. Is the client/server system time unsynchronized?
+[23Dec2024 06:27:31.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> TE AMO MI CIELOOO
+[23Dec2024 06:27:34.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'te amo'. Is the client/server system time unsynchronized?
+[23Dec2024 06:27:34.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> te amo
+[23Dec2024 06:27:43.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+[23Dec2024 06:27:50.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'salite salite'. Is the client/server system time unsynchronized?
+[23Dec2024 06:27:50.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> salite salite
+[23Dec2024 06:27:50.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> nooooooooooooooooooooooooo
+[23Dec2024 06:27:57.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'saliteeee'. Is the client/server system time unsynchronized?
+[23Dec2024 06:27:57.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> saliteeee
