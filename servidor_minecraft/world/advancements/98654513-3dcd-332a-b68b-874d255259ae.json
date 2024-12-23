@@ -680,6 +680,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-23 04:29:03 +0000"
+    },
+    "done": true
+  },
   "diamethysts:tools/diamethyst_netherite_shovel": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
@@ -1356,6 +1362,12 @@
       "has_recipe": "2024-12-17 05:18:12 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:ragdoll": "2024-12-23 04:29:03 +0000"
+    },
+    "done": false
   },
   "diamethysts:items/diamethyst_emerald_hilt": {
     "criteria": {

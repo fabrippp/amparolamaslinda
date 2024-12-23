@@ -1857,3 +1857,5 @@ java.lang.OutOfMemoryError: Java heap space
 [23Dec2024 04:23:29.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
 [23Dec2024 04:23:37.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 1.2946790830668533,9.335680956251998,3.6136049247213577
 [23Dec2024 04:23:54.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10179ms or 203 ticks behind
+[23Dec2024 04:26:27.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Best Friends Forever]
+[23Dec2024 04:29:03.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Best Friends Forever]

@@ -361,6 +361,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2024-12-23 04:31:11 +0000",
       "minecraft:pig": "2024-12-23 04:19:46 +0000"
     },
     "done": false
@@ -668,6 +669,12 @@
   "diamethysts:armor/diamethyst_netherite_horse_armor": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-23 04:26:27 +0000"
     },
     "done": true
   },
