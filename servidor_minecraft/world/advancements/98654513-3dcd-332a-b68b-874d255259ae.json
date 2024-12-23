@@ -381,6 +381,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2024-12-23 04:50:04 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_lapis_sword": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"

@@ -7765,3 +7765,30 @@ second=(-0.8724398016929626, 0.0, -0.4887216091156006)
 [23Dec2024 04:45:37.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 04:45:37.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 04:45:51.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind
+[23Dec2024 04:46:17.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[23Dec2024 04:47:52.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Brown Bear
+[23Dec2024 04:48:25.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[23Dec2024 04:48:45.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[23Dec2024 04:49:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[23Dec2024 04:49:51.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[23Dec2024 04:50:04.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [A Little Hot Rod Red]
+[23Dec2024 04:50:44.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 04:50:44.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 04:53:25.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[23Dec2024 04:55:15.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[23Dec2024 04:55:19.399] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.004697798751294613, 0.0, 0.9999889731407166)
+second=(-0.4716503620147705, 0.0, 0.8817856311798096)
+[23Dec2024 04:55:19.400] [Server thread/DEBUG] [greekfantasy/]: dot=0.8795601893720157
+[23Dec2024 04:55:24.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! -3.765026875352021,0.32352912385572097,-9.385488495618347
+[23Dec2024 04:55:35.879] [Server thread/DEBUG] [greekfantasy/]: 
+first=(5.752427387051284E-4, 0.0, 0.9999998211860657)
+second=(-0.6574455499649048, 0.0, -0.7535020709037781)
+[23Dec2024 04:55:35.879] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7538801269458195
+[23Dec2024 04:55:36.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6485ms or 129 ticks behind
+[23Dec2024 04:55:52.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 04:55:53.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 04:55:56.006] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8518577218055725, 0.0, 0.523773193359375)
+second=(-0.6836856007575989, 0.0, -0.7297766804695129)
+[23Dec2024 04:55:56.006] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9646403206613634
