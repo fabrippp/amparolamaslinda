@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-23 08:01:50 +0000"
+    },
+    "done": true
+  },
   "diamethysts:tools/diamethyst_emerald_axe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
