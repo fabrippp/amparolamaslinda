@@ -7837,3 +7837,22 @@ second=(-0.9962049126625061, 0.0, -0.08703900873661041)
 [23Dec2024 05:11:05.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 05:16:05.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 05:16:05.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 05:18:58.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Decrepit Skeleton
+[23Dec2024 05:19:02.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[23Dec2024 05:19:09.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[23Dec2024 05:21:07.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 05:21:07.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 05:23:20.142] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.5884366035461426, 0.0, 0.8085433840751648)
+second=(0.649170994758606, 0.0, -0.76058030128479)
+[23Dec2024 05:23:20.142] [Server thread/DEBUG] [greekfantasy/]: dot=-0.23296619538528773
+[23Dec2024 05:23:22.148] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.5884366035461426, 0.0, 0.8085433840751648)
+second=(0.6259816288948059, 0.0, -0.7797777652740479)
+[23Dec2024 05:23:22.149] [Server thread/DEBUG] [greekfantasy/]: dot=-0.2621336495721067
+[23Dec2024 05:23:24.159] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7069711685180664, 0.0, 0.7072423696517944)
+second=(0.6884287595748901, 0.0, -0.7252379655838013)
+[23Dec2024 05:23:24.159] [Server thread/DEBUG] [greekfantasy/]: dot=-0.02621973274283107
+[23Dec2024 05:26:07.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 05:26:07.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
