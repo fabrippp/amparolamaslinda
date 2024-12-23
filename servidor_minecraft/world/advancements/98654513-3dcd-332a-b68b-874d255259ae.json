@@ -279,6 +279,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2024-12-23 07:02:23 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/gold_chain_links": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
@@ -528,6 +534,12 @@
   "diamethysts:weapons/diamethyst_diamond_sickle": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/toad": {
+    "criteria": {
+      "kill": "2024-12-23 06:57:07 +0000"
     },
     "done": true
   },
@@ -1103,6 +1115,7 @@
       "byg:black_forest": "2024-12-18 04:28:06 +0000",
       "byg:autumnal_forest": "2024-12-18 02:15:36 +0000",
       "byg:cardinal_tundra": "2024-12-17 05:19:05 +0000",
+      "byg:temperate_rainforest": "2024-12-23 06:56:55 +0000",
       "byg:maple_taiga": "2024-12-17 05:23:51 +0000"
     },
     "done": false
