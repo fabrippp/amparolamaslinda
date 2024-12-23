@@ -7407,3 +7407,34 @@ second=(-0.06859174370765686, 0.0, -0.99764484167099)
 first=(0.2254575490951538, 0.0, 0.9742529988288879)
 second=(-0.06753957271575928, 0.0, -0.9977166056632996)
 [23Dec2024 03:54:01.919] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9872557015802776
+[23Dec2024 03:58:58.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 03:58:58.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 03:59:48.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Diamonds!]
+[23Dec2024 04:01:47.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3898, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[23Dec2024 04:02:45.735] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9318842887878418, 0.0, 0.3627557158470154)
+second=(0.2278853803873062, 0.0, -0.9736661314964294)
+[23Dec2024 04:02:45.735] [Server thread/DEBUG] [greekfantasy/]: dot=-0.5655657601543531
+[23Dec2024 04:02:46.734] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.906271755695343, 0.0, -0.42269548773765564)
+second=(-0.5260581374168396, 0.0, -0.8504486083984375)
+[23Dec2024 04:02:46.734] [Server thread/DEBUG] [greekfantasy/]: dot=-0.1172708424717932
+[23Dec2024 04:02:47.760] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7013209462165833, 0.0, 0.7128456234931946)
+second=(-0.45123767852783203, 0.0, -0.892403781414032)
+[23Dec2024 04:02:47.761] [Server thread/DEBUG] [greekfantasy/]: dot=-0.3196836942960566
+[23Dec2024 04:03:58.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 04:03:58.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 04:04:47.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> uwu
+[23Dec2024 04:05:03.335] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9872862100601196, 0.0, -0.15895280241966248)
+second=(-0.9784561395645142, 0.0, 0.20645476877689362)
+[23Dec2024 04:05:03.335] [Server thread/DEBUG] [greekfantasy/]: dot=0.933199689670714
+[23Dec2024 04:05:04.285] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9832630753517151, 0.0, -0.18219153583049774)
+second=(-0.9905641078948975, 0.0, 0.1370503306388855)
+[23Dec2024 04:05:04.285] [Server thread/DEBUG] [greekfantasy/]: dot=0.9490157008365889
+[23Dec2024 04:05:07.301] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9832630753517151, 0.0, -0.18219153583049774)
+second=(-0.9982167482376099, 0.0, 0.059693869203329086)
+[23Dec2024 04:05:07.301] [Server thread/DEBUG] [greekfantasy/]: dot=0.9706339520298817
