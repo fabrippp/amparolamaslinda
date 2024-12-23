@@ -993,6 +993,18 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2024-12-23 04:07:12 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-23 04:08:13 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_copper_battle_axe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"

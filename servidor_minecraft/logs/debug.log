@@ -7438,3 +7438,54 @@ second=(-0.9905641078948975, 0.0, 0.1370503306388855)
 first=(-0.9832630753517151, 0.0, -0.18219153583049774)
 second=(-0.9982167482376099, 0.0, 0.059693869203329086)
 [23Dec2024 04:05:07.301] [Server thread/DEBUG] [greekfantasy/]: dot=0.9706339520298817
+[23Dec2024 04:06:13.987] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9778984189033508, 0.0, -0.20898689329624176)
+second=(0.9611482620239258, 0.0, -0.27603259682655334)
+[23Dec2024 04:06:13.987] [Server thread/DEBUG] [greekfantasy/]: dot=0.997592560624176
+[23Dec2024 04:06:21.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Cecaelia
+[23Dec2024 04:07:08.740] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7168681025505066, 0.0, 0.6972087621688843)
+second=(0.9999926686286926, 0.0, 0.003834942588582635)
+[23Dec2024 04:07:08.740] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7141890913490939
+[23Dec2024 04:08:13.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Amateur Archaeologist]
+[23Dec2024 04:08:28.450] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23Dec2024 04:08:28.453] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23Dec2024 04:08:29.073] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[23Dec2024 04:08:29.074] [Worker-Main-1/DEBUG] [mixin/]: Mixing access.SurfaceRuleContextAccess from byg.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[23Dec2024 04:08:32.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[23Dec2024 04:08:35.421] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[23Dec2024 04:08:39.925] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
+[23Dec2024 04:08:59.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11549ms or 230 ticks behind
+[23Dec2024 04:09:20.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 04:09:20.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 04:09:26.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11929ms or 238 ticks behind
+[23Dec2024 04:09:51.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[23Dec2024 04:09:54.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12947ms or 258 ticks behind
+[23Dec2024 04:10:17.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8763ms or 175 ticks behind
+[23Dec2024 04:10:38.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5623ms or 112 ticks behind
+[23Dec2024 04:10:54.147] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
+[23Dec2024 04:12:07.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[23Dec2024 04:12:51.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Bison
+[23Dec2024 04:13:11.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4453ms or 89 ticks behind
+[23Dec2024 04:13:11.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[23Dec2024 04:13:41.278] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.986434280872345, 0.0, -0.16415658593177795)
+second=(0.9824857711791992, 0.0, 0.18633773922920227)
+[23Dec2024 04:13:41.279] [Server thread/DEBUG] [greekfantasy/]: dot=0.9385690780583529
+[23Dec2024 04:14:31.350] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.0897129699587822, 0.0, -0.9959676861763)
+second=(0.46589165925979614, 0.0, -0.8847970962524414)
+[23Dec2024 04:14:31.351] [Server thread/DEBUG] [greekfantasy/]: dot=0.8394327922588318
+[23Dec2024 04:14:49.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[23Dec2024 04:14:55.094] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9776571989059448, 0.0, -0.2102055698633194)
+second=(0.5420258641242981, 0.0, -0.8403098583221436)
+[23Dec2024 04:14:55.095] [Server thread/DEBUG] [greekfantasy/]: dot=0.7065533006847069
+[23Dec2024 04:15:04.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 04:15:04.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 04:15:10.874] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.01879015937447548, 0.0, 0.9998234510421753)
+second=(0.32431286573410034, 0.0, -0.9459187984466553)
+[23Dec2024 04:15:10.876] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9518456879029393
+[23Dec2024 04:15:14.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9241ms or 184 ticks behind
+[23Dec2024 04:15:32.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3025ms or 60 ticks behind

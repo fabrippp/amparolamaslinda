@@ -1795,3 +1795,21 @@ java.lang.OutOfMemoryError: Java heap space
 [23Dec2024 03:59:48.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Diamonds!]
 [23Dec2024 04:01:47.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3898, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
 [23Dec2024 04:04:47.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> uwu
+[23Dec2024 04:06:21.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Cecaelia
+[23Dec2024 04:08:13.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Amateur Archaeologist]
+[23Dec2024 04:08:32.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[23Dec2024 04:08:39.925] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
+[23Dec2024 04:08:59.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11549ms or 230 ticks behind
+[23Dec2024 04:09:26.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11929ms or 238 ticks behind
+[23Dec2024 04:09:51.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[23Dec2024 04:09:54.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12947ms or 258 ticks behind
+[23Dec2024 04:10:17.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8763ms or 175 ticks behind
+[23Dec2024 04:10:38.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5623ms or 112 ticks behind
+[23Dec2024 04:10:54.147] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
+[23Dec2024 04:12:07.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[23Dec2024 04:12:51.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Bison
+[23Dec2024 04:13:11.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4453ms or 89 ticks behind
+[23Dec2024 04:13:11.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[23Dec2024 04:14:49.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[23Dec2024 04:15:14.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9241ms or 184 ticks behind
+[23Dec2024 04:15:32.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3025ms or 60 ticks behind
