@@ -7792,3 +7792,32 @@ second=(-0.6574455499649048, 0.0, -0.7535020709037781)
 first=(0.8518577218055725, 0.0, 0.523773193359375)
 second=(-0.6836856007575989, 0.0, -0.7297766804695129)
 [23Dec2024 04:55:56.006] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9646403206613634
+[23Dec2024 04:56:36.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[23Dec2024 04:56:56.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5084ms or 101 ticks behind
+[23Dec2024 04:57:21.004] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-3.834951785393059E-4, 0.0, 0.9999999403953552)
+second=(-0.9985332489013672, 0.0, -0.05414221063256264)
+[23Dec2024 04:57:21.005] [Server thread/DEBUG] [greekfantasy/]: dot=-0.05375927471887054
+[23Dec2024 04:57:23.625] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9620690941810608, 0.0, -0.2728058397769928)
+second=(-0.7630025148391724, 0.0, -0.6463955044746399)
+[23Dec2024 04:57:23.625] [Server thread/DEBUG] [greekfantasy/]: dot=0.910401606735471
+[23Dec2024 04:57:24.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[23Dec2024 04:57:25.975] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.09878040850162506, 0.0, 0.9951092600822449)
+second=(-0.4484120011329651, 0.0, -0.893826961517334)
+[23Dec2024 04:57:25.976] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9337498069660208
+[23Dec2024 04:57:42.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3378ms or 67 ticks behind
+[23Dec2024 04:58:56.058] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.22611133754253387, 0.0, 0.9741014838218689)
+second=(-0.14853212237358093, 0.0, -0.9889075756072998)
+[23Dec2024 04:58:56.059] [Server thread/DEBUG] [greekfantasy/]: dot=-0.929711539903836
+[23Dec2024 05:01:05.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 05:01:05.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 05:02:20.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26767, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[23Dec2024 05:02:30.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[23Dec2024 05:03:31.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/24976, l='ServerLevel[world]', x=-299.97, y=67.00, z=894.43] died, message: 'Leatherworker was slain by Door Knight'
+[23Dec2024 05:05:18.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/25095, l='ServerLevel[world]', x=-219.62, y=67.00, z=817.17] died, message: 'Nitwit was slain by Zombie'
+[23Dec2024 05:05:30.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25096, l='ServerLevel[world]', x=-212.10, y=65.94, z=814.47] died, message: 'Villager was slain by Zombie'
+[23Dec2024 05:06:05.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 05:06:05.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
