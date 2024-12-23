@@ -7821,3 +7821,19 @@ second=(-0.14853212237358093, 0.0, -0.9889075756072998)
 [23Dec2024 05:05:30.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25096, l='ServerLevel[world]', x=-212.10, y=65.94, z=814.47] died, message: 'Villager was slain by Zombie'
 [23Dec2024 05:06:05.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 05:06:05.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 05:10:28.304] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9990403056144714, 0.0, -0.04380030930042267)
+second=(-0.999973475933075, 0.0, -0.007286344189196825)
+[23Dec2024 05:10:28.304] [Server thread/DEBUG] [greekfantasy/]: dot=0.9993329511317006
+[23Dec2024 05:10:30.350] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9990403056144714, 0.0, -0.04380030930042267)
+second=(-0.9985228180885315, 0.0, -0.054333675652742386)
+[23Dec2024 05:10:30.351] [Server thread/DEBUG] [greekfantasy/]: dot=0.9999443731452087
+[23Dec2024 05:10:32.339] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.4395637512207031, 0.0, 0.8982114195823669)
+second=(-0.9962049126625061, 0.0, -0.08703900873661041)
+[23Dec2024 05:10:32.339] [Server thread/DEBUG] [greekfantasy/]: dot=0.35971613679807124
+[23Dec2024 05:11:05.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 05:11:05.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 05:16:05.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 05:16:05.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
