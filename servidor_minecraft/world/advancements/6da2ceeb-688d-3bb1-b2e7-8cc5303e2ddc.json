@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2024-12-23 04:19:46 +0000"
+    },
+    "done": false
+  },
   "diamethysts:tools/diamethyst_prismarine_shovel": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -1267,6 +1273,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-17 05:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-23 04:19:46 +0000"
     },
     "done": true
   },
