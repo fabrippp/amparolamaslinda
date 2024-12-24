@@ -1823,3 +1823,8 @@ java.lang.OutOfMemoryError: Java heap space
 [24Dec2024 01:36:54.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2451ms or 49 ticks behind
 [24Dec2024 01:37:03.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
 [24Dec2024 01:37:08.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 01:43:15.963] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-397, y=25, z=-1224}
+[24Dec2024 01:43:35.703] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[24Dec2024 01:44:53.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Smoke On The Water]
+[24Dec2024 01:44:53.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Smoke On The Water]
+[24Dec2024 01:45:42.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]

@@ -493,6 +493,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-12-24 01:44:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-17 05:25:57 +0000"
@@ -552,6 +558,7 @@
       "minecraft:skeleton": "2024-12-23 07:25:31 +0000",
       "minecraft:spider": "2024-12-23 06:07:59 +0000",
       "minecraft:enderman": "2024-12-24 00:38:52 +0000",
+      "minecraft:silverfish": "2024-12-24 01:46:13 +0000",
       "minecraft:zombie": "2024-12-23 06:05:11 +0000"
     },
     "done": false
