@@ -8732,3 +8732,48 @@ second=(-0.9710476398468018, 0.0, -0.2388859987258911)
 [24Dec2024 05:17:07.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 05:17:07.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 05:21:30.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 05:22:07.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:22:07.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:27:07.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:27:07.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:27:44.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 05:27:48.792] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9566894769668579, 0.0, -0.2911102771759033)
+second=(-0.6346156001091003, 0.0, 0.7728279829025269)
+[24Dec2024 05:27:48.792] [Server thread/DEBUG] [greekfantasy/]: dot=0.382151898231335
+[24Dec2024 05:27:53.591] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9988967180252075, 0.0, -0.04696088284254074)
+second=(-0.998757541179657, 0.0, 0.04983372613787651)
+[24Dec2024 05:27:53.591] [Server thread/DEBUG] [greekfantasy/]: dot=0.9953153942125174
+[24Dec2024 05:27:54.649] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8634896874427795, 0.0, -0.5043664574623108)
+second=(-0.7989034056663513, 0.0, 0.6014593243598938)
+[24Dec2024 05:27:54.649] [Server thread/DEBUG] [greekfantasy/]: dot=0.38648894332073525
+[24Dec2024 05:27:55.693] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.22564435005187988, 0.0, -0.9741880893707275)
+second=(-0.46487337350845337, 0.0, 0.8853771686553955)
+[24Dec2024 05:27:55.693] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9674199425266039
+[24Dec2024 05:28:56.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 05:29:02.057] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7182036638259888, 0.0, 0.6958329081535339)
+second=(0.7790570259094238, 0.0, -0.6268783807754517)
+[24Dec2024 05:29:02.058] [Server thread/DEBUG] [greekfantasy/]: dot=0.12331900358396553
+[24Dec2024 05:29:03.014] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.6128100752830505, 0.0, 0.7902302145957947)
+second=(-0.7868103981018066, 0.0, -0.6171948313713074)
+[24Dec2024 05:29:03.014] [Server thread/DEBUG] [greekfantasy/]: dot=-0.005560664747708444
+[24Dec2024 05:29:04.107] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9974911212921143, 0.0, 0.07079147547483444)
+second=(-0.9842270612716675, 0.0, -0.17690986394882202)
+[24Dec2024 05:29:04.108] [Server thread/DEBUG] [greekfantasy/]: dot=0.9692340446589287
+[24Dec2024 05:29:05.994] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.4353392720222473, 0.0, -0.9002664685249329)
+second=(-0.527036190032959, 0.0, 0.8498428463935852)
+[24Dec2024 05:29:05.995] [Server thread/DEBUG] [greekfantasy/]: dot=-0.5356454668256028
+[24Dec2024 05:30:35.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'y el olor d tu puei'. Is the client/server system time unsynchronized?
+[24Dec2024 05:30:35.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> y el olor d tu puei
+[24Dec2024 05:30:37.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'pusei'. Is the client/server system time unsynchronized?
+[24Dec2024 05:30:37.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> pusei
+[24Dec2024 05:31:38.409] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/69390, l='ServerLevel[world]', x=-256.50, y=64.00, z=794.30] died, message: 'Farmer was slain by Decaying Zombie'
+[24Dec2024 05:32:07.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:32:07.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
