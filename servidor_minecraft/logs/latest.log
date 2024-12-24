@@ -1925,3 +1925,12 @@ java.lang.OutOfMemoryError: Java heap space
 [24Dec2024 04:15:52.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> o.o
 [24Dec2024 04:18:14.999] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b14e9d1
 [24Dec2024 04:20:16.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[24Dec2024 04:21:54.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/37470, l='ServerLevel[world]', x=-181.15, y=66.00, z=873.57] died, message: 'Mason hit the ground too hard'
+[24Dec2024 04:23:00.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 04:24:20.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 04:25:35.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaurus
+[24Dec2024 04:25:58.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaurus
+[24Dec2024 04:26:31.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaurus
+[24Dec2024 04:27:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaurus
+[24Dec2024 04:30:40.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 04:37:59.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-361, y=66, z=850} BlockPos{x=-362, y=64, z=851}
