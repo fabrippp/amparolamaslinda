@@ -7415,3 +7415,38 @@ second=(-0.15544956922531128, 0.0, 0.9878438115119934)
 first=(-0.9981181025505066, 0.0, -0.06132073700428009)
 second=(-0.9908120632171631, 0.0, -0.1352456957101822)
 [24Dec2024 01:27:29.990] [Server thread/DEBUG] [greekfantasy/]: dot=0.9972408222600724
+[24Dec2024 01:27:44.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Dec2024 01:28:04.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4970ms or 99 ticks behind
+[24Dec2024 01:28:13.787] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11381, l='ServerLevel[world]', x=-319.51, y=76.05, z=848.30] died, message: 'Villager was slain by sushint'
+[24Dec2024 01:30:57.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:30:57.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 01:31:59.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 01:35:48.945] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.5418646931648254, 0.0, 0.8404657244682312)
+second=(-0.8269145488739014, 0.0, 0.5623275637626648)
+[24Dec2024 01:35:48.946] [Server thread/DEBUG] [greekfantasy/]: dot=0.024541244967156928
+[24Dec2024 01:35:50.892] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.6830556392669678, 0.0, -0.7303663492202759)
+second=(-0.9101237654685974, 0.0, 0.41433650255203247)
+[24Dec2024 01:35:50.892] [Server thread/DEBUG] [greekfantasy/]: dot=0.3190477317165872
+[24Dec2024 01:35:52.993] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.6830556392669678, 0.0, -0.7303663492202759)
+second=(-0.9177485108375549, 0.0, 0.39716196060180664)
+[24Dec2024 01:35:52.993] [Server thread/DEBUG] [greekfantasy/]: dot=0.3367995645425452
+[24Dec2024 01:35:54.941] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.6830556392669678, 0.0, -0.7303663492202759)
+second=(-0.9308019876480103, 0.0, 0.3655237555503845)
+[24Dec2024 01:35:54.941] [Server thread/DEBUG] [greekfantasy/]: dot=0.368823295809257
+[24Dec2024 01:35:56.996] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.801490843296051, 0.0, -0.5980070233345032)
+second=(-0.8989266157150269, 0.0, 0.438099205493927)
+[24Dec2024 01:35:56.996] [Server thread/DEBUG] [greekfantasy/]: dot=0.45849504948806796
+[24Dec2024 01:35:57.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:35:57.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 01:35:58.994] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.801490843296051, 0.0, -0.5980070233345032)
+second=(-0.9110747575759888, 0.0, 0.41224122047424316)
+[24Dec2024 01:35:58.994] [Server thread/DEBUG] [greekfantasy/]: dot=0.4836949306037397
+[24Dec2024 01:36:54.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2451ms or 49 ticks behind
+[24Dec2024 01:37:03.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 01:37:08.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
