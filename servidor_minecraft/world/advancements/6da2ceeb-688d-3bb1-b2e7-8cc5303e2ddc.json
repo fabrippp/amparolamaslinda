@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "ancient_elements:cosmic_discoverer": {
+    "criteria": {
+      "cosmic_discoverer": "2024-12-23 08:19:51 +0000"
+    },
+    "done": true
+  },
   "diamethysts:tools/diamethyst_gold_pickaxe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -1085,7 +1091,8 @@
       "byg:zelkova_forest": "2024-12-23 07:12:09 +0000",
       "byg:cardinal_tundra": "2024-12-17 05:19:03 +0000",
       "byg:temperate_rainforest": "2024-12-23 06:56:52 +0000",
-      "byg:maple_taiga": "2024-12-17 05:23:51 +0000"
+      "byg:maple_taiga": "2024-12-17 05:23:51 +0000",
+      "byg:frosted_coniferous_forest": "2024-12-23 08:33:25 +0000"
     },
     "done": false
   },
@@ -1158,6 +1165,7 @@
       "minecraft:dark_forest": "2024-12-23 06:56:44 +0000",
       "minecraft:river": "2024-12-17 05:46:34 +0000",
       "minecraft:snowy_plains": "2024-12-17 05:19:19 +0000",
+      "minecraft:snowy_taiga": "2024-12-23 08:35:11 +0000",
       "minecraft:cold_ocean": "2024-12-17 05:25:47 +0000",
       "minecraft:forest": "2024-12-17 05:23:44 +0000",
       "minecraft:frozen_ocean": "2024-12-17 05:19:21 +0000",

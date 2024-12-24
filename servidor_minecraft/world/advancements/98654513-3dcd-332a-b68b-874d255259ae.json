@@ -7,7 +7,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
@@ -32,6 +32,12 @@
   "diamethysts:tools/diamethyst_emerald_hoe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:cosmic_discoverer": {
+    "criteria": {
+      "cosmic_discoverer": "2024-12-23 08:19:50 +0000"
     },
     "done": true
   },
@@ -222,6 +228,7 @@
       "cooked_beef": "2024-12-17 21:21:54 +0000",
       "baked_potato": "2024-12-17 06:26:42 +0000",
       "apple": "2024-12-17 06:24:55 +0000",
+      "pumpkin_pie": "2024-12-23 08:29:02 +0000",
       "bread": "2024-12-17 06:05:37 +0000",
       "dried_kelp": "2024-12-17 05:31:16 +0000",
       "cooked_rabbit": "2024-12-18 02:07:45 +0000",
@@ -515,7 +522,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
@@ -565,6 +572,7 @@
       "minecraft:witch": "2024-12-18 03:24:58 +0000",
       "minecraft:cave_spider": "2024-12-18 03:11:21 +0000",
       "minecraft:zombie": "2024-12-17 07:05:11 +0000",
+      "minecraft:drowned": "2024-12-23 08:38:02 +0000",
       "minecraft:zombie_villager": "2024-12-18 05:42:44 +0000"
     },
     "done": false
@@ -577,7 +585,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
@@ -625,7 +633,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
@@ -715,7 +723,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
@@ -877,7 +885,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
@@ -1148,7 +1156,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
@@ -1178,7 +1186,8 @@
       "byg:zelkova_forest": "2024-12-23 07:12:13 +0000",
       "byg:cardinal_tundra": "2024-12-17 05:19:05 +0000",
       "byg:temperate_rainforest": "2024-12-23 06:56:55 +0000",
-      "byg:maple_taiga": "2024-12-17 05:23:51 +0000"
+      "byg:maple_taiga": "2024-12-17 05:23:51 +0000",
+      "byg:frosted_coniferous_forest": "2024-12-23 08:33:17 +0000"
     },
     "done": false
   },
@@ -1208,7 +1217,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
@@ -1325,7 +1334,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
@@ -1349,7 +1358,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
@@ -1373,7 +1382,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
@@ -1409,7 +1418,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 08:16:48 +0000"
+      "log_spam_fixer": "2024-12-23 08:39:23 +0000"
     },
     "done": false
   },
