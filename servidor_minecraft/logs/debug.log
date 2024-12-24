@@ -7509,3 +7509,56 @@ second=(0.8016055226325989, 0.0, 0.5978533625602722)
 first=(-0.4649582505226135, 0.0, 0.8853325843811035)
 second=(0.9999627470970154, 0.0, 0.008628535084426403)
 [24Dec2024 02:18:07.442] [Server thread/DEBUG] [greekfantasy/]: dot=-0.45730180621229666
+[24Dec2024 02:19:36.952] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8550555109977722, 0.0, -0.5185364484786987)
+second=(0.9805977940559387, 0.0, -0.19593653082847595)
+[24Dec2024 02:19:36.952] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7368653150567539
+[24Dec2024 02:21:17.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:21:17.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 02:22:49.408] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.07652826607227325, 0.0, 0.997067391872406)
+second=(-0.16652044653892517, 0.0, -0.9860380291938782)
+[24Dec2024 02:22:49.408] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9704028450161428
+[24Dec2024 02:22:49.455] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.1766267716884613, 0.0, -0.9842779040336609)
+second=(0.019748719409108162, 0.0, 0.9998049736022949)
+[24Dec2024 02:22:49.455] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9875740964139086
+[24Dec2024 02:22:51.444] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.943371057510376, 0.0, -0.33173948526382446)
+second=(0.4493544101715088, 0.0, -0.8933104872703552)
+[24Dec2024 02:22:51.444] [Server thread/DEBUG] [greekfantasy/]: dot=0.7202543063482914
+[24Dec2024 02:22:53.393] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9989675879478455, 0.0, 0.04542854055762291)
+second=(0.8844394683837891, 0.0, 0.4666549861431122)
+[24Dec2024 02:22:53.393] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8623269074528092
+[24Dec2024 02:22:55.496] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8285821676254272, 0.0, -0.5598674416542053)
+second=(0.3598950505256653, 0.0, 0.9329928159713745)
+[24Dec2024 02:22:55.496] [Server thread/DEBUG] [greekfantasy/]: dot=-0.22414967987742784
+[24Dec2024 02:22:57.393] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6165911555290222, 0.0, -0.7872835397720337)
+second=(-0.10374021530151367, 0.0, 0.9946044087409973)
+[24Dec2024 02:22:57.393] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8470009788140729
+[24Dec2024 02:23:18.195] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.981526255607605, 0.0, -0.19132763147354126)
+second=(-0.9220715761184692, 0.0, 0.38701939582824707)
+[24Dec2024 02:23:18.195] [Server thread/DEBUG] [greekfantasy/]: dot=0.8309899571716244
+[24Dec2024 02:23:24.443] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9056223034858704, 0.0, 0.42408519983291626)
+second=(0.9210293292999268, 0.0, -0.3894049823284149)
+[24Dec2024 02:23:24.443] [Server thread/DEBUG] [greekfantasy/]: dot=0.6689638130319668
+[24Dec2024 02:25:49.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Skeleton
+[24Dec2024 02:25:57.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Skeleton
+[24Dec2024 02:26:17.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:26:17.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 02:26:21.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Skeleton
+[24Dec2024 02:26:28.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Skeleton
+[24Dec2024 02:26:37.392] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8894868493080139, 0.0, 0.4569607377052307)
+second=(0.9595715403556824, 0.0, -0.28137293457984924)
+[24Dec2024 02:26:37.392] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9821026498725072
+[24Dec2024 02:26:39.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Skeleton
+[24Dec2024 02:27:03.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Skeleton
+[24Dec2024 02:27:18.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Skeleton
+[24Dec2024 02:27:19.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 02:27:29.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
