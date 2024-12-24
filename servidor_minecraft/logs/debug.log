@@ -8383,3 +8383,60 @@ second=(-0.9939175248146057, 0.0, -0.11012692004442215)
 [24Dec2024 03:46:17.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 03:46:17.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 03:49:10.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaurus
+[24Dec2024 03:51:17.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:51:17.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 03:52:32.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 03:53:28.443] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9282566905021667, 0.0, -0.3719402551651001)
+second=(-0.8629572987556458, 0.0, 0.5052768588066101)
+[24Dec2024 03:53:28.444] [Server thread/DEBUG] [greekfantasy/]: dot=0.6131130823940545
+[24Dec2024 03:53:29.395] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9613069295883179, 0.0, -0.27547964453697205)
+second=(-0.9618333578109741, 0.0, 0.2736358642578125)
+[24Dec2024 03:53:29.395] [Server thread/DEBUG] [greekfantasy/]: dot=0.8492359613545801
+[24Dec2024 03:53:30.443] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9980944991111755, 0.0, -0.061703506857156754)
+second=(-0.9802770018577576, 0.0, 0.19762851297855377)
+[24Dec2024 03:53:30.443] [Server thread/DEBUG] [greekfantasy/]: dot=0.9662147108536816
+[24Dec2024 03:53:31.474] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9744256138801575, 0.0, -0.22471024096012115)
+second=(-0.9882575869560242, 0.0, 0.15279719233512878)
+[24Dec2024 03:53:31.474] [Server thread/DEBUG] [greekfantasy/]: dot=0.9286484119336902
+[24Dec2024 03:53:32.395] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.4439503252506256, 0.0, -0.8960514068603516)
+second=(-0.4023468792438507, 0.0, 0.9154872894287109)
+[24Dec2024 03:53:32.396] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6417016457514846
+[24Dec2024 03:53:33.345] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7673848867416382, 0.0, 0.6411867737770081)
+second=(-0.37283003330230713, 0.0, 0.9278996586799622)
+[24Dec2024 03:53:33.345] [Server thread/DEBUG] [greekfantasy/]: dot=0.30885285565821974
+[24Dec2024 03:53:34.395] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.1408480852842331, 0.0, -0.9900312423706055)
+second=(-0.09429538995027542, 0.0, 0.9955442547798157)
+[24Dec2024 03:53:34.395] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9723385902689531
+[24Dec2024 03:54:36.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'apunta al corazon*'. Is the client/server system time unsynchronized?
+[24Dec2024 03:54:36.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> apunta al corazon*
+[24Dec2024 03:56:17.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:56:17.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 03:59:51.572] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9989978671073914, 0.0, -0.044758107513189316)
+second=(-0.9914239645004272, 0.0, 0.13068461418151855)
+[24Dec2024 03:59:51.573] [Server thread/DEBUG] [greekfantasy/]: dot=0.9845812299232248
+[24Dec2024 04:01:17.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:01:17.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:06:17.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:06:17.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:07:00.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 04:08:11.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/37165, l='ServerLevel[world]', x=-285.51, y=68.00, z=872.63] died, message: 'Farmer was slain by Door Knight'
+[24Dec2024 04:09:44.232] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/53087, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[24Dec2024 04:11:17.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:11:17.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:13:17.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 04:13:44.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaurus
+[24Dec2024 04:14:09.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Minotaurus
+[24Dec2024 04:15:52.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'o.o'. Is the client/server system time unsynchronized?
+[24Dec2024 04:15:52.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> o.o
+[24Dec2024 04:16:17.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:16:17.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:18:14.999] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b14e9d1
+[24Dec2024 04:20:16.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
