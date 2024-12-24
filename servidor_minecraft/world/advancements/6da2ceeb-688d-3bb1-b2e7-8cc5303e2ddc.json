@@ -1086,6 +1086,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-24 04:55:40 +0000"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2024-12-17 05:18:08 +0000"

@@ -1134,6 +1134,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-24 04:55:20 +0000"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2024-12-17 05:18:13 +0000"
@@ -1298,6 +1304,12 @@
   "diamethysts:items/diamethyst_copper_hilt": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-24 04:54:54 +0000"
     },
     "done": true
   },
