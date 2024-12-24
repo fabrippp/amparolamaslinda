@@ -8713,3 +8713,22 @@ second=(-0.9710476398468018, 0.0, -0.2388859987258911)
 [24Dec2024 05:05:13.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
 [24Dec2024 05:07:07.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 05:07:07.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:12:07.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:12:07.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:12:53.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'responeme eu'. Is the client/server system time unsynchronized?
+[24Dec2024 05:12:53.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> responeme eu
+[24Dec2024 05:13:59.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[24Dec2024 05:14:13.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'abrazo de buenas noches*'. Is the client/server system time unsynchronized?
+[24Dec2024 05:14:13.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> abrazo de buenas noches*
+[24Dec2024 05:14:19.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amo
+[24Dec2024 05:14:22.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> t:3
+[24Dec2024 05:14:26.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'te amo mi amor'. Is the client/server system time unsynchronized?
+[24Dec2024 05:14:26.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> te amo mi amor
+[24Dec2024 05:14:27.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: ':3'. Is the client/server system time unsynchronized?
+[24Dec2024 05:14:27.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> :3
+[24Dec2024 05:15:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Dread Hound
+[24Dec2024 05:15:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Dread Hound
+[24Dec2024 05:15:39.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Dread Hound
+[24Dec2024 05:17:07.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:17:07.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:21:30.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]

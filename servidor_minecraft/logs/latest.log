@@ -1970,3 +1970,18 @@ java.lang.OutOfMemoryError: Java heap space
 [24Dec2024 04:59:46.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> besito de buena noches*
 [24Dec2024 05:00:14.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66277, l='ServerLevel[world]', x=-217.93, y=67.00, z=827.69] died, message: 'Villager was slain by Zombie Villager'
 [24Dec2024 05:05:13.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 05:12:53.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'responeme eu'. Is the client/server system time unsynchronized?
+[24Dec2024 05:12:53.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> responeme eu
+[24Dec2024 05:13:59.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[24Dec2024 05:14:13.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'abrazo de buenas noches*'. Is the client/server system time unsynchronized?
+[24Dec2024 05:14:13.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> abrazo de buenas noches*
+[24Dec2024 05:14:19.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amo
+[24Dec2024 05:14:22.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> t:3
+[24Dec2024 05:14:26.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'te amo mi amor'. Is the client/server system time unsynchronized?
+[24Dec2024 05:14:26.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> te amo mi amor
+[24Dec2024 05:14:27.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: ':3'. Is the client/server system time unsynchronized?
+[24Dec2024 05:14:27.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> :3
+[24Dec2024 05:15:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Dread Hound
+[24Dec2024 05:15:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Dread Hound
+[24Dec2024 05:15:39.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Dread Hound
+[24Dec2024 05:21:30.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
