@@ -1911,3 +1911,4 @@ java.lang.OutOfMemoryError: Java heap space
 [24Dec2024 03:33:59.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ampamp4
 [24Dec2024 03:33:59.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 joined the game
 [24Dec2024 03:33:59.235] [Server thread/INFO] [Jade/]: Syncing config to ampamp4 (6da2ceeb-688d-3bb1-b2e7-8cc5303e2ddc)
+[24Dec2024 03:49:10.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaurus

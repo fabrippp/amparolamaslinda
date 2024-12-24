@@ -8378,3 +8378,8 @@ second=(-0.9939175248146057, 0.0, -0.11012692004442215)
 [24Dec2024 03:33:59.235] [Server thread/INFO] [Jade/]: Syncing config to ampamp4 (6da2ceeb-688d-3bb1-b2e7-8cc5303e2ddc)
 [24Dec2024 03:36:17.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 03:36:17.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 03:41:17.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:41:17.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 03:46:17.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:46:17.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 03:49:10.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Minotaurus
