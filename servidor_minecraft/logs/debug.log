@@ -8132,3 +8132,38 @@ second=(0.9605906009674072, 0.0, -0.27787506580352783)
 first=(0.8556514978408813, 0.0, 0.517552375793457)
 second=(-0.13154003024101257, 0.0, -0.9913108348846436)
 [24Dec2024 03:18:55.323] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6256077016460999
+[24Dec2024 03:19:43.932] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.38029059767723083, 0.0, -0.9248670339584351)
+second=(-0.2867964208126068, 0.0, 0.9579915404319763)
+[24Dec2024 03:19:43.933] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7769488122740773
+[24Dec2024 03:19:47.779] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9869949817657471, 0.0, -0.16075097024440765)
+second=(0.8608181476593018, 0.0, 0.5089126825332642)
+[24Dec2024 03:19:47.779] [Server thread/DEBUG] [greekfantasy/]: dot=0.7678149844657103
+[24Dec2024 03:19:47.798] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9869949817657471, 0.0, -0.16075097024440765)
+second=(0.8608181476593018, 0.0, 0.5089126825332642)
+[24Dec2024 03:19:47.799] [Server thread/DEBUG] [greekfantasy/]: dot=0.7678149844657103
+[24Dec2024 03:19:47.875] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9827526807785034, 0.0, -0.1848304122686386)
+second=(0.8608181476593018, 0.0, 0.5089126825332642)
+[24Dec2024 03:19:47.875] [Server thread/DEBUG] [greekfantasy/]: dot=0.7519088013536024
+[24Dec2024 03:19:49.862] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.630977988243103, 0.0, -0.7758007049560547)
+second=(0.8180813789367676, 0.0, 0.5751025080680847)
+[24Dec2024 03:19:49.863] [Server thread/DEBUG] [greekfantasy/]: dot=0.07002641151945
+[24Dec2024 03:19:49.935] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.5982375144958496, 0.0, -0.8012614846229553)
+second=(0.8180813789367676, 0.0, 0.5751025080680847)
+[24Dec2024 03:19:49.935] [Server thread/DEBUG] [greekfantasy/]: dot=0.02859948136545043
+[24Dec2024 03:19:52.206] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9907601475715637, 0.0, 0.13562564551830292)
+second=(0.9528125524520874, 0.0, 0.3035593032836914)
+[24Dec2024 03:19:52.206] [Server thread/DEBUG] [greekfantasy/]: dot=0.9851791315364054
+[24Dec2024 03:21:17.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:21:17.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 03:22:30.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[24Dec2024 03:23:50.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[24Dec2024 03:24:11.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> tttttt
+[24Dec2024 03:26:17.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:26:17.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
