@@ -1769,3 +1769,6 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 20:56:02.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 6.061501478849664,-2.878703159460798,-7.6664208053229
 [30Dec2024 20:56:39.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'qe pasooooo'. Is the client/server system time unsynchronized?
 [30Dec2024 20:56:39.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> qe pasooooo
+[30Dec2024 20:57:17.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 20:58:01.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 21:06:15.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
