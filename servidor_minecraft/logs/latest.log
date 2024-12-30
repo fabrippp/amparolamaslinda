@@ -1794,3 +1794,20 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 04:03:17.268] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ampamp4
 [30Dec2024 04:03:17.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 joined the game
 [30Dec2024 04:03:17.542] [Server thread/INFO] [Jade/]: Syncing config to ampamp4 (6da2ceeb-688d-3bb1-b2e7-8cc5303e2ddc)
+[30Dec2024 04:03:20.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[30Dec2024 04:03:59.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[30Dec2024 04:17:47.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was blown up by Creep
+[30Dec2024 04:18:02.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint lost connection: Disconnected
+[30Dec2024 04:18:02.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint left the game
+[30Dec2024 04:18:29.619] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3bcdae5d
+[30Dec2024 04:18:29.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sushint[/127.250.37.65:47891] logged in with entity id 11476 at (-363.36955745996516, 35.0, 785.8187644590097)
+[30Dec2024 04:18:29.655] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to sushint
+[30Dec2024 04:18:29.656] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to sushint
+[30Dec2024 04:18:29.658] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to sushint
+[30Dec2024 04:18:29.659] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to sushint
+[30Dec2024 04:18:29.669] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to sushint
+[30Dec2024 04:18:29.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to sushint
+[30Dec2024 04:18:29.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to sushint
+[30Dec2024 04:18:29.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint joined the game
+[30Dec2024 04:18:29.792] [Server thread/INFO] [Jade/]: Syncing config to sushint (98654513-3dcd-332a-b68b-874d255259ae)
+[30Dec2024 04:30:59.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
