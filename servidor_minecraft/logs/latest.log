@@ -1800,3 +1800,25 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 21:37:39.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
 [30Dec2024 21:39:42.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
 [30Dec2024 21:46:55.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18600, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[30Dec2024 21:54:26.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'hola bebeeeeee'. Is the client/server system time unsynchronized?
+[30Dec2024 21:54:26.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> hola bebeeeeee
+[30Dec2024 21:56:10.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 22:01:39.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint was kicked for floating too long!
+[30Dec2024 22:01:39.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint lost connection: Flying is not enabled on this server
+[30Dec2024 22:01:39.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint left the game
+[30Dec2024 22:01:39.356] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 22:02:42.962] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d9b8cef
+[30Dec2024 22:02:43.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sushint[/127.250.37.65:58959] logged in with entity id 20788 at (-339.05864402262483, 63.7531999805212, 904.2837371006024)
+[30Dec2024 22:02:43.019] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to sushint
+[30Dec2024 22:02:43.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to sushint
+[30Dec2024 22:02:43.021] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to sushint
+[30Dec2024 22:02:43.022] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to sushint
+[30Dec2024 22:02:43.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to sushint
+[30Dec2024 22:02:43.037] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to sushint
+[30Dec2024 22:02:43.038] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to sushint
+[30Dec2024 22:02:43.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint joined the game
+[30Dec2024 22:02:43.229] [Server thread/INFO] [Jade/]: Syncing config to sushint (98654513-3dcd-332a-b68b-874d255259ae)
+[30Dec2024 22:03:07.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 22:07:43.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 22:08:00.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'que vas a cavar?'. Is the client/server system time unsynchronized?
+[30Dec2024 22:08:00.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> que vas a cavar?
