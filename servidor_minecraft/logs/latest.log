@@ -1763,3 +1763,20 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 03:05:56.470] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [30Dec2024 03:05:56.476] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
 [30Dec2024 03:05:56.479] [Server thread/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[30Dec2024 03:12:31.689] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@22c943be
+[30Dec2024 03:12:31.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sushint[/127.250.37.65:55299] logged in with entity id 111 at (-363.61260576250874, 71.0, 860.6746559673853)
+[30Dec2024 03:12:31.779] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to sushint
+[30Dec2024 03:12:31.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to sushint
+[30Dec2024 03:12:31.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to sushint
+[30Dec2024 03:12:31.807] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to sushint
+[30Dec2024 03:12:31.833] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to sushint
+[30Dec2024 03:12:31.862] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to sushint
+[30Dec2024 03:12:31.864] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to sushint
+[30Dec2024 03:12:32.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint joined the game
+[30Dec2024 03:12:32.262] [Server thread/INFO] [Jade/]: Syncing config to sushint (98654513-3dcd-332a-b68b-874d255259ae)
+[30Dec2024 03:12:40.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8674ms or 173 ticks behind
+[30Dec2024 03:13:00.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5365ms or 107 ticks behind
+[30Dec2024 03:13:24.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[30Dec2024 03:20:35.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Dec2024 03:20:58.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5070ms or 101 ticks behind
+[30Dec2024 03:20:58.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 9.517838383269975,-0.2046003784434305,3.3247999613179218
