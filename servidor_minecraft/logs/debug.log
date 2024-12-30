@@ -7287,3 +7287,27 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 20:44:19.119] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [30Dec2024 20:45:39.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 20:45:39.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 20:50:39.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 20:50:39.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 20:54:09.298] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7953722476959229, 0.0, 0.6061212420463562)
+second=(-0.2408405840396881, 0.0, -0.9705646634101868)
+[30Dec2024 20:54:09.299] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7798377759365316
+[30Dec2024 20:54:11.343] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.16529135406017303, 0.0, 0.986244797706604)
+second=(-0.3573891520500183, 0.0, -0.9339555501937866)
+[30Dec2024 20:54:11.343] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8620354657990665
+[30Dec2024 20:54:13.287] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9652442336082458, 0.0, -0.2613494098186493)
+second=(-0.761451005935669, 0.0, 0.6482224464416504)
+[30Dec2024 20:54:13.287] [Server thread/DEBUG] [greekfantasy/]: dot=0.5655736388458763
+[30Dec2024 20:55:39.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 20:55:39.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 20:55:47.075] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7960110306739807, 0.0, -0.6052821278572083)
+second=(0.44283318519592285, 0.0, 0.8966040015220642)
+[30Dec2024 20:55:47.080] [Server thread/DEBUG] [greekfantasy/]: dot=-0.19019827772211428
+[30Dec2024 20:56:02.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4004ms or 80 ticks behind
+[30Dec2024 20:56:02.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 6.061501478849664,-2.878703159460798,-7.6664208053229
+[30Dec2024 20:56:39.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'qe pasooooo'. Is the client/server system time unsynchronized?
+[30Dec2024 20:56:39.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> qe pasooooo

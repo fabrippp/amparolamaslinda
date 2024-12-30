@@ -1765,3 +1765,7 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 20:43:08.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 joined the game
 [30Dec2024 20:43:08.960] [Server thread/INFO] [Jade/]: Syncing config to ampamp4 (6da2ceeb-688d-3bb1-b2e7-8cc5303e2ddc)
 [30Dec2024 20:43:11.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[30Dec2024 20:56:02.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4004ms or 80 ticks behind
+[30Dec2024 20:56:02.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 6.061501478849664,-2.878703159460798,-7.6664208053229
+[30Dec2024 20:56:39.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'qe pasooooo'. Is the client/server system time unsynchronized?
+[30Dec2024 20:56:39.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> qe pasooooo
