@@ -1811,3 +1811,7 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 04:18:29.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint joined the game
 [30Dec2024 04:18:29.792] [Server thread/INFO] [Jade/]: Syncing config to sushint (98654513-3dcd-332a-b68b-874d255259ae)
 [30Dec2024 04:30:59.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 04:38:42.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Bone Knight
+[30Dec2024 04:38:45.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Bone Knight
+[30Dec2024 04:38:46.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 04:41:10.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
