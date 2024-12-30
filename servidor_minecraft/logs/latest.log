@@ -1780,3 +1780,5 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 03:20:35.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [30Dec2024 03:20:58.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5070ms or 101 ticks behind
 [30Dec2024 03:20:58.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint moved too quickly! 9.517838383269975,-0.2046003784434305,3.3247999613179218
+[30Dec2024 03:34:14.633] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3221, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[30Dec2024 03:38:14.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.byg.forager'/407, l='ServerLevel[world]', x=-196.58, y=70.42, z=824.36] died, message: 'entity.minecraft.villager.byg.forager was shot by Arrow'

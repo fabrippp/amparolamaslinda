@@ -7156,3 +7156,89 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 03:26:19.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Dec2024 03:31:19.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 03:31:19.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:34:14.633] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3221, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[30Dec2024 03:36:19.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:36:19.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:37:33.895] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.4173010289669037, 0.0, -0.9087682962417603)
+second=(0.94913649559021, 0.0, 0.31486496329307556)
+[30Dec2024 03:37:33.896] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6822149324779083
+[30Dec2024 03:37:34.340] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.31186047196388245, 0.0, 0.950127899646759)
+second=(0.6794059872627258, 0.0, 0.7337625622749329)
+[30Dec2024 03:37:34.341] [Server thread/DEBUG] [greekfantasy/]: dot=0.9090481539765474
+[30Dec2024 03:37:36.405] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.4173010289669037, 0.0, -0.9087682962417603)
+second=(-0.22928541898727417, 0.0, 0.973359227180481)
+[30Dec2024 03:37:36.406] [Server thread/DEBUG] [greekfantasy/]: dot=-0.788876965245505
+[30Dec2024 03:38:00.890] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.09973441064357758, 0.0, 0.9950140714645386)
+second=(0.04447077214717865, 0.0, 0.9990106821060181)
+[30Dec2024 03:38:00.891] [Server thread/DEBUG] [greekfantasy/]: dot=0.9984649524898386
+[30Dec2024 03:38:01.346] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.008628535084426403, 0.0, -0.9999627470970154)
+second=(-0.2723446190357208, 0.0, 0.9621997475624084)
+[30Dec2024 03:38:01.346] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9645138379289652
+[30Dec2024 03:38:02.042] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.3149559497833252, 0.0, 0.9491062760353088)
+second=(0.38356900215148926, 0.0, 0.9235122203826904)
+[30Dec2024 03:38:02.042] [Server thread/DEBUG] [greekfantasy/]: dot=0.7557039049804501
+[30Dec2024 03:38:02.242] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9297821521759033, 0.0, -0.3681102991104126)
+second=(0.6674283742904663, 0.0, 0.7446739673614502)
+[30Dec2024 03:38:02.242] [Server thread/DEBUG] [greekfantasy/]: dot=0.34644083340589304
+[30Dec2024 03:38:02.243] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.3149559497833252, 0.0, 0.9491062760353088)
+second=(0.6674283742904663, 0.0, 0.7446739673614502)
+[30Dec2024 03:38:02.243] [Server thread/DEBUG] [greekfantasy/]: dot=0.49656419848587063
+[30Dec2024 03:38:02.243] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3851621747016907, 0.0, 0.9228488802909851)
+second=(-0.6674283742904663, 0.0, -0.7446739673614502)
+[30Dec2024 03:38:02.243] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9442897010606899
+[30Dec2024 03:38:04.541] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3053857386112213, 0.0, 0.9522287249565125)
+second=(-0.9870565533638, 0.0, 0.16037245094776154)
+[30Dec2024 03:38:04.542] [Server thread/DEBUG] [greekfantasy/]: dot=-0.14872174011591266
+[30Dec2024 03:38:04.690] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9329928159713745, 0.0, -0.3598950505256653)
+second=(-0.9906034469604492, 0.0, -0.13676542043685913)
+[30Dec2024 03:38:04.690] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8750047015922924
+[30Dec2024 03:38:04.990] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9999995231628418, 0.0, 9.587378590367734E-4)
+second=(-0.9878438115119934, 0.0, -0.15544956922531128)
+[30Dec2024 03:38:04.990] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9879923758585448
+[30Dec2024 03:38:05.191] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.39962419867515564, 0.0, 0.9166790843009949)
+second=(-0.9994593262672424, 0.0, 0.03287878632545471)
+[30Dec2024 03:38:05.192] [Server thread/DEBUG] [greekfantasy/]: dot=-0.3692688366262118
+[30Dec2024 03:38:07.496] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9976579546928406, 0.0, -0.06840044260025024)
+second=(-0.9581289291381836, 0.0, 0.2863371670246124)
+[30Dec2024 03:38:07.496] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9754705367334271
+[30Dec2024 03:38:07.640] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8281525373458862, 0.0, -0.5605027675628662)
+second=(-0.9753437042236328, 0.0, 0.22069120407104492)
+[30Dec2024 03:38:07.640] [Server thread/DEBUG] [greekfantasy/]: dot=-0.931431394095739
+[30Dec2024 03:38:10.840] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.879149317741394, 0.0, -0.47654637694358826)
+second=(-0.8487800359725952, 0.0, 0.5287461280822754)
+[30Dec2024 03:38:10.840] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9981764411983818
+[30Dec2024 03:38:10.939] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.2640320956707001, 0.0, 0.964513897895813)
+second=(-0.8138692378997803, 0.0, 0.5810480713844299)
+[30Dec2024 03:38:10.939] [Server thread/DEBUG] [greekfantasy/]: dot=0.34554133971124656
+[30Dec2024 03:38:11.190] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8667116761207581, 0.0, -0.49880945682525635)
+second=(-0.7592715620994568, 0.0, 0.6507738828659058)
+[30Dec2024 03:38:11.191] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9826816952464519
+[30Dec2024 03:38:11.639] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9308019876480103, 0.0, -0.3655237555503845)
+second=(-0.7592715620994568, 0.0, 0.6507738828659058)
+[30Dec2024 03:38:11.639] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9446047928460359
+[30Dec2024 03:38:14.494] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6020719408988953, 0.0, 0.7984418869018555)
+second=(-0.7746500372886658, 0.0, 0.6323901414871216)
+[30Dec2024 03:38:14.494] [Server thread/DEBUG] [greekfantasy/]: dot=0.03853172635932012
+[30Dec2024 03:38:14.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.byg.forager'/407, l='ServerLevel[world]', x=-196.58, y=70.42, z=824.36] died, message: 'entity.minecraft.villager.byg.forager was shot by Arrow'
+[30Dec2024 03:41:19.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:41:19.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
