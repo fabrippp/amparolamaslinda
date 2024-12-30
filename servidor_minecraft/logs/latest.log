@@ -1783,3 +1783,14 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 03:34:14.633] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3221, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
 [30Dec2024 03:38:14.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.byg.forager'/407, l='ServerLevel[world]', x=-196.58, y=70.42, z=824.36] died, message: 'entity.minecraft.villager.byg.forager was shot by Arrow'
 [30Dec2024 03:46:37.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[30Dec2024 04:03:17.202] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6da1c93f
+[30Dec2024 04:03:17.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ampamp4[/127.89.154.49:41709] logged in with entity id 8607 at (-399.4086871165322, 66.0, 910.4154871995486)
+[30Dec2024 04:03:17.241] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ampamp4
+[30Dec2024 04:03:17.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ampamp4
+[30Dec2024 04:03:17.246] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ampamp4
+[30Dec2024 04:03:17.247] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ampamp4
+[30Dec2024 04:03:17.259] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ampamp4
+[30Dec2024 04:03:17.266] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ampamp4
+[30Dec2024 04:03:17.268] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ampamp4
+[30Dec2024 04:03:17.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 joined the game
+[30Dec2024 04:03:17.542] [Server thread/INFO] [Jade/]: Syncing config to ampamp4 (6da2ceeb-688d-3bb1-b2e7-8cc5303e2ddc)
