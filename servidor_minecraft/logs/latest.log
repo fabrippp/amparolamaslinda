@@ -1815,3 +1815,49 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 04:38:45.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Bone Knight
 [30Dec2024 04:38:46.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
 [30Dec2024 04:41:10.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[30Dec2024 04:46:20.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 04:47:04.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Cave Spider
+[30Dec2024 04:47:06.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 04:51:30.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Bone Knight
+[30Dec2024 04:51:33.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 04:53:17.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18697, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[30Dec2024 04:53:45.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Bone Knight
+[30Dec2024 04:53:48.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 04:54:12.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 04:57:11.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19482, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[30Dec2024 04:57:55.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19629, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[30Dec2024 05:01:33.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was blown up by Creep
+[30Dec2024 05:01:50.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[30Dec2024 05:02:20.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 05:03:05.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported sushint to ampamp4]
+[30Dec2024 05:05:24.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 05:07:43.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 lost connection: Disconnected
+[30Dec2024 05:07:43.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 left the game
+[30Dec2024 05:09:06.099] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c92ed75
+[30Dec2024 05:09:06.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ampamp4[/127.89.154.49:34359] logged in with entity id 22467 at (-449.30000001192093, 2.0, 930.6999999880791)
+[30Dec2024 05:09:06.118] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ampamp4
+[30Dec2024 05:09:06.119] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ampamp4
+[30Dec2024 05:09:06.119] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ampamp4
+[30Dec2024 05:09:06.120] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ampamp4
+[30Dec2024 05:09:06.122] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ampamp4
+[30Dec2024 05:09:06.125] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ampamp4
+[30Dec2024 05:09:06.132] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ampamp4
+[30Dec2024 05:09:06.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 joined the game
+[30Dec2024 05:09:06.226] [Server thread/INFO] [Jade/]: Syncing config to ampamp4 (6da2ceeb-688d-3bb1-b2e7-8cc5303e2ddc)
+[30Dec2024 05:11:33.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Deathword
+[30Dec2024 05:11:37.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 05:11:58.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 lost connection: Disconnected
+[30Dec2024 05:11:58.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 left the game
+[30Dec2024 05:13:04.659] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@64a7ae11
+[30Dec2024 05:13:04.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ampamp4[/127.89.154.49:34455] logged in with entity id 23587 at (-318.54952815493874, 61.0, 846.1666469072242)
+[30Dec2024 05:13:04.691] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ampamp4
+[30Dec2024 05:13:04.692] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ampamp4
+[30Dec2024 05:13:04.693] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ampamp4
+[30Dec2024 05:13:04.693] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ampamp4
+[30Dec2024 05:13:04.698] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ampamp4
+[30Dec2024 05:13:04.702] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ampamp4
+[30Dec2024 05:13:04.704] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ampamp4
+[30Dec2024 05:13:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 joined the game
+[30Dec2024 05:13:04.816] [Server thread/INFO] [Jade/]: Syncing config to ampamp4 (6da2ceeb-688d-3bb1-b2e7-8cc5303e2ddc)
+[30Dec2024 05:13:14.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Shade
+[30Dec2024 05:13:44.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 moved wrongly!

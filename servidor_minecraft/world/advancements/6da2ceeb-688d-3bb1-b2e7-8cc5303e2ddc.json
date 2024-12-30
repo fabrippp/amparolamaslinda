@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
+    },
+    "done": false
+  },
   "diamethysts:weapons/diamethyst_lapis_scimitar": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -26,6 +32,12 @@
   "diamethysts:tools/diamethyst_emerald_hoe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/flesh_lich": {
+    "criteria": {
+      "kill": "2024-12-30 05:10:24 +0000"
     },
     "done": true
   },
@@ -523,6 +535,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
+    },
+    "done": false
+  },
   "knight_quest:kq_quest_source": {
     "criteria": {
       "kq_quest_source": "2024-12-17 05:18:07 +0000"
@@ -575,6 +593,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
+    },
+    "done": false
+  },
   "diamethysts:tools/diamethyst_emerald_axe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -610,6 +634,12 @@
       "has_recipe": "2024-12-17 05:18:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
+    },
+    "done": false
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
@@ -694,6 +724,12 @@
       "has_recipe": "2024-12-17 05:18:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
+    },
+    "done": false
   },
   "diamethysts:weapons/diamethyst_copper_scimitar": {
     "criteria": {
@@ -850,6 +886,12 @@
       "has_recipe": "2024-12-17 05:18:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
+    },
+    "done": false
   },
   "diamethysts:armor/diamethyst_emerald_boots": {
     "criteria": {
@@ -1080,6 +1122,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
+    },
+    "done": false
+  },
   "diamethysts:items/diamethyst_lapis_hilt": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -1148,6 +1196,12 @@
       "has_recipe": "2024-12-17 05:18:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
+    },
+    "done": false
   },
   "diamethysts:weapons/diamethyst_prismarine_battle_axe": {
     "criteria": {
@@ -1243,6 +1297,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
+    },
+    "done": false
+  },
   "diamethysts:items/diamethyst_copper_hilt": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -1273,6 +1333,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
+    },
+    "done": false
+  },
   "diamethysts:tools/diamethyst_lapis_pickaxe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -1290,6 +1356,12 @@
       "has_recipe": "2024-12-17 05:18:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
+    },
+    "done": false
   },
   "diamethysts:weapons/diamethyst_emerald_sword": {
     "criteria": {
@@ -1318,6 +1390,13 @@
   "diamethysts:tools/diamethyst_lapis_axe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-30 05:11:24 +0000",
+      "log_spam_fixer": "2024-12-30 05:11:24 +0000"
     },
     "done": true
   },
