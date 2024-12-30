@@ -1822,3 +1822,16 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 22:07:43.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
 [30Dec2024 22:08:00.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'que vas a cavar?'. Is the client/server system time unsynchronized?
 [30Dec2024 22:08:00.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> que vas a cavar?
+[30Dec2024 22:08:48.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=73, z=1018} BlockPos{x=-382, y=72, z=1017}
+[30Dec2024 22:08:48.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=73, z=1018} BlockPos{x=-382, y=72, z=1017}
+[30Dec2024 22:08:48.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=73, z=1018} BlockPos{x=-382, y=72, z=1017}
+[30Dec2024 22:08:48.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=73, z=1019} BlockPos{x=-382, y=72, z=1017}
+[30Dec2024 22:08:48.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=73, z=1019} BlockPos{x=-382, y=72, z=1017}
+[30Dec2024 22:08:48.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=73, z=1019} BlockPos{x=-382, y=72, z=1017}
+[30Dec2024 22:08:48.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=73, z=1019} BlockPos{x=-382, y=72, z=1017}
+[30Dec2024 22:09:25.553] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@530e8043
+[30Dec2024 22:12:57.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'que vas a cavar?'. Is the client/server system time unsynchronized?
+[30Dec2024 22:12:57.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> que vas a cavar?
+[30Dec2024 22:12:58.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 22:15:24.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 22:15:33.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
