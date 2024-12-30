@@ -7837,3 +7837,39 @@ second=(-0.9765970706939697, 0.0, -0.2150769829750061)
 [30Dec2024 22:15:33.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
 [30Dec2024 22:15:49.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 22:15:49.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:20:49.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:20:49.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:21:49.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Otter
+[30Dec2024 22:22:02.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 22:24:06.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Ice Bucket Challenge]
+[30Dec2024 22:24:13.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Ice Bucket Challenge]
+[30Dec2024 22:25:41.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 22:25:49.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:25:49.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:28:03.788] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9985487461090088, 0.0, -0.053855009377002716)
+second=(-0.4152960777282715, 0.0, 0.9096863269805908)
+[30Dec2024 22:28:03.789] [Server thread/DEBUG] [greekfantasy/]: dot=0.36570221200988406
+[30Dec2024 22:28:22.737] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.4573017954826355, 0.0, 0.8893115520477295)
+second=(0.7866920232772827, 0.0, -0.6172702312469482)
+[30Dec2024 22:28:22.737] [Server thread/DEBUG] [greekfantasy/]: dot=-0.18918987264651577
+[30Dec2024 22:28:25.243] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3323725163936615, 0.0, 0.9431481957435608)
+second=(0.1829456388950348, 0.0, 0.9831230044364929)
+[30Dec2024 22:28:25.243] [Server thread/DEBUG] [greekfantasy/]: dot=0.9880367901910558
+[30Dec2024 22:28:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 22:29:57.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 22:30:49.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:30:49.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:31:35.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'bastatnte chota'. Is the client/server system time unsynchronized?
+[30Dec2024 22:31:35.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> bastatnte chota
+[30Dec2024 22:31:37.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: ':C'. Is the client/server system time unsynchronized?
+[30Dec2024 22:31:37.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> :C
+[30Dec2024 22:31:46.187] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.0, 0.0, -1.0)
+second=(-0.8617923855781555, 0.0, -0.5072611570358276)
+[30Dec2024 22:31:46.187] [Server thread/DEBUG] [greekfantasy/]: dot=0.5072611570358276
+[30Dec2024 22:35:49.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:35:49.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:36:37.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]

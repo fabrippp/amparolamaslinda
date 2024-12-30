@@ -1093,6 +1093,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-30 22:24:06 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_copper_battle_axe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
