@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-30 22:50:24 +0000"
+    },
+    "done": false
+  },
   "diamethysts:weapons/diamethyst_diamond_scimitar": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
@@ -549,6 +555,12 @@
   "diamethysts:tools/diamethyst_iron_hoe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:story/diamethyst_shard": {
+    "criteria": {
+      "diamethyst_shard": "2024-12-30 22:50:34 +0000"
     },
     "done": true
   },
@@ -1072,6 +1084,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-17 05:24:39 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-30 22:50:24 +0000"
     },
     "done": true
   },
