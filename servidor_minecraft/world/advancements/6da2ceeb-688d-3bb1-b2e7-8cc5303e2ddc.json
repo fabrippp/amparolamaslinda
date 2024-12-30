@@ -1238,6 +1238,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2024-12-30 21:29:33 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_lapis_battle_axe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"

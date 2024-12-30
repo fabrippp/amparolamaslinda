@@ -7547,3 +7547,60 @@ second=(-0.7600820660591125, 0.0, -0.6498270630836487)
 [30Dec2024 21:25:25.691] [Server thread/DEBUG] [greekfantasy/]: dot=0.9918691218271007
 [30Dec2024 21:25:49.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 21:25:49.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 21:28:09.736] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5502978563308716, 0.0, 0.8349683880805969)
+second=(-0.6673570275306702, 0.0, -0.744737982749939)
+[30Dec2024 21:28:09.736] [Server thread/DEBUG] [greekfantasy/]: dot=-0.2545875313416417
+[30Dec2024 21:28:10.786] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7785157561302185, 0.0, 0.6276251077651978)
+second=(-0.8194574117660522, 0.0, -0.573140025138855)
+[30Dec2024 21:28:10.786] [Server thread/DEBUG] [greekfantasy/]: dot=0.278243436495238
+[30Dec2024 21:28:11.791] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7233871221542358, 0.0, 0.690442681312561)
+second=(-0.7400490641593933, 0.0, -0.6725528836250305)
+[30Dec2024 21:28:11.791] [Server thread/DEBUG] [greekfantasy/]: dot=0.07098274648063807
+[30Dec2024 21:28:16.744] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.035274237394332886, 0.0, -0.9993776679039001)
+second=(0.03556168079376221, 0.0, 0.9993674755096436)
+[30Dec2024 21:28:16.744] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9999999482242963
+[30Dec2024 21:28:18.745] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.6642094254493713, 0.0, -0.7475465536117554)
+second=(-0.6528823971748352, 0.0, 0.757459282875061)
+[30Dec2024 21:28:18.746] [Server thread/DEBUG] [greekfantasy/]: dot=-0.13258543450097804
+[30Dec2024 21:28:19.788] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8392167091369629, 0.0, -0.5437971949577332)
+second=(-0.5847095251083374, 0.0, 0.8112427592277527)
+[30Dec2024 21:28:19.788] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9318495403602789
+[30Dec2024 21:28:21.790] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.022145036607980728, 0.0, 0.999754786491394)
+second=(-0.7597705125808716, 0.0, -0.6501913666725159)
+[30Dec2024 21:28:21.790] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6668570767809965
+[30Dec2024 21:28:22.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 21:28:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 21:30:24.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amo
+[30Dec2024 21:30:26.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> tuwu
+[30Dec2024 21:30:28.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amo
+[30Dec2024 21:30:29.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'te amo preciosa'. Is the client/server system time unsynchronized?
+[30Dec2024 21:30:29.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> te amo preciosa
+[30Dec2024 21:30:32.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'te amooooooooooo'. Is the client/server system time unsynchronized?
+[30Dec2024 21:30:32.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> te amooooooooooo
+[30Dec2024 21:30:49.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 21:30:49.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 21:32:13.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 21:33:59.306] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5045320391654968, 0.0, -0.8633929491043091)
+second=(-0.6361702680587769, 0.0, 0.7715486884117126)
+[30Dec2024 21:33:59.306] [Server thread/DEBUG] [greekfantasy/]: dot=-0.3451814148651948
+[30Dec2024 21:34:19.936] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8921440839767456, 0.0, 0.4517509639263153)
+second=(-0.9765970706939697, 0.0, -0.2150769829750061)
+[30Dec2024 21:34:19.937] [Server thread/DEBUG] [greekfantasy/]: dot=0.774104064671322
+[30Dec2024 21:34:43.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by ampamp4
+[30Dec2024 21:34:46.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 21:35:49.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 21:35:49.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 21:36:05.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'huele la armadura*'. Is the client/server system time unsynchronized?
+[30Dec2024 21:36:05.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> huele la armadura*
+[30Dec2024 21:36:47.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'huele la armadura*'. Is the client/server system time unsynchronized?
+[30Dec2024 21:36:47.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> huele la armadura*
+[30Dec2024 21:37:39.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]

@@ -1781,3 +1781,20 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 21:24:44.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [30Dec2024 21:24:58.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
 [30Dec2024 21:25:03.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3755ms or 75 ticks behind
+[30Dec2024 21:28:22.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 21:28:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 21:30:24.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amo
+[30Dec2024 21:30:26.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> tuwu
+[30Dec2024 21:30:28.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> te amo
+[30Dec2024 21:30:29.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'te amo preciosa'. Is the client/server system time unsynchronized?
+[30Dec2024 21:30:29.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> te amo preciosa
+[30Dec2024 21:30:32.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'te amooooooooooo'. Is the client/server system time unsynchronized?
+[30Dec2024 21:30:32.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> te amooooooooooo
+[30Dec2024 21:32:13.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 21:34:43.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by ampamp4
+[30Dec2024 21:34:46.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 21:36:05.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'huele la armadura*'. Is the client/server system time unsynchronized?
+[30Dec2024 21:36:05.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> huele la armadura*
+[30Dec2024 21:36:47.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'huele la armadura*'. Is the client/server system time unsynchronized?
+[30Dec2024 21:36:47.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> huele la armadura*
+[30Dec2024 21:37:39.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
