@@ -1855,3 +1855,9 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 22:50:24.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Quite the Renovation]
 [30Dec2024 22:50:34.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [A Chip Off The Old Block!]
 [30Dec2024 22:54:56.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> ww w dadw
+[30Dec2024 23:13:53.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [A Bone to Pick]
+[30Dec2024 23:14:56.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Bone Knight
+[30Dec2024 23:16:10.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 23:17:17.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41938, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[30Dec2024 23:17:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 23:18:30.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]

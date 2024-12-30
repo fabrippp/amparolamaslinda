@@ -7917,3 +7917,77 @@ second=(-0.46359962224960327, 0.0, -0.8860448002815247)
 [30Dec2024 22:54:56.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> ww w dadw
 [30Dec2024 22:55:49.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 22:55:49.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:00:49.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:00:49.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:05:49.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:05:49.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:09:03.439] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.3238593637943268, 0.0, -0.9461052417755127)
+second=(-0.9349796175956726, 0.0, 0.354701429605484)
+[30Dec2024 23:09:03.439] [Server thread/DEBUG] [greekfantasy/]: dot=-0.03278297769981897
+[30Dec2024 23:10:49.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:10:49.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:10:58.504] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.982929527759552, 0.0, -0.18388810753822327)
+second=(0.9452011585235596, 0.0, -0.32639798521995544)
+[30Dec2024 23:10:58.504] [Server thread/DEBUG] [greekfantasy/]: dot=0.9890868361917304
+[30Dec2024 23:11:00.557] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9969563484191895, 0.0, -0.07796207815408707)
+second=(0.9774956703186035, 0.0, -0.21086163818836212)
+[30Dec2024 23:11:00.557] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9580813025602629
+[30Dec2024 23:11:01.992] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.995669960975647, 0.0, -0.09295905381441116)
+second=(-0.9806728959083557, 0.0, 0.1956544816493988)
+[30Dec2024 23:11:01.992] [Server thread/DEBUG] [greekfantasy/]: dot=0.95823868851027
+[30Dec2024 23:11:02.543] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9928160309791565, 0.0, 0.11965077370405197)
+second=(0.9859099984169006, 0.0, -0.16718214750289917)
+[30Dec2024 23:11:02.543] [Server thread/DEBUG] [greekfantasy/]: dot=0.9588237782327069
+[30Dec2024 23:11:04.541] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.2982563376426697, 0.0, -0.9544858336448669)
+second=(0.9762452840805054, 0.0, -0.21657481789588928)
+[30Dec2024 23:11:04.541] [Server thread/DEBUG] [greekfantasy/]: dot=0.4978889386766223
+[30Dec2024 23:11:05.892] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.976617693901062, 0.0, -0.21498335897922516)
+second=(-0.9557636976242065, 0.0, 0.2941356301307678)
+[30Dec2024 23:11:05.892] [Server thread/DEBUG] [greekfantasy/]: dot=0.8701814725271211
+[30Dec2024 23:11:06.538] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8396335244178772, 0.0, 0.5431533455848694)
+second=(0.9188113808631897, 0.0, -0.3946087956428528)
+[30Dec2024 23:11:06.539] [Server thread/DEBUG] [greekfantasy/]: dot=0.5571317504387849
+[30Dec2024 23:11:08.562] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9719340205192566, 0.0, 0.23525351285934448)
+second=(0.9717080593109131, 0.0, -0.23609207570552826)
+[30Dec2024 23:11:08.562] [Server thread/DEBUG] [greekfantasy/]: dot=0.8888946306890402
+[30Dec2024 23:11:09.803] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9772726893424988, 0.0, -0.21198612451553345)
+second=(-0.9645897746086121, 0.0, 0.263754665851593)
+[30Dec2024 23:11:09.803] [Server thread/DEBUG] [greekfantasy/]: dot=0.8867549137072643
+[30Dec2024 23:11:57.302] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.2640320956707001, 0.0, -0.9644885659217834)
+second=(-0.07318209856748581, 0.0, -0.9973185658454895)
+[30Dec2024 23:11:57.302] [Server thread/DEBUG] [greekfantasy/]: dot=0.9425799304891329
+[30Dec2024 23:11:58.792] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.2835802137851715, 0.0, -0.9589213132858276)
+second=(-0.5793301463127136, 0.0, -0.8150929808616638)
+[30Dec2024 23:11:58.792] [Server thread/DEBUG] [greekfantasy/]: dot=0.6173234649143726
+[30Dec2024 23:12:59.644] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.4081316888332367, 0.0, 0.9129230380058289)
+second=(0.9817821383476257, 0.0, 0.19001002609729767)
+[30Dec2024 23:12:59.645] [Server thread/DEBUG] [greekfantasy/]: dot=0.5741609324664347
+[30Dec2024 23:13:53.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [A Bone to Pick]
+[30Dec2024 23:14:11.362] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7827102541923523, 0.0, 0.6223862171173096)
+second=(-0.7812761068344116, 0.0, -0.6241855621337891)
+[30Dec2024 23:14:11.364] [Server thread/DEBUG] [greekfantasy/]: dot=0.22302832937908335
+[30Dec2024 23:14:33.012] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.6648542284965515, 0.0, 0.7469731569290161)
+second=(-0.6308292150497437, 0.0, -0.7759217023849487)
+[30Dec2024 23:14:33.012] [Server thread/DEBUG] [greekfantasy/]: dot=-0.16018321247523915
+[30Dec2024 23:14:56.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Bone Knight
+[30Dec2024 23:15:49.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:15:49.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:16:10.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 23:17:17.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41938, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[30Dec2024 23:17:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 23:18:30.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]

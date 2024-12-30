@@ -175,7 +175,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2024-12-30 22:50:24 +0000"
+      "in_better_monster_room": "2024-12-30 22:50:24 +0000",
+      "in_better_skeleton_dungeon": "2024-12-30 23:13:53 +0000"
     },
     "done": false
   },
@@ -952,6 +953,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-18 03:20:15 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2024-12-30 23:13:53 +0000"
     },
     "done": true
   },
