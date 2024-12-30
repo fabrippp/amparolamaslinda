@@ -1943,3 +1943,26 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 05:50:18.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
 [30Dec2024 05:50:41.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'JAJAJA para qe'. Is the client/server system time unsynchronized?
 [30Dec2024 05:50:41.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> JAJAJA para qe
+[30Dec2024 05:59:32.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 06:01:17.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 06:03:49.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 06:10:36.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 06:11:19.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 06:13:34.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has completed the challenge [Is It a Pickaxe?]
+[30Dec2024 06:14:09.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 06:14:19.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has completed the challenge [Is It a Pickaxe?]
+[30Dec2024 06:19:03.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 moved too quickly! 7.919283064989884,1.7508129212553172,-6.041801202106626
+[30Dec2024 06:24:46.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'osea no t puedo decir amor no?'. Is the client/server system time unsynchronized?
+[30Dec2024 06:24:46.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> osea no t puedo decir amor no?
+[30Dec2024 06:35:00.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 06:35:21.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 moved wrongly!
+[30Dec2024 06:38:21.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 06:41:38.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 06:42:22.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'qe era yo'. Is the client/server system time unsynchronized?
+[30Dec2024 06:42:22.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> qe era yo
+[30Dec2024 06:42:36.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> me hace acordar a alguien
+[30Dec2024 06:42:43.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'era re precoz fabri no'. Is the client/server system time unsynchronized?
+[30Dec2024 06:42:43.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> era re precoz fabri no
+[30Dec2024 06:43:15.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 06:43:17.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 06:43:19.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
