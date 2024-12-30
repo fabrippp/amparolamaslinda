@@ -1882,3 +1882,7 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 23:43:41.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has reached the goal [This Belongs in a Museum]
 [30Dec2024 23:45:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
 [30Dec2024 23:45:09.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 23:52:07.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 lost connection: Disconnected
+[30Dec2024 23:52:07.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 left the game
+[30Dec2024 23:52:21.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint lost connection: Disconnected
+[30Dec2024 23:52:21.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint left the game
