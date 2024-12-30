@@ -1847,3 +1847,8 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 22:31:37.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: ':C'. Is the client/server system time unsynchronized?
 [30Dec2024 22:31:37.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> :C
 [30Dec2024 22:36:37.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 22:40:06.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported sushint to ampamp4]
+[30Dec2024 22:42:47.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Nightmare Stalker
+[30Dec2024 22:43:43.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported sushint to ampamp4]
+[30Dec2024 22:44:20.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 22:45:10.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
