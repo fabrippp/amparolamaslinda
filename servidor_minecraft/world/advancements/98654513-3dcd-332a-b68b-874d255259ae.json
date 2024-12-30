@@ -331,6 +331,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/mimic": {
+    "criteria": {
+      "kill": "2024-12-30 23:29:14 +0000"
+    },
+    "done": true
+  },
   "diamethysts:armor/diamethyst_diamond_helmet": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
@@ -784,6 +790,12 @@
   "diamethysts:armor/diamethyst_lapis_leggings": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/deathword": {
+    "criteria": {
+      "kill": "2024-12-30 23:28:30 +0000"
     },
     "done": true
   },
@@ -1254,6 +1266,12 @@
   "diamethysts:armor/diamethyst_lapis_helmet": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:12 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-30 23:43:41 +0000"
     },
     "done": true
   },

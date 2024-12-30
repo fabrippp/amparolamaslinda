@@ -179,6 +179,13 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-30 23:31:49 +0000",
+      "in_better_skeleton_dungeon": "2024-12-30 23:19:42 +0000"
+    },
+    "done": false
+  },
   "diamethysts:weapons/diamethyst_diamond_scimitar": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -194,6 +201,12 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2024-12-18 02:25:18 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2024-12-30 23:28:34 +0000"
     },
     "done": true
   },
@@ -576,6 +589,7 @@
       "minecraft:pillager": "2024-12-30 21:22:51 +0000",
       "minecraft:skeleton": "2024-12-23 07:25:31 +0000",
       "minecraft:spider": "2024-12-23 06:07:59 +0000",
+      "quark:forgotten": "2024-12-30 23:42:56 +0000",
       "minecraft:enderman": "2024-12-24 00:38:52 +0000",
       "minecraft:silverfish": "2024-12-24 01:46:13 +0000",
       "minecraft:zombie": "2024-12-23 06:05:11 +0000"
@@ -913,6 +927,12 @@
     },
     "done": false
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2024-12-30 23:19:42 +0000"
+    },
+    "done": true
+  },
   "diamethysts:tools/diamethyst_iron_pickaxe": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
@@ -1024,6 +1044,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-17 05:24:45 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-30 23:31:49 +0000"
     },
     "done": true
   },
@@ -1177,6 +1203,12 @@
   "diamethysts:armor/diamethyst_lapis_helmet": {
     "criteria": {
       "has_recipe": "2024-12-17 05:18:07 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-30 23:42:59 +0000"
     },
     "done": true
   },

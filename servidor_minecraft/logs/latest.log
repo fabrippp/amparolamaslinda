@@ -1861,3 +1861,24 @@ java.lang.OutOfMemoryError: Java heap space
 [30Dec2024 23:17:17.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41938, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
 [30Dec2024 23:17:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
 [30Dec2024 23:18:30.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 23:19:42.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [A Bone to Pick]
+[30Dec2024 23:24:26.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 23:25:14.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 23:25:40.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 23:26:15.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Nightmare Stalker
+[30Dec2024 23:26:20.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 23:26:59.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> ww w dadw
+[30Dec2024 23:27:03.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported sushint to ampamp4]
+[30Dec2024 23:27:32.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 23:31:49.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has made the advancement [Quite the Renovation]
+[30Dec2024 23:36:58.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 23:40:02.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'toc toc'. Is the client/server system time unsynchronized?
+[30Dec2024 23:40:02.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> toc toc
+[30Dec2024 23:40:51.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 23:42:03.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[30Dec2024 23:42:59.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 has reached the goal [This Belongs in a Museum]
+[30Dec2024 23:43:08.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 23:43:10.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 23:43:41.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has reached the goal [This Belongs in a Museum]
+[30Dec2024 23:45:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
+[30Dec2024 23:45:09.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported ampamp4 to sushint]
