@@ -8195,3 +8195,7 @@ second=(-0.5531764626502991, 0.0, 0.8330641388893127)
 first=(-0.034411899745464325, 0.0, 0.9994077086448669)
 second=(-0.9920992851257324, 0.0, 0.12545497715473175)
 [03Jan2025 05:55:58.156] [Server thread/DEBUG] [greekfantasy/]: dot=0.15952069239359812
+[03Jan2025 05:59:45.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 05:59:45.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 06:04:45.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 06:04:45.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
