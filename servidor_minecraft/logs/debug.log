@@ -8351,3 +8351,16 @@ first=(0.526302695274353, 0.0, -0.8502972722053528)
 second=(0.8323208689689636, 0.0, 0.5542941093444824)
 [03Jan2025 07:45:29.216] [Server thread/DEBUG] [greekfantasy/]: dot=-0.03326205250365177
 [03Jan2025 07:48:33.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
+[03Jan2025 07:48:58.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Successfully filled 255 blocks]
+[03Jan2025 07:49:14.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Successfully filled 100 blocks]
+[03Jan2025 07:49:17.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
+[03Jan2025 07:49:45.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 07:49:45.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 07:53:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
+[03Jan2025 07:53:17.934] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 07:53:21.184] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 07:54:45.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 07:54:45.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 07:54:51.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
+[03Jan2025 07:57:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
+[03Jan2025 07:58:00.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
