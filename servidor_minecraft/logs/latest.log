@@ -1937,3 +1937,14 @@ java.lang.OutOfMemoryError: Java heap space
 [03Jan2025 06:54:46.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Spectator Mode]
 [03Jan2025 06:55:09.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
 [03Jan2025 06:55:26.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
+[03Jan2025 07:01:10.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Arachne
+[03Jan2025 07:01:11.582] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 07:01:29.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Arachne
+[03Jan2025 07:01:30.891] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 07:01:33.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
+[03Jan2025 07:02:00.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
+[03Jan2025 07:05:05.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
+[03Jan2025 07:05:09.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
+[03Jan2025 07:12:55.546] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16111, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[03Jan2025 07:13:55.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
+[03Jan2025 07:14:00.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]

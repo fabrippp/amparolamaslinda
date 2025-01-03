@@ -8260,3 +8260,54 @@ second=(-0.9394592046737671, 0.0, 0.34266072511672974)
 first=(0.9293934106826782, 0.0, -0.36909064650535583)
 second=(-0.8948991894721985, 0.0, 0.44626834988594055)
 [03Jan2025 06:57:25.104] [Server thread/DEBUG] [greekfantasy/]: dot=-0.996426883695011
+[03Jan2025 06:59:45.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 06:59:45.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 07:00:36.408] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9349116086959839, 0.0, 0.354880690574646)
+second=(0.2631997764110565, 0.0, -0.9647161364555359)
+[03Jan2025 07:00:36.408] [Server thread/DEBUG] [greekfantasy/]: dot=-0.5884276550867291
+[03Jan2025 07:00:47.702] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.294776976108551, 0.0, -0.9555377960205078)
+second=(0.1122230663895607, 0.0, -0.993672251701355)
+[03Jan2025 07:00:47.702] [Server thread/DEBUG] [greekfantasy/]: dot=0.9825721695173919
+[03Jan2025 07:01:05.655] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9429249167442322, 0.0, 0.333005428314209)
+second=(-0.23236380517482758, 0.0, 0.9726289510726929)
+[03Jan2025 07:01:05.655] [Server thread/DEBUG] [greekfantasy/]: dot=0.5429923420916092
+[03Jan2025 07:01:07.003] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8127536177635193, 0.0, 0.5826075673103333)
+second=(0.031249770894646645, 0.0, 0.9995115995407104)
+[03Jan2025 07:01:07.003] [Server thread/DEBUG] [greekfantasy/]: dot=0.5569246571579681
+[03Jan2025 07:01:08.510] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5690475702285767, 0.0, 0.8223046064376831)
+second=(-0.8634413480758667, 0.0, 0.5044492483139038)
+[03Jan2025 07:01:08.510] [Server thread/DEBUG] [greekfantasy/]: dot=0.9061501417600084
+[03Jan2025 07:01:10.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Arachne
+[03Jan2025 07:01:11.582] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 07:01:29.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Arachne
+[03Jan2025 07:01:30.891] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 07:01:33.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
+[03Jan2025 07:02:00.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
+[03Jan2025 07:02:09.115] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7269519567489624, 0.0, -0.6866883635520935)
+second=(-0.7014576196670532, 0.0, 0.7127111554145813)
+[03Jan2025 07:02:09.115] [Server thread/DEBUG] [greekfantasy/]: dot=0.020515532196473174
+[03Jan2025 07:02:13.456] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9999270439147949, 0.0, -0.012079805135726929)
+second=(-0.22881878912448883, 0.0, 0.9734690189361572)
+[03Jan2025 07:02:13.456] [Server thread/DEBUG] [greekfantasy/]: dot=-0.240561411455829
+[03Jan2025 07:03:30.205] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.1532709151506424, 0.0, -0.9881694912910461)
+second=(-0.05021674185991287, 0.0, 0.9987383484840393)
+[03Jan2025 07:03:30.205] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9946195317350851
+[03Jan2025 07:04:45.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 07:04:45.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 07:05:05.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
+[03Jan2025 07:05:09.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
+[03Jan2025 07:09:45.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 07:09:45.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 07:12:55.546] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16111, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[03Jan2025 07:13:55.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
+[03Jan2025 07:14:00.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 07:14:45.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 07:14:45.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
