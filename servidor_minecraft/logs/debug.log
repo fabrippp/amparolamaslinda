@@ -8315,3 +8315,25 @@ second=(-0.05021674185991287, 0.0, 0.9987383484840393)
 [03Jan2025 07:19:45.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jan2025 07:24:45.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 07:24:45.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 07:29:45.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 07:29:45.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 07:34:45.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 07:34:45.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 07:36:38.073] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 07:36:48.215] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8821019530296326, 0.0, 0.4710584878921509)
+second=(0.9525794386863708, 0.0, -0.304198682308197)
+[03Jan2025 07:36:48.216] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9835675545880029
+[03Jan2025 07:36:50.208] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8821019530296326, 0.0, 0.4710584878921509)
+second=(0.7246435880661011, 0.0, -0.6890543103218079)
+[03Jan2025 07:36:50.208] [Server thread/DEBUG] [greekfantasy/]: dot=-0.963794405779268
+[03Jan2025 07:36:52.206] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.1633053570985794, 0.0, 0.9865755438804626)
+second=(-0.0653393492102623, 0.0, -0.9978631138801575)
+[03Jan2025 07:36:52.206] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9951376100499391
+[03Jan2025 07:36:54.219] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.6806010007858276, 0.0, 0.7326542735099792)
+second=(-0.12355242669582367, 0.0, -0.9923380613327026)
+[03Jan2025 07:36:54.219] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6429508161433173
+[03Jan2025 07:38:14.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
