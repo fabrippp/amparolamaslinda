@@ -7617,3 +7617,515 @@ second=(0.08407782018184662, 0.0, 0.9964591860771179)
 [03Jan2025 04:26:07.464] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9646229776217679
 [03Jan2025 04:26:14.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'tenes antorchas amor?'. Is the client/server system time unsynchronized?
 [03Jan2025 04:26:14.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> tenes antorchas amor?
+[03Jan2025 04:26:29.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> afk ya vengo
+[03Jan2025 04:26:38.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'okaoka yo estare explorando'. Is the client/server system time unsynchronized?
+[03Jan2025 04:26:38.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> okaoka yo estare explorando
+[03Jan2025 04:26:40.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 't amo'. Is the client/server system time unsynchronized?
+[03Jan2025 04:26:40.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> t amo
+[03Jan2025 04:26:58.957] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.14369502663612366, 0.0, -0.9896082282066345)
+second=(0.15582840144634247, 0.0, 0.9877841472625732)
+[03Jan2025 04:26:58.957] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9551275535266197
+[03Jan2025 04:26:59.161] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.17766469717025757, 0.0, 0.9840911030769348)
+second=(0.1539340615272522, 0.0, 0.9880810976028442)
+[03Jan2025 04:26:59.162] [Server thread/DEBUG] [greekfantasy/]: dot=0.9450131688440244
+[03Jan2025 04:26:59.457] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.05988527089357376, 0.0, 0.9982052445411682)
+second=(0.0644783079624176, 0.0, 0.9979190826416016)
+[03Jan2025 04:26:59.458] [Server thread/DEBUG] [greekfantasy/]: dot=0.9922667609814695
+[03Jan2025 04:26:59.713] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.1324903815984726, 0.0, -0.9911715984344482)
+second=(0.24381709098815918, 0.0, 0.9698212146759033)
+[03Jan2025 04:26:59.713] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9289558241207025
+[03Jan2025 04:26:59.957] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5455660820007324, 0.0, -0.8380678296089172)
+second=(-0.13258540630340576, 0.0, -0.9911715984344482)
+[03Jan2025 04:26:59.957] [Server thread/DEBUG] [greekfantasy/]: dot=0.9030031309173836
+[03Jan2025 04:27:00.909] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.10736306756734848, 0.0, 0.9942198991775513)
+second=(-0.005848268512636423, 0.0, 0.9999828934669495)
+[03Jan2025 04:27:00.909] [Server thread/DEBUG] [greekfantasy/]: dot=0.9948307795694606
+[03Jan2025 04:27:01.196] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.8183569312095642, 0.0, -0.5747103095054626)
+second=(0.1948082149028778, 0.0, -0.9808226823806763)
+[03Jan2025 04:27:01.196] [Server thread/DEBUG] [greekfantasy/]: dot=0.40426625443864417
+[03Jan2025 04:27:01.474] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.16046708822250366, 0.0, 0.987041175365448)
+second=(-0.06103365495800972, 0.0, 0.9981356859207153)
+[03Jan2025 04:27:01.474] [Server thread/DEBUG] [greekfantasy/]: dot=0.9754071277106917
+[03Jan2025 04:27:03.407] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.07643267512321472, 0.0, 0.9970747232437134)
+second=(0.0017257275758311152, 0.0, -0.9999983310699463)
+[03Jan2025 04:27:03.408] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9969411572205873
+[03Jan2025 04:27:03.608] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.022145036607980728, 0.0, -0.9997526407241821)
+second=(0.8332231640815735, 0.0, 0.552936851978302)
+[03Jan2025 04:27:03.608] [Server thread/DEBUG] [greekfantasy/]: dot=-0.5343483204478197
+[03Jan2025 04:27:03.772] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8653214573860168, 0.0, -0.5011342763900757)
+second=(-0.07977800816297531, 0.0, 0.996812641620636)
+[03Jan2025 04:27:03.772] [Server thread/DEBUG] [greekfantasy/]: dot=-0.5685706041459766
+[03Jan2025 04:27:04.662] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.4281616806983948, 0.0, -0.9036610722541809)
+second=(0.9792212843894958, 0.0, 0.20279480516910553)
+[03Jan2025 04:27:04.663] [Server thread/DEBUG] [greekfantasy/]: dot=0.23600725981315573
+[03Jan2025 04:27:05.357] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.0375736840069294, 0.0, 0.999293863773346)
+second=(0.07843998074531555, 0.0, -0.9969112873077393)
+[03Jan2025 04:27:05.357] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9932600530829768
+[03Jan2025 04:27:05.610] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.0, 0.0, -1.0)
+second=(-0.0063276286236941814, 0.0, 0.9999799728393555)
+[03Jan2025 04:27:05.610] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9999799728393555
+[03Jan2025 04:27:05.658] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.0, 0.0, -1.0)
+second=(0.5006363987922668, 0.0, 0.86565762758255)
+[03Jan2025 04:27:05.659] [Server thread/DEBUG] [greekfantasy/]: dot=-0.86565762758255
+[03Jan2025 04:27:06.210] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8817856311798096, 0.0, -0.471565842628479)
+second=(0.05270615592598915, 0.0, 0.9986100792884827)
+[03Jan2025 04:27:06.210] [Server thread/DEBUG] [greekfantasy/]: dot=-0.42443487252670575
+[03Jan2025 04:27:07.309] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.026266399770975113, 0.0, 0.99965500831604)
+second=(0.14710980653762817, 0.0, -0.9891060590744019)
+[03Jan2025 04:27:07.309] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9849007807207186
+[03Jan2025 04:27:07.458] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.10583782941102982, 0.0, 0.9943833947181702)
+second=(-0.16254861652851105, 0.0, 0.9867005348205566)
+[03Jan2025 04:27:07.458] [Server thread/DEBUG] [greekfantasy/]: dot=0.9639548346379557
+[03Jan2025 04:27:07.609] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.1748335063457489, 0.0, -0.9845979809761047)
+second=(-0.2331097424030304, 0.0, 0.9724504351615906)
+[03Jan2025 04:27:07.610] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9167173414317604
+[03Jan2025 04:27:08.110] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3468005657196045, 0.0, -0.9379388689994812)
+second=(-0.07021766155958176, 0.0, 0.9975317120552063)
+[03Jan2025 04:27:08.110] [Server thread/DEBUG] [greekfantasy/]: dot=-0.959975290548547
+[03Jan2025 04:27:09.407] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.0926726758480072, 0.0, 0.9956966042518616)
+second=(0.13001921772956848, 0.0, -0.9914990067481995)
+[03Jan2025 04:27:09.407] [Server thread/DEBUG] [greekfantasy/]: dot=-0.975182965319612
+[03Jan2025 04:27:09.629] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.0711740031838417, 0.0, -0.9974639415740967)
+second=(-0.2720678448677063, 0.0, 0.9622780680656433)
+[03Jan2025 04:27:09.629] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9404735170062284
+[03Jan2025 04:27:09.670] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.17615491151809692, 0.0, 0.9843624830245972)
+second=(-0.07518990337848663, 0.0, 0.9971692562103271)
+[03Jan2025 04:27:09.670] [Server thread/DEBUG] [greekfantasy/]: dot=0.9683309342622968
+[03Jan2025 04:27:11.909] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.06696563214063644, 0.0, 0.9977552890777588)
+second=(0.024157846346497536, 0.0, -0.9997058510780334)
+[03Jan2025 04:27:11.909] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9958440549833406
+[03Jan2025 04:27:13.259] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.19001002609729767, 0.0, -0.9817821383476257)
+second=(-0.20851808786392212, 0.0, 0.9780185222625732)
+[03Jan2025 04:27:13.259] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9205805888137517
+[03Jan2025 04:27:15.268] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9998427033424377, 0.0, 0.01773572340607643)
+second=(0.9975181818008423, 0.0, -0.07031330466270447)
+[03Jan2025 04:27:15.269] [Server thread/DEBUG] [greekfantasy/]: dot=0.9961142182017225
+[03Jan2025 04:27:17.250] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.931849479675293, 0.0, -0.3628450632095337)
+second=(0.5168959498405457, 0.0, 0.8560482263565063)
+[03Jan2025 04:27:17.250] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7922820947079146
+[03Jan2025 04:27:52.669] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.1970645934343338, 0.0, -0.9803715944290161)
+second=(0.10135600715875626, 0.0, 0.994850218296051)
+[03Jan2025 04:27:52.669] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9553492143860866
+[03Jan2025 04:27:52.843] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.11650907248258591, 0.0, 0.9931896328926086)
+second=(0.05194021761417389, 0.0, 0.9986501932144165)
+[03Jan2025 04:27:52.843] [Server thread/DEBUG] [greekfantasy/]: dot=0.985797512207988
+[03Jan2025 04:27:52.844] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.04130984842777252, 0.0, 0.9991464018821716)
+second=(0.04552431404590607, 0.0, 0.9989632368087769)
+[03Jan2025 04:27:52.844] [Server thread/DEBUG] [greekfantasy/]: dot=0.9962299211570425
+[03Jan2025 04:27:54.959] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3448214828968048, 0.0, -0.9386352300643921)
+second=(-0.14521291851997375, 0.0, 0.9894004464149475)
+[03Jan2025 04:27:54.960] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9787586495463367
+[03Jan2025 04:27:55.206] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6285203099250793, 0.0, -0.7777329087257385)
+second=(0.6045186519622803, 0.0, 0.7965909838676453)
+[03Jan2025 04:27:55.206] [Server thread/DEBUG] [greekfantasy/]: dot=-0.23958277246125803
+[03Jan2025 04:27:56.005] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.5891340374946594, 0.0, -0.8079788088798523)
+second=(0.09734923392534256, 0.0, 0.9952502846717834)
+[03Jan2025 04:27:56.005] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7467893923169924
+[03Jan2025 04:28:34.556] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.47848382592201233, 0.0, -0.8780505061149597)
+second=(0.08016027510166168, 0.0, 0.9967820048332214)
+[03Jan2025 04:28:34.556] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8368695487124902
+[03Jan2025 04:28:36.056] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.24205006659030914, 0.0, -0.9702637791633606)
+second=(0.11708038300275803, 0.0, 0.9931224584579468)
+[03Jan2025 04:28:36.056] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9919300642176515
+[03Jan2025 04:28:36.408] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.24864903092384338, 0.0, -0.9685936570167542)
+second=(-0.21414059400558472, 0.0, 0.9768028259277344)
+[03Jan2025 04:28:36.408] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8928791701686993
+[03Jan2025 04:28:38.010] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.1882212907075882, 0.0, -0.9821085929870605)
+second=(0.13581562042236328, 0.0, 0.9907341003417969)
+[03Jan2025 04:28:38.010] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9474450819368343
+[03Jan2025 04:28:38.406] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.23021849989891052, 0.0, -0.9731168746948242)
+second=(0.27944037318229675, 0.0, 0.9601630568504333)
+[03Jan2025 04:28:38.406] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8700185295545024
+[03Jan2025 04:28:39.961] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7798377871513367, 0.0, -0.6259068846702576)
+second=(0.14179719984531403, 0.0, 0.9898957014083862)
+[03Jan2025 04:28:39.964] [Server thread/DEBUG] [greekfantasy/]: dot=-0.509003720065377
+[03Jan2025 04:28:40.463] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.5873507857322693, 0.0, -0.8092761635780334)
+second=(0.29294416308403015, 0.0, 0.9561295509338379)
+[03Jan2025 04:28:40.464] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6017118705002371
+[03Jan2025 04:28:49.757] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.26680517196655273, 0.0, 0.9637504816055298)
+second=(-0.014572301879525185, 0.0, 0.999893844127655)
+[03Jan2025 04:28:49.757] [Server thread/DEBUG] [greekfantasy/]: dot=0.9597602083235168
+[03Jan2025 04:29:08.761] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.006711115594953299, 0.0, 0.9999774694442749)
+second=(-0.5119630694389343, 0.0, -0.8590074777603149)
+[03Jan2025 04:29:08.761] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8624239671838207
+[03Jan2025 04:29:12.624] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9231440424919128, 0.0, 0.38445425033569336)
+second=(0.7264909148216248, 0.0, -0.6871063709259033)
+[03Jan2025 04:29:12.624] [Server thread/DEBUG] [greekfantasy/]: dot=0.4064947952068856
+[03Jan2025 04:29:41.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:29:41.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:29:47.256] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9267874956130981, 0.0, -0.37549731135368347)
+second=(0.996563196182251, 0.0, 0.08283580839633942)
+[03Jan2025 04:29:47.256] [Server thread/DEBUG] [greekfantasy/]: dot=0.8924976854732987
+[03Jan2025 04:30:46.260] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6076452732086182, 0.0, 0.7942085862159729)
+second=(0.1259305477142334, 0.0, -0.9920269846916199)
+[03Jan2025 04:30:46.260] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7113552469288997
+[03Jan2025 04:30:48.318] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8220317363739014, 0.0, 0.5694417357444763)
+second=(0.6396404504776001, 0.0, -0.7686129212379456)
+[03Jan2025 04:30:48.318] [Server thread/DEBUG] [greekfantasy/]: dot=0.08812447417571789
+[03Jan2025 04:31:04.306] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.3959297835826874, 0.0, 0.9182807803153992)
+second=(-0.9865755438804626, 0.0, -0.1633053570985794)
+[03Jan2025 04:31:04.306] [Server thread/DEBUG] [greekfantasy/]: dot=-0.5405748123227321
+[03Jan2025 04:31:06.165] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.038723330944776535, 0.0, 0.9992499947547913)
+second=(-0.9085681438446045, 0.0, 0.41773661971092224)
+[03Jan2025 04:31:06.165] [Server thread/DEBUG] [greekfantasy/]: dot=0.38224053013504733
+[03Jan2025 04:31:07.008] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.04772701486945152, 0.0, 0.9988604187965393)
+second=(0.7385642528533936, 0.0, -0.6741123199462891)
+[03Jan2025 04:31:07.008] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6380946471394777
+[03Jan2025 04:31:08.210] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.2697606384754181, 0.0, 0.9629274010658264)
+second=(-0.9863870143890381, 0.0, 0.16444028913974762)
+[03Jan2025 04:31:08.210] [Server thread/DEBUG] [greekfantasy/]: dot=0.42443245103729854
+[03Jan2025 04:31:10.455] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7037090063095093, 0.0, -0.7104883193969727)
+second=(0.6875241994857788, 0.0, 0.7261614203453064)
+[03Jan2025 04:31:10.455] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9997461783859336
+[03Jan2025 04:31:26.758] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9291455149650574, 0.0, -0.3696252107620239)
+second=(0.999481201171875, 0.0, 0.032208025455474854)
+[03Jan2025 04:31:26.758] [Server thread/DEBUG] [greekfantasy/]: dot=0.9167585771635274
+[03Jan2025 04:31:28.706] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9813792109489441, 0.0, -0.1919863075017929)
+second=(0.9995205402374268, 0.0, -0.030866460874676704)
+[03Jan2025 04:31:28.706] [Server thread/DEBUG] [greekfantasy/]: dot=0.986834616954446
+[03Jan2025 04:31:40.556] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9711620211601257, 0.0, -0.23832738399505615)
+second=(0.9178627133369446, 0.0, 0.3968980014324188)
+[03Jan2025 04:31:40.556] [Server thread/DEBUG] [greekfantasy/]: dot=0.7968017454375698
+[03Jan2025 04:31:41.355] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9958113431930542, 0.0, -0.09133613109588623)
+second=(0.9820724725723267, 0.0, 0.18850377202033997)
+[03Jan2025 04:31:41.355] [Server thread/DEBUG] [greekfantasy/]: dot=0.9607417027918537
+[03Jan2025 04:31:43.405] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.43378502130508423, 0.0, -0.9009748101234436)
+second=(0.21151761710643768, 0.0, 0.9773741960525513)
+[03Jan2025 04:31:43.405] [Server thread/DEBUG] [greekfantasy/]: dot=-0.788836356665084
+[03Jan2025 04:32:22.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> estoy mi mama sigue despierta no me digas ningun apodo te amo ni te amo te amo
+[03Jan2025 04:32:39.108] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5094077587127686, 0.0, 0.8605252504348755)
+second=(-0.014380574226379395, 0.0, 0.9998965859413147)
+[03Jan2025 04:32:39.109] [Server thread/DEBUG] [greekfantasy/]: dot=0.8677618361117894
+[03Jan2025 04:32:39.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[03Jan2025 04:32:54.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'como?'. Is the client/server system time unsynchronized?
+[03Jan2025 04:32:54.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> como?
+[03Jan2025 04:33:04.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'osea qe esta tu mamayh no diga nd'. Is the client/server system time unsynchronized?
+[03Jan2025 04:33:04.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> osea qe esta tu mamayh no diga nd
+[03Jan2025 04:33:06.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: '?'. Is the client/server system time unsynchronized?
+[03Jan2025 04:33:06.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ?
+[03Jan2025 04:33:12.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> sip masomenos
+[03Jan2025 04:33:20.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'dale dale'. Is the client/server system time unsynchronized?
+[03Jan2025 04:33:20.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> dale dale
+[03Jan2025 04:33:26.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'entonces ya t llamo?'. Is the client/server system time unsynchronized?
+[03Jan2025 04:33:26.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> entonces ya t llamo?
+[03Jan2025 04:33:41.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> nonos
+[03Jan2025 04:33:41.908] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9730284810066223, 0.0, -0.23059168457984924)
+second=(0.9666826128959656, 0.0, -0.2558853030204773)
+[03Jan2025 04:33:41.908] [Server thread/DEBUG] [greekfantasy/]: dot=0.9996147375243911
+[03Jan2025 04:33:44.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Forgotten
+[03Jan2025 04:33:48.167] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.009587232954800129, 0.0, 0.9999540448188782)
+second=(0.12516963481903076, 0.0, 0.9921353459358215)
+[03Jan2025 04:33:48.167] [Server thread/DEBUG] [greekfantasy/]: dot=0.9908897217284244
+[03Jan2025 04:34:18.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'hacete tp'. Is the client/server system time unsynchronized?
+[03Jan2025 04:34:18.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> hacete tp
+[03Jan2025 04:34:23.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[03Jan2025 04:34:25.678] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.2939523458480835, 0.0, 0.9558200836181641)
+second=(0.24920617043972015, 0.0, -0.9684265851974487)
+[03Jan2025 04:34:25.678] [Server thread/DEBUG] [greekfantasy/]: dot=-0.8523868412409055
+[03Jan2025 04:34:27.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[03Jan2025 04:34:27.467] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 04:34:27.606] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8248603940010071, 0.0, 0.5653364658355713)
+second=(0.8984220027923584, 0.0, -0.4390469789505005)
+[03Jan2025 04:34:27.606] [Server thread/DEBUG] [greekfantasy/]: dot=0.4928634597868182
+[03Jan2025 04:34:43.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:34:43.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:34:52.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was blown up by Creep
+[03Jan2025 04:35:00.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[03Jan2025 04:35:00.670] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 04:35:27.754] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9997934699058533, 0.0, -0.020227991044521332)
+second=(0.9998823404312134, 0.0, 0.015339205972850323)
+[03Jan2025 04:35:27.754] [Server thread/DEBUG] [greekfantasy/]: dot=0.9993655533162595
+[03Jan2025 04:35:32.008] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9915488362312317, 0.0, -0.12973403930664062)
+second=(-0.9998068809509277, 0.0, -0.01965286396443844)
+[03Jan2025 04:35:32.009] [Server thread/DEBUG] [greekfantasy/]: dot=0.9939069946889205
+[03Jan2025 04:35:32.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint has made the advancement [Take Aim]
+[03Jan2025 04:35:41.357] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.4247796833515167, 0.0, -0.9052560329437256)
+second=(0.622536301612854, 0.0, 0.782590925693512)
+[03Jan2025 04:35:41.358] [Server thread/DEBUG] [greekfantasy/]: dot=-0.44400438373713413
+[03Jan2025 04:35:50.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'hacete tp amor'. Is the client/server system time unsynchronized?
+[03Jan2025 04:35:50.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> hacete tp amor
+[03Jan2025 04:35:53.207] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8323208689689636, 0.0, -0.5542142987251282)
+second=(0.0656263530254364, 0.0, 0.9978442788124084)
+[03Jan2025 04:35:53.207] [Server thread/DEBUG] [greekfantasy/]: dot=-0.498397384041505
+[03Jan2025 04:36:04.058] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.384188711643219, 0.0, 0.9232546091079712)
+second=(0.8930949568748474, 0.0, 0.44986823201179504)
+[03Jan2025 04:36:04.059] [Server thread/DEBUG] [greekfantasy/]: dot=0.7584599195529478
+[03Jan2025 04:36:06.055] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9991344809532166, 0.0, 0.04159722477197647)
+second=(0.6444182395935059, 0.0, 0.7646732330322266)
+[03Jan2025 04:36:06.055] [Server thread/DEBUG] [greekfantasy/]: dot=0.6756687676845985
+[03Jan2025 04:36:09.805] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.25801634788513184, 0.0, 0.9661405682563782)
+second=(0.11041278392076492, 0.0, -0.9938752055168152)
+[03Jan2025 04:36:09.805] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9317348525668745
+[03Jan2025 04:36:12.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Forgotten
+[03Jan2025 04:36:14.346] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 04:36:14.700] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.3093087673187256, 0.0, -0.9509616494178772)
+second=(-0.3643633723258972, 0.0, 0.9312568306922913)
+[03Jan2025 04:36:14.705] [Server thread/DEBUG] [greekfantasy/]: dot=-0.772888746196589
+[03Jan2025 04:36:16.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[03Jan2025 04:36:17.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[03Jan2025 04:36:20.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 was slain by Forgotten
+[03Jan2025 04:36:21.408] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.5383144617080688, 0.0, -0.8427440524101257)
+second=(-0.9000994563102722, 0.0, -0.4356845021247864)
+[03Jan2025 04:36:21.409] [Server thread/DEBUG] [greekfantasy/]: dot=0.8517070772003201
+[03Jan2025 04:36:22.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Forgotten
+[03Jan2025 04:36:31.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> PQ NO TAPAS PQ PQ PQ PQ
+[03Jan2025 04:36:54.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported ampamp4 to sushint]
+[03Jan2025 04:36:54.599] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 04:36:58.556] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 04:36:59.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Teleported sushint to ampamp4]
+[03Jan2025 04:37:26.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'ya tap'. Is the client/server system time unsynchronized?
+[03Jan2025 04:37:26.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ya tap
+[03Jan2025 04:37:28.316] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.21648120880126953, 0.0, -0.976286768913269)
+second=(-0.46427905559539795, 0.0, 0.8856889605522156)
+[03Jan2025 04:37:28.321] [Server thread/DEBUG] [greekfantasy/]: dot=-0.7641787223832708
+[03Jan2025 04:37:30.459] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.12412324547767639, 0.0, -0.992266833782196)
+second=(-0.1715286374092102, 0.0, 0.9851791262626648)
+[03Jan2025 04:37:30.459] [Server thread/DEBUG] [greekfantasy/]: dot=-0.95626988115737
+[03Jan2025 04:37:32.408] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.2875311076641083, 0.0, -0.9577713012695312)
+second=(0.2916605472564697, 0.0, 0.9565218687057495)
+[03Jan2025 04:37:32.408] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9999906750976422
+[03Jan2025 04:37:38.461] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.22396279871463776, 0.0, 0.974597692489624)
+second=(-0.9938433766365051, 0.0, 0.11079392582178116)
+[03Jan2025 04:37:38.461] [Server thread/DEBUG] [greekfantasy/]: dot=0.330563448563292
+[03Jan2025 04:37:40.456] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7349989414215088, 0.0, 0.678068220615387)
+second=(-0.5676276683807373, 0.0, -0.8232854008674622)
+[03Jan2025 04:37:40.456] [Server thread/DEBUG] [greekfantasy/]: dot=-0.14103793144342447
+[03Jan2025 04:37:42.458] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6652122139930725, 0.0, -0.7466543316841125)
+second=(0.07251276820898056, 0.0, -0.9973605275154114)
+[03Jan2025 04:37:42.458] [Server thread/DEBUG] [greekfantasy/]: dot=0.7929199372031959
+[03Jan2025 04:37:44.470] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6652122139930725, 0.0, -0.7466543316841125)
+second=(0.11146088689565659, 0.0, -0.9937581419944763)
+[03Jan2025 04:37:44.470] [Server thread/DEBUG] [greekfantasy/]: dot=0.8161389647120223
+[03Jan2025 04:37:56.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'tomatoma'. Is the client/server system time unsynchronized?
+[03Jan2025 04:37:56.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> tomatoma
+[03Jan2025 04:37:58.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> ya guey gracias
+[03Jan2025 04:38:10.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'no se qe mas tenia tuyo DX'. Is the client/server system time unsynchronized?
+[03Jan2025 04:38:10.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> no se qe mas tenia tuyo DX
+[03Jan2025 04:39:00.925] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.41669103503227234, 0.0, 0.9090481996536255)
+second=(-0.9883307218551636, 0.0, 0.1523234248161316)
+[03Jan2025 04:39:00.925] [Server thread/DEBUG] [greekfantasy/]: dot=0.5502978865381998
+[03Jan2025 04:39:02.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'esta el esqueleto'. Is the client/server system time unsynchronized?
+[03Jan2025 04:39:02.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> esta el esqueleto
+[03Jan2025 04:39:08.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> cuidados
+[03Jan2025 04:39:45.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:39:45.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:40:41.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> lo vistes
+[03Jan2025 04:40:44.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'nopss'. Is the client/server system time unsynchronized?
+[03Jan2025 04:40:44.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> nopss
+[03Jan2025 04:41:13.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'robamos el medio?'. Is the client/server system time unsynchronized?
+[03Jan2025 04:41:13.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> robamos el medio?
+[03Jan2025 04:41:14.205] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.12298157066106796, 0.0, 0.9924089312553406)
+second=(0.1386646181344986, 0.0, 0.9903393983840942)
+[03Jan2025 04:41:14.205] [Server thread/DEBUG] [greekfantasy/]: dot=0.9998748564637138
+[03Jan2025 04:41:16.007] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7361680269241333, 0.0, -0.6767282485961914)
+second=(0.1518496423959732, 0.0, 0.9884036183357239)
+[03Jan2025 04:41:16.007] [Server thread/DEBUG] [greekfantasy/]: dot=-0.557093797910694
+[03Jan2025 04:41:28.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> hay que tener cuidado
+[03Jan2025 04:41:37.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'sisi el esqueleto no se a donde se fue'. Is the client/server system time unsynchronized?
+[03Jan2025 04:41:37.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> sisi el esqueleto no se a donde se fue
+[03Jan2025 04:42:34.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'ya lo mate amor'. Is the client/server system time unsynchronized?
+[03Jan2025 04:42:34.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ya lo mate amor
+[03Jan2025 04:43:30.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'ya robamos esto qe tonto jeje'. Is the client/server system time unsynchronized?
+[03Jan2025 04:43:30.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ya robamos esto qe tonto jeje
+[03Jan2025 04:43:40.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> espera
+[03Jan2025 04:44:05.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'qe paso qe paso'. Is the client/server system time unsynchronized?
+[03Jan2025 04:44:05.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> qe paso qe paso
+[03Jan2025 04:44:13.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> estoy cenando una manzana con pizza
+[03Jan2025 04:44:22.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'ñami ñamiiii'. Is the client/server system time unsynchronized?
+[03Jan2025 04:44:22.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ñami ñamiiii
+[03Jan2025 04:44:45.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:44:45.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:44:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> yo ahhi habia dejado el totem
+[03Jan2025 04:44:50.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> para tp a la aldea
+[03Jan2025 04:44:52.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> nooooooooooooooo
+[03Jan2025 04:44:55.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'ciertoooo'. Is the client/server system time unsynchronized?
+[03Jan2025 04:44:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> ciertoooo
+[03Jan2025 04:45:08.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'yo m tengo qe qedar un seg mass'. Is the client/server system time unsynchronized?
+[03Jan2025 04:45:08.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> yo m tengo qe qedar un seg mass
+[03Jan2025 04:45:11.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'buscando hierro'. Is the client/server system time unsynchronized?
+[03Jan2025 04:45:11.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> buscando hierro
+[03Jan2025 04:45:16.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> aca esta
+[03Jan2025 04:45:22.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'sisi'. Is the client/server system time unsynchronized?
+[03Jan2025 04:45:22.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> sisi
+[03Jan2025 04:45:28.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'm tengo qe qedar amorr'. Is the client/server system time unsynchronized?
+[03Jan2025 04:45:28.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> m tengo qe qedar amorr
+[03Jan2025 04:45:34.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> okei
+[03Jan2025 04:45:35.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'al menos traer 4 stacks'. Is the client/server system time unsynchronized?
+[03Jan2025 04:45:35.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> al menos traer 4 stacks
+[03Jan2025 04:45:44.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'tenes antorchas o bloques :c?'. Is the client/server system time unsynchronized?
+[03Jan2025 04:45:44.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> tenes antorchas o bloques :c?
+[03Jan2025 04:46:07.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'gracias amorr'. Is the client/server system time unsynchronized?
+[03Jan2025 04:46:07.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> gracias amorr
+[03Jan2025 04:46:13.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> dnd
+[03Jan2025 04:46:21.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> no antorchas no pero si carbon
+[03Jan2025 04:46:28.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'm das?'. Is the client/server system time unsynchronized?
+[03Jan2025 04:46:28.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> m das?
+[03Jan2025 04:46:33.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'graciasss'. Is the client/server system time unsynchronized?
+[03Jan2025 04:46:33.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> graciasss
+[03Jan2025 04:46:45.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'graciassss'. Is the client/server system time unsynchronized?
+[03Jan2025 04:46:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> graciassss
+[03Jan2025 04:46:47.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> denadita
+[03Jan2025 04:46:49.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 't amo'. Is the client/server system time unsynchronized?
+[03Jan2025 04:46:49.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> t amo
+[03Jan2025 04:46:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> bfhjwefhje
+[03Jan2025 04:46:57.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> no
+[03Jan2025 04:46:59.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> pera
+[03Jan2025 04:47:02.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> caca
+[03Jan2025 04:47:02.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 're god'. Is the client/server system time unsynchronized?
+[03Jan2025 04:47:02.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> re god
+[03Jan2025 04:47:06.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> dea yo igual
+[03Jan2025 04:47:19.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported sushint to ampamp4]
+[03Jan2025 04:47:33.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ampamp4> estaba practicando el comando
+[03Jan2025 04:47:42.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ampamp4: Teleported sushint to ampamp4]
+[03Jan2025 04:47:48.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'pero dijiste no y qe coma caca'. Is the client/server system time unsynchronized?
+[03Jan2025 04:47:48.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> pero dijiste no y qe coma caca
+[03Jan2025 04:49:11.670] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.7249738574028015, 0.0, -0.6887763738632202)
+second=(-0.4274684190750122, 0.0, -0.9040302634239197)
+[03Jan2025 04:49:11.671] [Server thread/DEBUG] [greekfantasy/]: dot=0.31277125800905026
+[03Jan2025 04:49:15.888] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.23990994691848755, 0.0, 0.9707951545715332)
+second=(-0.716065526008606, 0.0, 0.6980330944061279)
+[03Jan2025 04:49:15.888] [Server thread/DEBUG] [greekfantasy/]: dot=0.5058559034451591
+[03Jan2025 04:49:25.217] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.0808292105793953, 0.0, 0.9967279434204102)
+second=(0.27252912521362305, 0.0, -0.9621214270591736)
+[03Jan2025 04:49:25.218] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9810016253643106
+[03Jan2025 04:49:27.115] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.20908065140247345, 0.0, 0.9778984189033508)
+second=(0.4791571795940399, 0.0, 0.8777291178703308)
+[03Jan2025 04:49:27.115] [Server thread/DEBUG] [greekfantasy/]: dot=0.9585124118245232
+[03Jan2025 04:49:34.953] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9988558292388916, 0.0, -0.047822777181863785)
+second=(0.9999644160270691, 0.0, 0.008436794392764568)
+[03Jan2025 04:49:34.953] [Server thread/DEBUG] [greekfantasy/]: dot=0.9984168150417277
+[03Jan2025 04:49:36.925] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.0603637732565403, 0.0, 0.9981764554977417)
+second=(-0.9029619097709656, 0.0, 0.42972058057785034)
+[03Jan2025 04:49:36.926] [Server thread/DEBUG] [greekfantasy/]: dot=0.4834431539563375
+[03Jan2025 04:49:45.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:49:45.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:49:46.673] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9773944616317749, 0.0, -0.21142391860485077)
+second=(-0.9982110261917114, 0.0, 0.05978957191109657)
+[03Jan2025 04:49:46.674] [Server thread/DEBUG] [greekfantasy/]: dot=0.9630049829543987
+[03Jan2025 04:49:48.925] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9135090708732605, 0.0, 0.4068183898925781)
+second=(0.9827704429626465, 0.0, -0.1847361922264099)
+[03Jan2025 04:49:48.925] [Server thread/DEBUG] [greekfantasy/]: dot=0.822615633956076
+[03Jan2025 04:49:52.325] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.23702360689640045, 0.0, -0.9715039134025574)
+second=(0.5184544920921326, 0.0, -0.8550555109977722)
+[03Jan2025 04:49:52.325] [Server thread/DEBUG] [greekfantasy/]: dot=0.7078038213834406
+[03Jan2025 04:50:53.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sushint sent expired chat: 'tenes qe decirme t amo eu :('. Is the client/server system time unsynchronized?
+[03Jan2025 04:50:53.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sushint> tenes qe decirme t amo eu :(
+[03Jan2025 04:51:15.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ampamp4 lost connection: Disconnected
+[03Jan2025 04:51:15.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ampamp4 left the game
+[03Jan2025 04:54:45.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:54:45.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:55:33.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6066, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[03Jan2025 04:56:54.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6215, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
+[03Jan2025 04:59:45.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:59:45.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 05:01:00.157] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.35353583097457886, 0.0, 0.9354209899902344)
+second=(-0.9952128529548645, 0.0, -0.09773089736700058)
+[03Jan2025 05:01:00.157] [Server thread/DEBUG] [greekfantasy/]: dot=0.2604238701983057
+[03Jan2025 05:01:02.158] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.7258318066596985, 0.0, 0.6878722310066223)
+second=(-0.6317958235740662, 0.0, -0.7751348614692688)
+[03Jan2025 05:01:02.158] [Server thread/DEBUG] [greekfantasy/]: dot=-0.07461624242505849
+[03Jan2025 05:01:30.410] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.890143096446991, 0.0, -0.45568108558654785)
+second=(0.09820796549320221, 0.0, -0.995156466960907)
+[03Jan2025 05:01:30.411] [Server thread/DEBUG] [greekfantasy/]: dot=0.5408931216930979
+[03Jan2025 05:01:32.455] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.6390507221221924, 0.0, 0.7691646218299866)
+second=(0.14938534796237946, 0.0, -0.9887647032737732)
+[03Jan2025 05:01:32.456] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6650580145825771
+[03Jan2025 05:02:22.255] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.1340106725692749, 0.0, 0.9909799098968506)
+second=(0.9776169061660767, 0.0, -0.2102992981672287)
+[03Jan2025 05:02:22.255] [Server thread/DEBUG] [greekfantasy/]: dot=-0.33941347865954086
+[03Jan2025 05:04:45.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 05:04:45.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
