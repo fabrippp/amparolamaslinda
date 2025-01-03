@@ -8216,3 +8216,47 @@ second=(-0.9920992851257324, 0.0, 0.12545497715473175)
 [03Jan2025 06:39:45.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jan2025 06:44:45.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 06:44:45.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 06:49:45.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 06:49:45.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 06:54:42.979] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 06:54:45.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 06:54:45.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 06:54:46.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Spectator Mode]
+[03Jan2025 06:55:09.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
+[03Jan2025 06:55:26.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
+[03Jan2025 06:56:44.654] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9995946288108826, 0.0, 0.02847067080438137)
+second=(-0.9203183054924011, 0.0, -0.3911703824996948)
+[03Jan2025 06:56:44.654] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9310821181551099
+[03Jan2025 06:56:48.304] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9504562616348267, 0.0, 0.31085827946662903)
+second=(-0.7471643090248108, 0.0, -0.6646393537521362)
+[03Jan2025 06:56:48.304] [Server thread/DEBUG] [greekfantasy/]: dot=0.5035383500094888
+[03Jan2025 06:56:49.456] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8522592186927795, 0.0, -0.5231196880340576)
+second=(0.7208004593849182, 0.0, 0.6931426525115967)
+[03Jan2025 06:56:49.456] [Server thread/DEBUG] [greekfantasy/]: dot=0.2517122682038213
+[03Jan2025 06:56:50.311] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.9428929686546326, 0.0, 0.33309581875801086)
+second=(-0.9475855827331543, 0.0, -0.3195020258426666)
+[03Jan2025 06:56:50.311] [Server thread/DEBUG] [greekfantasy/]: dot=0.7870469942646876
+[03Jan2025 06:56:52.289] [Server thread/DEBUG] [greekfantasy/]: 
+first=(-0.0, 0.0, -1.0)
+second=(-0.0017257275758311152, 0.0, 0.9999985098838806)
+[03Jan2025 06:56:52.290] [Server thread/DEBUG] [greekfantasy/]: dot=-0.9999985098838806
+[03Jan2025 06:56:58.163] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9980885982513428, 0.0, -0.061703506857156754)
+second=(-0.5212391018867493, 0.0, -0.8534106612205505)
+[03Jan2025 06:56:58.164] [Server thread/DEBUG] [greekfantasy/]: dot=-0.4675843739693415
+[03Jan2025 06:57:08.204] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.44969695806503296, 0.0, -0.8931812047958374)
+second=(0.404276967048645, 0.0, 0.9146366119384766)
+[03Jan2025 06:57:08.204] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6351341087040581
+[03Jan2025 06:57:21.005] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.8386427164077759, 0.0, 0.5446819067001343)
+second=(-0.9394592046737671, 0.0, 0.34266072511672974)
+[03Jan2025 06:57:21.005] [Server thread/DEBUG] [greekfantasy/]: dot=-0.6012295222540658
+[03Jan2025 06:57:25.104] [Server thread/DEBUG] [greekfantasy/]: 
+first=(0.9293934106826782, 0.0, -0.36909064650535583)
+second=(-0.8948991894721985, 0.0, 0.44626834988594055)
+[03Jan2025 06:57:25.104] [Server thread/DEBUG] [greekfantasy/]: dot=-0.996426883695011

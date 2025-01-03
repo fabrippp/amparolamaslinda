@@ -1933,3 +1933,7 @@ java.lang.OutOfMemoryError: Java heap space
 [03Jan2025 05:15:12.546] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7541, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
 [03Jan2025 05:37:43.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8837, l='ServerLevel[world]', x=-305.38, y=-256.00, z=846.34] died, message: 'Villager fell out of the world'
 [03Jan2025 06:24:47.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sushint was slain by Deathword
+[03Jan2025 06:54:42.979] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 06:54:46.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Spectator Mode]
+[03Jan2025 06:55:09.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
+[03Jan2025 06:55:26.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
