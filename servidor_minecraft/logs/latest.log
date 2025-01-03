@@ -1950,3 +1950,5 @@ java.lang.OutOfMemoryError: Java heap space
 [03Jan2025 07:14:00.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
 [03Jan2025 07:36:38.073] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
 [03Jan2025 07:38:14.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Survival Mode]
+[03Jan2025 07:40:43.723] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/138, l='ServerLevel[world]', x=-401.50, y=-256.00, z=779.50, removed=DISCARDED]
+[03Jan2025 07:48:33.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sushint: Set own game mode to Creative Mode]
